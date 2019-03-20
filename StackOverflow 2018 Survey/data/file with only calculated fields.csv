@@ -1,0 +1,2342 @@
+﻿NUMFRAMEWORKS,NUMPLATFORM,NUMDATABASE,numberlang,FormalEducation,UndergradMajor,CompanySize,YearsCodingProf,ConvertedSalary,HoursComputer,Gender,RaceEthnicity,Age,SalaryRange
+,,4,6,1,,15,19,75000,8,Non-Male,White or of European descent,50,2
+1,1,1,9,3,STEM,60,7,80000,8,Male,White or of European descent,30,3
+3,1,6,5,4,STEM,20000,7,120000,12,Male,White or of European descent,30,4
+,4,4,4,3,NON-STEM,3000,4,70000,12,Male,White or of European descent,30,2
+1,1,2,8,4,,7500,1,60000,8,Male,Black or of African descent,40,2
+,4,3,8,3,STEM,60,4,60000,12,Male,East Asian,21,2
+,7,6,4,4,STEM,20000,7,140000,12,Male,White or of European descent,30,4
+2,2,6,7,3,STEM,300,19,185000,12,Male,White or of European descent,40,5
+2,4,6,7,4,NON-STEM,60,4,125000,12,Male,East Asian,30,4
+,1,2,7,3,STEM,5,4,25000,12,Male,White or of European descent,30,1
+1,7,3,10,1,STEM,3000,13,155000,12,Male,White or of European descent,30,5
+1,1,2,7,4,STEM,300,10,113000,8,Non-Male,White or of European descent,40,4
+2,,5,3,3,STEM,300,1,127000,8,Non-Male,East Asian,21,4
+,1,2,7,1,NON-STEM,750,19,110000,12,Male,Hispanic or Latino/Latina,40,4
+2,4,4,6,4,STEM,15,16,96000,8,Male,White or of European descent,40,3
+1,3,4,9,3,STEM,60,7,94600,12,Male,White or of European descent,30,3
+2,3,3,6,4,STEM,15,4,80000,12,Male,Other,30,3
+,1,3,5,3,STEM,3000,25,90000,12,Male,White or of European descent,50,3
+1,2,4,8,1,STEM,60,19,112000,14,Male,White or of European descent,40,4
+3,6,1,8,1,STEM,300,22,78000,12,Male,White or of European descent,40,3
+2,,3,6,3,STEM,3000,10,75000,12,Male,White or of European descent,30,2
+2,3,3,9,4,STEM,60,4,53000,8,Male,White or of European descent,30,2
+,1,1,4,4,STEM,3000,16,110000,12,Male,White or of European descent,50,4
+,,,3,3,STEM,7500,16,200000,12,Male,Other,40,5
+4,2,4,7,3,STEM,750,7,83000,8,Male,White or of European descent,30,3
+1,4,7,7,1,NON-STEM,300,10,72000,12,Male,White or of European descent,30,2
+,,1,6,2,STEM,3000,1,96000,14,Male,White or of European descent,30,3
+2,6,6,7,3,STEM,20000,1,60000,12,Male,White or of European descent,21,2
+,1,1,3,3,STEM,300,1,52000,8,,,,2
+2,,1,5,3,NON-STEM,300,1,57000,12,Male,White or of European descent,30,2
+3,2,2,6,1,,60,30,92000,14,Male,White or of European descent,50,3
+4,6,10,16,3,STEM,300,30,140000,14,Male,White or of European descent,50,4
+3,3,6,7,1,NON-STEM,60,10,78000,12,Male,White or of European descent,30,3
+3,2,4,5,3,STEM,20000,7,130000,14,Male,White or of European descent,40,4
+,2,1,4,3,STEM,60,4,60000,12,Male,White or of European descent,30,2
+,3,4,9,4,STEM,20000,30,160000,8,Male,White or of European descent,50,5
+2,7,1,10,1,NON-STEM,60,22,130000,12,Male,White or of European descent,40,4
+,,1,1,4,NON-STEM,3000,7,120000,12,Male,White or of European descent,40,4
+,2,1,6,3,STEM,60,4,60000,12,,,,2
+,2,1,4,3,NON-STEM,300,4,54000,12,Male,White or of European descent,30,2
+3,,3,8,3,STEM,20000,10,102000,14,,White or of European descent,30,4
+4,4,4,10,4,NON-STEM,20000,13,130000,12,,,,4
+3,8,8,10,1,NON-STEM,750,4,95000,12,Male,White or of European descent,30,3
+,3,4,11,3,NON-STEM,20000,10,140000,8,Male,Hispanic or Latino/Latina,30,4
+,1,1,5,4,STEM,60,10,93000,12,Male,White or of European descent,30,3
+1,1,1,8,1,STEM,300,10,110000,8,Male,White or of European descent,30,4
+,3,2,4,3,NON-STEM,300,1,80000,8,Male,White or of European descent,30,3
+1,1,2,5,3,STEM,750,19,120000,12,Male,White or of European descent,40,4
+,1,1,7,3,STEM,750,1,65000,12,Male,White or of European descent,30,2
+1,2,2,8,3,STEM,20000,7,79899,12,Male,Black or of African descent,30,3
+4,,4,14,4,STEM,20000,1,115000,12,Non-Male,Other,21,4
+,3,6,7,3,STEM,300,19,83000,12,Male,White or of European descent,40,3
+2,2,2,7,4,STEM,5,4,71250,12,Male,White or of European descent,30,2
+1,,3,7,3,STEM,60,13,58000,12,Male,White or of European descent,40,2
+6,4,4,8,3,,20000,1,75000,8,Male,White or of European descent,30,2
+2,5,2,9,4,STEM,3000,13,110000,12,Male,White or of European descent,40,4
+,1,,6,4,STEM,20000,4,149000,12,Male,White or of European descent,30,4
+,,1,6,3,STEM,750,10,75000,12,Male,Other,30,2
+3,5,4,7,4,STEM,15,25,140000,8,Male,White or of European descent,50,4
+2,1,5,8,3,STEM,60,22,148000,12,Male,White or of European descent,40,4
+5,4,8,10,,,20000,13,150000,12,Male,Other,40,4
+,1,3,4,4,STEM,15,1,57000,12,Male,White or of European descent,30,2
+,1,4,6,1,STEM,60,22,92000,12,Non-Male,White or of European descent,50,3
+2,1,4,6,3,STEM,300,7,137000,14,Male,White or of European descent,30,4
+3,3,6,9,4,STEM,3000,25,150000,12,Male,White or of European descent,40,4
+1,2,6,10,3,STEM,3000,4,100000,14,Male,White or of European descent,30,3
+,1,2,5,1,NON-STEM,15,28,106000,12,Male,White or of European descent,50,4
+5,9,8,13,4,STEM,3000,4,135000,12,Male,White or of European descent,30,4
+2,1,2,5,3,STEM,20000,13,115000,12,Male,White or of European descent,30,4
+1,3,,6,4,STEM,750,7,125000,12,Male,White or of European descent,30,4
+1,3,1,7,1,,750,10,64084,8,Male,White or of European descent,40,2
+,3,5,4,4,NON-STEM,3000,7,117600,8,Male,White or of European descent,30,4
+1,,1,7,3,STEM,7500,4,55560,12,Male,Hispanic or Latino/Latina,21,2
+3,2,5,12,4,STEM,3000,4,80000,14,Male,White or of European descent,30,3
+2,2,3,7,3,STEM,3000,4,92000,8,Male,White or of European descent,30,3
+1,2,2,7,2,STEM,3000,1,27050,12,Male,White or of European descent,30,1
+,1,1,6,3,STEM,15,7,98000,8,Male,White or of European descent,40,3
+1,1,1,6,3,STEM,15,1,75000,12,Male,White or of European descent,21,2
+1,5,1,12,1,STEM,5,7,100000,12,Male,White or of European descent,40,3
+2,4,3,7,4,STEM,60,19,89000,12,Male,White or of European descent,30,3
+2,3,3,8,2,NON-STEM,300,10,52000,12,Male,White or of European descent,30,2
+2,2,4,9,3,STEM,20000,4,52000,8,Male,White or of European descent,30,2
+3,3,8,19,1,,300,13,135000,14,Male,White or of European descent,30,4
+4,6,5,8,3,STEM,15,7,95000,12,Male,,30,3
+1,1,,9,4,STEM,20000,10,145000,8,Male,Other,40,4
+2,6,3,3,3,STEM,750,19,165000,8,Non-Male,White or of European descent,40,5
+,3,1,8,3,STEM,7500,30,120000,12,Male,White or of European descent,60,4
+3,1,4,7,3,STEM,7500,1,70000,8,Male,White or of European descent,21,2
+,3,3,6,4,NON-STEM,300,25,165000,12,Male,White or of European descent,50,5
+,1,1,5,3,STEM,3000,28,90000,8,Male,White or of European descent,50,3
+1,,4,2,4,STEM,20000,22,137000,8,Male,White or of European descent,60,4
+1,8,5,15,3,STEM,3000,4,79000,12,Male,White or of European descent,30,3
+1,4,,6,4,STEM,60,19,200000,12,Male,White or of European descent,50,5
+,2,3,4,3,STEM,300,16,92000,12,Male,White or of European descent,40,3
+1,5,2,1,3,STEM,300,4,200000,12,Male,White or of European descent,40,5
+3,3,5,9,4,,20000,10,140000,8,Male,White or of European descent,30,4
+,2,4,6,4,STEM,750,7,150000,12,Male,White or of European descent,30,4
+,,2,3,3,STEM,3000,1,60000,12,Male,White or of European descent,30,2
+,,,,4,STEM,3000,25,105000,,,,,4
+,4,4,6,2,STEM,300,4,112000,12,Male,White or of European descent,30,4
+3,4,5,9,3,STEM,750,13,125000,8,Male,White or of European descent,30,4
+1,1,3,9,3,STEM,20000,4,47000,8,,,,1
+2,1,1,8,3,NON-STEM,3000,7,54000,12,Male,White or of European descent,30,2
+4,2,4,8,4,STEM,60,30,180000,12,Male,White or of European descent,60,5
+,,,4,4,NON-STEM,60,1,48000,12,Non-Male,White or of European descent,30,1
+1,3,2,9,3,STEM,20000,7,100000,8,Male,White or of European descent,30,3
+,6,3,13,4,STEM,3000,13,145000,12,Male,White or of European descent,40,4
+,1,1,4,2,STEM,15,1,50000,12,Male,Hispanic or Latino/Latina,40,1
+2,6,2,7,1,STEM,20000,30,156000,14,Male,White or of European descent,50,5
+1,3,7,6,,,60,4,125000,12,Male,White or of European descent,30,4
+,,2,5,3,NON-STEM,20000,1,53000,12,Male,Other,21,2
+,,1,4,4,STEM,3000,10,135000,8,Male,White or of European descent,40,4
+,2,1,7,4,NON-STEM,20000,4,90000,8,Male,White or of European descent,30,3
+3,3,5,12,3,NON-STEM,60,4,80000,12,Male,White or of European descent,30,3
+,2,2,8,4,STEM,60,10,125000,8,Male,White or of European descent,30,4
+1,2,1,4,4,STEM,20000,22,160000,8,Male,Hispanic or Latino/Latina,50,5
+,,1,3,4,NON-STEM,750,1,102500,12,Non-Male,White or of European descent,30,4
+4,3,5,6,4,STEM,60,4,85000,12,Male,,30,3
+2,3,2,6,3,STEM,20000,1,78000,8,Male,White or of European descent,30,3
+1,6,4,8,3,STEM,3000,10,130000,12,Male,White or of European descent,30,4
+1,,1,7,3,STEM,300,4,50700,12,Male,Hispanic or Latino/Latina,30,2
+5,5,2,12,3,STEM,3000,7,95000,12,,,,3
+1,2,2,5,4,STEM,60,7,140000,8,Non-Male,Hispanic or Latino/Latina,30,4
+2,6,7,7,4,NON-STEM,60,10,175000,12,Male,White or of European descent,30,5
+3,,,5,3,STEM,60,13,85000,8,Male,White or of European descent,30,3
+5,3,5,12,3,STEM,60,7,120000,14,Male,Other,30,4
+1,2,2,5,4,STEM,3000,19,152000,12,Male,White or of European descent,40,5
+2,4,7,8,1,NON-STEM,5,4,58241,8,Non-Male,White or of European descent,30,2
+2,7,3,13,4,NON-STEM,300,19,100000,12,Male,White or of European descent,50,3
+,4,6,7,1,STEM,60,16,85000,14,Male,White or of European descent,40,3
+,2,4,5,3,STEM,20000,16,152000,12,Male,White or of European descent,40,5
+1,,2,2,3,STEM,3000,10,100500,8,Male,White or of European descent,30,4
+2,6,4,5,3,STEM,300,16,155000,12,Male,Hispanic or Latino/Latina,40,5
+3,2,4,17,3,NON-STEM,3000,7,144500,12,Non-Male,White or of European descent,30,4
+1,1,2,5,4,STEM,60,10,140000,12,Male,White or of European descent,30,4
+2,6,1,6,3,STEM,750,7,142000,12,Male,White or of European descent,30,4
+,2,6,9,4,NON-STEM,3000,7,100000,8,Male,,30,3
+1,3,2,8,3,STEM,15,25,150000,14,Male,White or of European descent,60,4
+3,10,5,6,1,STEM,60,7,75000,12,Male,White or of European descent,40,2
+3,4,6,8,3,STEM,3000,16,100000,14,Male,White or of European descent,40,3
+,3,1,7,3,STEM,5,30,170000,14,Male,White or of European descent,60,5
+2,2,3,7,3,STEM,60,7,125000,12,Male,White or of European descent,30,4
+,1,,7,3,STEM,5,10,60000,8,Male,White or of European descent,30,2
+1,3,2,6,4,STEM,60,7,120000,14,Non-Male,White or of European descent,30,4
+,1,2,2,4,STEM,60,1,85000,12,Male,White or of European descent,21,3
+2,5,5,8,4,STEM,20000,19,163000,12,Male,White or of European descent,40,5
+2,3,3,5,3,STEM,750,1,45000,8,Male,White or of European descent,30,1
+2,1,2,6,2,NON-STEM,15,1,32000,12,,,,1
+2,1,1,6,4,NON-STEM,20000,4,60000,12,Male,White or of European descent,30,2
+1,1,4,6,4,STEM,300,16,115000,14,Male,White or of European descent,30,4
+1,2,1,8,3,STEM,5,19,85000,,,,,3
+,,2,7,3,STEM,5,1,65000,12,Male,White or of European descent,21,2
+2,2,3,5,4,STEM,20000,4,137000,8,Male,,30,4
+1,1,1,10,1,STEM,20000,19,100000,14,Male,White or of European descent,50,3
+1,3,2,9,1,STEM,15,19,95000,12,Male,White or of European descent,40,3
+1,,1,4,3,,300,10,125000,14,Male,White or of European descent,40,4
+3,5,3,8,4,STEM,20000,4,106000,12,Male,White or of European descent,30,4
+,,2,7,3,STEM,3000,1,55000,8,Male,White or of European descent,21,2
+4,2,2,7,4,STEM,60,4,80000,12,Male,East Asian,30,3
+1,,2,2,3,STEM,750,10,70000,12,Male,East Asian,40,2
+,2,2,6,4,NON-STEM,3000,1,60060,8,Non-Male,White or of European descent,30,2
+1,,2,6,3,STEM,20000,10,128000,12,Male,White or of European descent,40,4
+,4,3,3,4,STEM,20000,19,95000,8,Male,White or of European descent,65,3
+,1,2,9,3,STEM,20000,19,125000,12,Male,White or of European descent,60,4
+3,1,6,8,4,STEM,5,4,44000,12,Male,White or of European descent,40,1
+2,5,6,3,4,STEM,300,28,189000,12,Male,White or of European descent,60,5
+3,1,6,6,4,STEM,20000,7,158000,12,Male,White or of European descent,30,5
+,3,1,13,3,STEM,60,13,105000,8,Male,White or of European descent,30,4
+,5,2,7,1,STEM,750,19,120000,12,Male,,40,4
+,1,1,2,4,STEM,3000,10,90000,8,Male,White or of European descent,40,3
+2,1,3,7,4,STEM,20000,4,97500,12,Male,White or of European descent,30,3
+3,1,4,9,3,STEM,300,1,90000,12,Male,White or of European descent,30,3
+1,3,2,4,4,STEM,300,4,159600,12,Male,Hispanic or Latino/Latina,30,5
+4,4,3,19,3,STEM,300,10,40000,14,Male,White or of European descent,30,1
+,4,4,7,3,STEM,60,4,62000,12,Male,White or of European descent,30,2
+1,2,5,6,3,STEM,60,1,75000,14,Male,White or of European descent,21,2
+2,1,4,4,3,STEM,60,10,155000,12,Non-Male,White or of European descent,30,5
+,4,1,8,1,STEM,60,4,40000,12,Male,White or of European descent,30,1
+,,3,2,3,NON-STEM,300,25,153000,12,Male,White or of European descent,50,5
+4,,5,7,3,STEM,3000,7,115000,12,Male,Other,30,4
+,1,,4,3,STEM,60,1,72000,8,Male,White or of European descent,21,2
+,4,6,13,3,STEM,60,4,57600,14,Male,White or of European descent,21,2
+4,2,11,8,4,STEM,750,7,206000,4,,,30,6
+5,8,6,12,3,STEM,3000,13,130000,14,Male,White or of European descent,30,4
+,7,,8,3,STEM,20000,16,182000,12,Male,White or of European descent,40,5
+2,2,2,6,3,STEM,60,1,50000,12,Male,White or of European descent,21,1
+,1,3,7,4,NON-STEM,300,4,116000,12,Male,White or of European descent,30,4
+,,2,4,1,STEM,60,1,40000,12,Male,White or of European descent,21,1
+,7,1,8,3,STEM,300,7,190000,12,Male,East Asian,30,5
+2,2,4,8,4,STEM,300,10,70000,12,Male,White or of European descent,40,2
+,,2,5,3,STEM,15,1,28800,12,Male,White or of European descent,21,1
+4,2,3,7,1,STEM,15,4,45000,12,Male,White or of European descent,30,1
+2,,2,10,3,STEM,60,1,65000,12,Male,White or of European descent,21,2
+2,1,1,6,1,STEM,7500,7,58000,12,Male,White or of European descent,30,2
+,1,1,3,4,STEM,750,7,74000,8,Male,,50,2
+,2,2,7,1,STEM,5,7,70000,8,Male,White or of European descent,30,2
+,,1,3,4,STEM,60,4,120000,12,Male,White or of European descent,30,4
+,1,,3,4,STEM,60,4,100000,8,Male,White or of European descent,30,3
+1,3,5,6,1,NON-STEM,15,19,80000,12,Male,White or of European descent,40,3
+1,1,1,9,3,STEM,3000,1,60000,8,Male,East Asian,21,2
+3,6,5,14,3,STEM,3000,10,75000,12,Male,White or of European descent,30,2
+3,4,6,7,3,STEM,3000,10,220000,12,Non-Male,Other,40,6
+2,2,4,4,3,STEM,300,4,88000,14,Male,White or of European descent,30,3
+3,,2,6,3,STEM,750,30,92000,8,,,50,3
+,,4,6,3,STEM,3000,4,100000,12,Male,White or of European descent,30,3
+1,,2,5,3,STEM,15,4,75000,12,Male,White or of European descent,30,2
+1,1,2,6,1,NON-STEM,20000,30,130000,12,Male,White or of European descent,60,4
+,2,1,7,3,STEM,20000,10,90000,8,Male,White or of European descent,50,3
+2,3,1,6,4,NON-STEM,60,4,82000,12,Male,White or of European descent,40,3
+1,1,2,3,1,STEM,15,16,125000,12,Male,White or of European descent,60,4
+1,,2,9,4,NON-STEM,60,4,60000,12,Male,White or of European descent,30,2
+2,7,6,7,4,STEM,60,4,75000,12,Male,Hispanic or Latino/Latina,30,2
+1,4,4,17,1,STEM,60,7,40000,14,Male,White or of European descent,30,1
+,2,3,4,1,STEM,300,4,90000,8,Male,White or of European descent,21,3
+2,,2,4,4,NON-STEM,300,10,150000,8,Male,White or of European descent,40,4
+1,3,1,5,3,NON-STEM,5,7,52000,14,Male,White or of European descent,30,2
+1,3,6,5,3,,60,4,71000,12,Male,White or of European descent,40,2
+2,4,1,12,3,STEM,750,1,145000,8,Male,White or of European descent,21,4
+1,3,2,4,3,STEM,750,7,147000,12,Non-Male,Other,30,4
+1,1,2,5,4,STEM,60,19,145000,12,Male,White or of European descent,40,4
+3,2,,9,4,STEM,15,10,70000,12,Male,White or of European descent,30,2
+2,2,1,11,4,STEM,20000,7,103000,12,Male,Hispanic or Latino/Latina,30,4
+,4,2,9,3,STEM,5,7,78000,14,Male,Black or of African descent,40,3
+,,2,3,2,STEM,3000,22,117000,8,Male,White or of European descent,40,4
+,3,9,3,4,STEM,5,16,175000,12,Male,Other,40,5
+1,3,4,9,3,NON-STEM,60,4,90000,12,Male,White or of European descent,30,3
+,,4,4,3,,20000,7,65786,12,Male,White or of European descent,30,2
+1,,1,2,4,STEM,20000,4,80000,12,Male,Other,30,3
+1,3,1,8,3,STEM,15,1,61000,8,Male,White or of European descent,21,2
+4,1,3,6,3,STEM,60,4,55000,14,Male,White or of European descent,30,2
+,4,1,6,4,STEM,300,13,83000,12,Male,White or of European descent,40,3
+6,5,8,12,3,STEM,20000,4,80000,12,Male,White or of European descent,30,3
+,1,3,7,3,STEM,60,25,156000,8,Male,White or of European descent,50,5
+4,4,3,10,3,NON-STEM,3000,1,63000,12,Non-Male,Hispanic or Latino/Latina,30,2
+1,3,5,9,4,NON-STEM,300,10,80000,12,Male,White or of European descent,50,3
+2,3,2,5,3,NON-STEM,20000,28,112000,8,Male,White or of European descent,60,4
+4,3,6,8,3,STEM,300,1,80000,12,Male,White or of European descent,21,3
+2,2,3,9,4,STEM,300,16,135000,12,Male,White or of European descent,40,4
+1,2,2,7,3,STEM,750,4,70000,12,Male,,30,2
+2,1,3,7,1,STEM,15,7,75000,14,Male,White or of European descent,30,2
+,2,1,9,1,,750,1,29120,8,Male,White or of European descent,21,1
+,,1,4,2,STEM,750,16,60000,12,Male,White or of European descent,40,2
+3,3,3,11,2,STEM,300,7,72737,8,Male,White or of European descent,30,2
+,,,3,4,STEM,60,7,92000,8,Male,Other,30,3
+2,5,3,3,1,STEM,7500,16,92500,14,Non-Male,White or of European descent,40,3
+2,,1,7,4,STEM,20000,16,95000,8,Male,White or of European descent,40,3
+,1,2,2,4,NON-STEM,60,7,56000,8,Male,White or of European descent,30,2
+1,2,5,6,3,STEM,60,4,76000,12,Male,White or of European descent,21,3
+2,6,5,11,1,STEM,60,7,75000,14,Male,White or of European descent,30,2
+1,2,1,6,3,STEM,300,4,55000,12,Male,White or of European descent,30,2
+,4,4,9,3,STEM,5,4,50000,12,Male,White or of European descent,30,1
+,1,1,4,3,,60,4,116000,12,Male,White or of European descent,30,4
+1,2,2,11,4,STEM,750,4,46554,12,Male,Other,30,1
+1,3,1,6,4,STEM,20000,7,115000,8,Male,White or of European descent,30,4
+2,,1,4,2,STEM,20000,7,76000,8,Male,White or of European descent,40,3
+1,1,1,6,3,STEM,750,10,113022,12,Male,White or of European descent,40,4
+,2,,4,4,STEM,20000,30,147000,12,,,60,4
+3,7,7,8,3,STEM,3000,19,97000,14,Male,White or of European descent,40,3
+,3,3,11,1,,60,4,47500,12,Male,White or of European descent,30,1
+1,1,1,6,3,STEM,300,13,80000,12,Male,White or of European descent,40,3
+1,1,1,5,3,STEM,300,13,102000,8,Male,White or of European descent,30,4
+3,3,2,12,3,STEM,20000,16,100000,8,Male,White or of European descent,40,3
+4,4,,4,4,STEM,3000,16,200000,4,Male,White or of European descent,40,5
+3,6,3,7,3,STEM,15,7,54000,12,Male,White or of European descent,30,2
+,5,5,6,3,STEM,20000,16,215000,12,Male,White or of European descent,30,6
+3,,4,7,3,NON-STEM,3000,13,52000,12,Male,White or of European descent,40,2
+1,7,4,9,1,NON-STEM,60,19,100000,12,Male,White or of European descent,50,3
+4,4,1,10,3,STEM,300,10,80000,12,Male,White or of European descent,40,3
+,2,1,7,4,STEM,20000,4,70000,12,Male,White or of European descent,30,2
+2,3,3,7,1,STEM,15,7,57000,8,Male,White or of European descent,30,2
+2,7,4,7,1,NON-STEM,300,4,76600,8,Male,White or of European descent,30,3
+1,3,5,8,4,NON-STEM,20000,4,100000,8,Male,White or of European descent,30,3
+2,6,2,12,3,,5,13,95000,8,Male,White or of European descent,40,3
+3,10,7,5,1,STEM,750,7,85000,12,Male,White or of European descent,30,3
+,,3,7,3,STEM,20000,4,52000,12,Male,Other,30,2
+1,2,3,10,3,NON-STEM,60,19,135000,12,Male,White or of European descent,40,4
+2,4,5,8,4,NON-STEM,300,10,105000,12,Male,White or of European descent,30,4
+,1,,3,4,NON-STEM,7500,1,85000,8,Non-Male,White or of European descent,30,3
+1,,,6,3,STEM,20000,1,74000,14,Non-Male,White or of European descent,21,2
+2,1,2,2,4,NON-STEM,60,1,95000,12,Male,White or of European descent,50,3
+3,,2,6,3,NON-STEM,60,4,90000,8,Non-Male,White or of European descent,30,3
+1,,4,2,4,NON-STEM,20000,4,110000,8,Male,White or of European descent,30,4
+1,,2,7,3,STEM,20000,7,87000,12,Male,,30,3
+,3,,5,3,STEM,20000,1,80500,8,Male,White or of European descent,30,3
+1,2,1,8,4,STEM,3000,13,125000,12,Male,White or of European descent,40,4
+1,2,5,10,3,,20000,13,75000,14,Male,White or of European descent,40,2
+,6,3,6,3,STEM,20000,4,140000,8,Male,East Asian,50,4
+1,,3,6,1,STEM,300,4,90000,12,Male,White or of European descent,40,3
+2,2,2,5,3,STEM,60,1,55000,12,Male,White or of European descent,21,2
+3,3,5,7,4,STEM,300,7,110000,12,Male,Hispanic or Latino/Latina,40,4
+3,3,3,5,1,STEM,20000,25,75000,14,Male,,50,2
+1,5,3,7,1,STEM,5,7,100000,12,Male,White or of European descent,30,3
+,1,3,3,1,STEM,15,22,145000,12,Male,White or of European descent,40,4
+,,,8,3,STEM,60,1,50000,12,,,,1
+,1,1,4,4,STEM,750,10,100000,8,Male,White or of European descent,40,3
+6,11,12,12,2,STEM,60,28,150000,12,Male,White or of European descent,50,4
+1,1,1,6,3,STEM,3000,4,53000,12,Non-Male,Hispanic or Latino/Latina,30,2
+3,4,5,11,3,STEM,60,16,150000,12,Non-Male,White or of European descent,40,4
+,2,2,6,3,STEM,300,7,60000,8,Non-Male,White or of European descent,40,2
+1,1,2,5,4,STEM,300,10,145000,12,Male,White or of European descent,30,4
+2,5,6,7,3,,300,10,150000,8,Male,White or of European descent,40,4
+,1,2,7,3,STEM,3000,10,108200,8,Male,White or of European descent,30,4
+,,,2,4,STEM,300,4,45000,14,Male,White or of European descent,30,1
+3,6,4,8,4,STEM,7500,30,100000,12,Male,White or of European descent,60,3
+4,5,4,9,3,STEM,60,22,130000,12,Male,White or of European descent,50,4
+1,1,3,8,4,STEM,20000,7,130000,12,Male,Hispanic or Latino/Latina,30,4
+1,1,1,6,3,STEM,3000,13,97202,8,Male,White or of European descent,40,3
+2,4,6,8,3,STEM,60,7,135000,12,Male,White or of European descent,30,4
+1,1,1,10,3,STEM,750,7,73000,8,Male,White or of European descent,30,2
+,1,2,6,1,,750,4,80000,12,Male,White or of European descent,21,3
+,1,4,5,4,NON-STEM,60,1,80000,8,Male,White or of European descent,40,3
+1,5,8,11,1,STEM,300,16,200000,12,Male,White or of European descent,40,5
+2,3,3,9,3,STEM,20000,28,150000,8,Male,White or of European descent,50,4
+,4,2,7,4,NON-STEM,60,16,150000,12,Non-Male,White or of European descent,40,4
+3,4,4,7,1,STEM,15,4,58000,8,Male,White or of European descent,40,2
+2,1,2,5,1,NON-STEM,300,4,55000,12,Non-Male,White or of European descent,30,2
+5,7,3,10,1,,20000,1,62400,12,Male,White or of European descent,30,2
+1,2,1,4,4,STEM,60,10,140000,12,Male,White or of European descent,30,4
+,1,,1,4,STEM,20000,19,67000,8,Male,White or of European descent,40,2
+,2,1,7,3,STEM,750,4,95000,12,Male,White or of European descent,40,3
+6,5,8,11,1,STEM,5,16,130000,14,Male,White or of European descent,40,4
+,1,1,1,3,STEM,15,10,160000,12,Male,White or of European descent,40,5
+1,3,4,6,3,STEM,750,4,75000,8,Male,East Asian,30,2
+,2,1,7,3,STEM,7500,30,98000,8,Male,White or of European descent,50,3
+1,3,1,9,4,STEM,20000,4,90000,8,Male,Black or of African descent,30,3
+1,,4,4,4,NON-STEM,20000,4,150000,8,Male,White or of European descent,30,4
+,,1,6,1,NON-STEM,15,30,70000,8,Male,White or of European descent,60,2
+,1,1,3,4,,20000,7,110000,8,Male,White or of European descent,30,4
+,1,1,4,3,STEM,5,7,38000,14,Male,White or of European descent,30,1
+3,3,4,9,1,STEM,60,10,108000,12,Male,White or of European descent,30,4
+4,6,4,13,4,NON-STEM,3000,7,56000,8,Male,White or of European descent,40,2
+,1,4,9,3,NON-STEM,750,1,55000,,,,,2
+,1,2,2,3,STEM,300,4,48000,8,,,,1
+1,4,4,8,3,STEM,300,4,120000,12,Male,White or of European descent,30,4
+1,1,1,6,3,STEM,300,22,110000,8,Male,White or of European descent,50,4
+,1,1,9,3,STEM,7500,16,80000,8,Male,,40,3
+,3,1,8,3,STEM,7500,7,98000,8,Male,White or of European descent,40,3
+,,,2,3,STEM,3000,4,150000,14,Male,White or of European descent,30,4
+3,6,5,14,4,STEM,15,7,225000,12,Male,White or of European descent,30,6
+2,3,2,9,4,STEM,3000,13,122000,8,Male,White or of European descent,40,4
+4,2,4,7,3,STEM,300,4,120000,12,Male,White or of European descent,30,4
+,,2,5,3,STEM,60,4,52000,12,Male,White or of European descent,30,2
+,,1,1,4,STEM,60,19,117000,8,Male,White or of European descent,40,4
+,,2,5,4,STEM,7500,19,115000,8,Male,White or of European descent,50,4
+,1,1,5,3,NON-STEM,20000,19,102000,12,Male,White or of European descent,50,4
+1,2,,3,4,STEM,20000,19,113000,8,Male,White or of European descent,40,4
+3,2,4,6,2,STEM,300,10,56000,12,Male,White or of European descent,30,2
+,1,1,4,4,STEM,20000,10,80527,12,Non-Male,Other,30,3
+3,6,6,22,1,STEM,5,10,70000,12,Male,White or of European descent,30,2
+2,1,5,6,1,,60,13,84000,8,Male,White or of European descent,30,3
+1,,4,7,1,STEM,20000,1,74500,12,Male,Other,30,2
+2,3,8,4,3,STEM,60,22,160000,8,Male,White or of European descent,50,5
+1,,3,7,1,NON-STEM,300,7,65000,8,Male,White or of European descent,40,2
+5,8,6,11,4,STEM,60,13,150000,12,Male,White or of European descent,40,4
+,2,4,8,3,STEM,15,19,80000,12,Male,Black or of African descent,40,3
+,,,,3,STEM,300,7,98000,14,,,,3
+1,2,2,7,3,STEM,5,16,86500,12,Male,White or of European descent,40,3
+1,1,1,7,4,STEM,60,10,125000,14,Male,White or of European descent,30,4
+4,5,6,7,3,STEM,15,4,115000,8,Male,White or of European descent,30,4
+2,2,2,9,1,,5,16,100000,12,Male,White or of European descent,40,3
+3,1,10,18,1,STEM,60,19,155000,12,Male,Hispanic or Latino/Latina,40,5
+4,2,2,10,3,STEM,20000,4,130000,14,Male,White or of European descent,21,4
+1,2,2,10,4,STEM,7500,1,75000,8,Non-Male,White or of European descent,21,2
+2,1,3,5,3,NON-STEM,60,1,50000,12,Male,White or of European descent,30,1
+2,3,3,9,3,STEM,300,7,150000,12,Male,White or of European descent,30,4
+,3,2,4,4,STEM,20000,30,122000,14,Male,White or of European descent,50,4
+2,1,2,6,4,STEM,15,13,125000,12,Male,White or of European descent,30,4
+,,5,9,4,STEM,20000,4,78300,8,Male,White or of European descent,30,3
+2,3,7,6,2,NON-STEM,20000,7,63000,14,Male,White or of European descent,30,2
+1,5,12,9,3,STEM,60,10,160000,12,Male,East Asian,30,5
+3,1,1,4,4,STEM,7500,10,105000,12,Male,White or of European descent,30,4
+3,1,5,10,3,STEM,300,4,57500,12,Male,White or of European descent,21,2
+1,,,4,4,STEM,20000,7,60000,8,Male,White or of European descent,30,2
+1,2,4,6,3,STEM,60,4,80000,12,Male,White or of European descent,30,3
+2,2,3,6,3,STEM,20000,28,200000,8,Male,Hispanic or Latino/Latina,50,5
+,1,3,2,3,NON-STEM,3000,13,100000,8,Male,White or of European descent,50,3
+1,4,3,5,1,STEM,60,10,85000,8,Male,Hispanic or Latino/Latina,30,3
+2,5,5,7,3,STEM,750,16,72696,12,Male,White or of European descent,40,2
+,,,2,4,NON-STEM,60,7,125000,14,Non-Male,East Asian,30,4
+,,1,4,1,NON-STEM,15,7,98000,12,Male,White or of European descent,40,3
+2,1,1,6,1,,5,1,50000,8,Male,Other,40,1
+1,3,5,7,3,STEM,300,22,138000,14,Male,White or of European descent,50,4
+,1,1,4,3,STEM,3000,7,51000,8,Male,White or of European descent,40,2
+3,5,6,6,3,STEM,20000,4,79000,12,Male,White or of European descent,40,3
+1,2,3,5,3,STEM,3000,4,83000,12,Male,White or of European descent,50,3
+2,5,3,10,3,STEM,300,1,29000,12,Male,White or of European descent,21,1
+1,,6,6,3,STEM,60,13,110000,12,Male,White or of European descent,30,4
+1,3,2,13,3,STEM,7500,10,53000,12,Male,,40,2
+1,5,4,5,3,STEM,60,7,52000,12,Male,White or of European descent,30,2
+4,2,6,8,3,STEM,300,4,92000,8,Male,White or of European descent,30,3
+2,8,4,12,3,STEM,300,7,78000,12,Male,White or of European descent,30,3
+1,3,2,6,3,NON-STEM,5,4,55000,12,Male,White or of European descent,21,2
+1,1,2,6,3,STEM,3000,13,102000,12,Male,White or of European descent,30,4
+1,,1,2,4,NON-STEM,20000,4,132000,8,Non-Male,White or of European descent,30,4
+1,,3,4,4,STEM,300,1,88000,8,Male,White or of European descent,30,3
+,2,1,8,4,STEM,20000,4,89200,8,Male,White or of European descent,30,3
+1,2,1,3,4,STEM,3000,7,103000,8,Male,White or of European descent,30,4
+3,1,3,8,3,STEM,60,1,70000,8,Male,White or of European descent,21,2
+1,4,,6,1,NON-STEM,60,1,67000,14,,,,2
+1,,4,6,3,NON-STEM,300,25,73000,8,Male,White or of European descent,50,2
+1,1,1,2,1,NON-STEM,60,16,160000,12,Male,White or of European descent,40,5
+3,5,5,14,3,STEM,15,13,170000,12,Male,,40,5
+3,2,2,7,3,STEM,60,4,85000,14,Male,White or of European descent,30,3
+1,1,,4,3,STEM,60,10,180000,8,Male,White or of European descent,40,5
+3,1,2,6,3,STEM,750,7,80000,12,Male,White or of European descent,30,3
+1,3,2,11,3,STEM,60,4,90000,12,Male,White or of European descent,21,3
+4,8,3,10,3,,60,4,63000,12,Male,White or of European descent,21,2
+,,,,1,STEM,60,4,80000,12,,,,3
+1,1,1,3,3,STEM,3000,7,77000,12,Male,White or of European descent,30,3
+1,5,3,10,3,STEM,300,16,146000,12,Male,White or of European descent,40,4
+1,2,3,7,3,,60,7,65405,8,Male,White or of European descent,40,2
+3,4,4,12,3,STEM,20000,10,156000,12,Male,White or of European descent,30,5
+1,3,1,14,3,STEM,300,25,160000,14,Male,White or of European descent,40,5
+,4,3,10,4,STEM,20000,7,172000,12,Male,White or of European descent,30,5
+1,1,1,6,3,STEM,3000,10,93000,8,Male,Other,40,3
+1,3,7,10,3,STEM,5,13,130000,12,Male,White or of European descent,40,4
+4,4,2,7,2,STEM,750,22,105000,12,Male,White or of European descent,50,4
+,3,3,5,4,STEM,300,16,140000,8,Male,White or of European descent,40,4
+3,5,4,9,2,STEM,750,10,112000,12,Male,White or of European descent,30,4
+4,4,7,13,3,STEM,300,4,102000,12,Male,White or of European descent,21,4
+2,,3,8,1,STEM,5,10,96000,12,Male,White or of European descent,30,3
+1,1,3,6,1,STEM,300,7,66000,8,Male,White or of European descent,30,2
+,,1,2,4,STEM,300,1,70000,8,Non-Male,White or of European descent,40,2
+,5,1,4,3,STEM,7500,7,75000,12,Male,White or of European descent,30,2
+4,3,2,6,4,STEM,20000,4,113000,4,Male,Other,30,4
+3,4,7,9,3,STEM,750,13,55000,12,Male,White or of European descent,40,2
+3,2,5,16,4,STEM,20000,13,140000,12,Male,Other,40,4
+2,5,3,12,4,STEM,60,4,58000,12,Male,White or of European descent,30,2
+1,,2,6,4,STEM,60,4,68000,12,Male,Other,30,2
+1,2,3,3,3,STEM,15,4,90000,12,Non-Male,White or of European descent,30,3
+3,7,5,9,1,STEM,3000,7,175000,12,Male,White or of European descent,30,5
+1,1,5,6,3,STEM,3000,7,99000,8,Male,White or of European descent,30,3
+1,3,5,7,2,NON-STEM,20000,4,111000,12,Male,White or of European descent,30,4
+1,2,2,5,1,STEM,60,25,168000,8,Male,White or of European descent,50,5
+2,1,2,7,1,STEM,60,19,123000,14,Male,White or of European descent,40,4
+,,2,4,3,NON-STEM,3000,4,53000,12,Male,White or of European descent,30,2
+2,8,14,13,3,NON-STEM,3000,22,160000,12,Male,White or of European descent,60,5
+2,2,3,8,1,STEM,5,4,65000,12,Male,White or of European descent,30,2
+2,,2,2,3,,60,1,52000,8,Male,White or of European descent,30,2
+3,15,6,9,1,NON-STEM,60,19,165000,12,Male,Hispanic or Latino/Latina,40,5
+1,1,2,7,3,STEM,15,7,49000,12,Male,White or of European descent,21,1
+,,1,2,4,NON-STEM,300,19,116000,12,,,50,4
+,1,4,4,4,STEM,15,4,105000,12,Male,White or of European descent,30,4
+4,6,4,10,3,STEM,15,7,75000,12,Male,White or of European descent,30,2
+4,8,11,15,3,STEM,60,7,96000,12,Male,White or of European descent,30,3
+5,9,4,10,3,STEM,15,19,85000,12,Male,White or of European descent,40,3
+1,1,1,9,3,STEM,3000,4,66300,14,Male,White or of European descent,21,2
+1,1,,8,3,STEM,3000,4,105000,12,Male,White or of European descent,30,4
+1,4,3,8,3,NON-STEM,60,10,75000,8,Male,White or of European descent,40,2
+,1,2,6,3,,60,30,120000,8,Male,White or of European descent,50,4
+1,6,5,12,3,STEM,300,1,64000,12,Male,White or of European descent,21,2
+,,,1,4,STEM,750,13,107228,8,Male,White or of European descent,40,4
+1,,1,4,3,STEM,300,7,75000,12,Male,White or of European descent,40,2
+3,7,3,11,1,,60,4,33000,12,,White or of European descent,21,1
+1,,1,6,3,NON-STEM,7500,4,98000,12,Male,White or of European descent,30,3
+2,1,1,7,1,STEM,5,4,85000,8,Male,White or of European descent,30,3
+3,4,2,9,4,STEM,300,13,170000,8,Male,White or of European descent,40,5
+1,4,1,7,3,STEM,15,4,54000,8,Male,White or of European descent,30,2
+,2,2,9,3,STEM,3000,22,125000,8,Male,Other,50,4
+3,2,2,9,3,STEM,15,13,115000,8,Male,White or of European descent,40,4
+3,6,6,13,2,STEM,60,4,60000,14,Male,East Asian,30,2
+2,3,1,10,3,STEM,20000,1,103000,8,Male,White or of European descent,21,4
+,1,1,2,1,STEM,3000,22,85000,12,Male,White or of European descent,40,3
+1,1,2,6,3,STEM,300,1,48000,12,Male,White or of European descent,21,1
+2,4,3,6,3,STEM,300,10,110000,8,Male,White or of European descent,30,4
+1,2,2,5,3,NON-STEM,60,7,116000,14,Male,White or of European descent,30,4
+,1,1,2,3,STEM,5,1,42500,12,Male,White or of European descent,21,1
+,,2,3,3,STEM,20000,25,84000,12,,,50,3
+,1,2,6,3,STEM,3000,4,72000,12,Male,White or of European descent,30,2
+2,,1,3,3,STEM,5,1,36000,12,Male,White or of European descent,21,1
+2,5,3,6,1,STEM,60,4,57000,14,Male,White or of European descent,30,2
+,,1,4,4,STEM,300,1,70000,8,Male,East Asian,30,2
+,1,1,6,3,STEM,3000,1,73500,12,Male,White or of European descent,30,2
+2,3,2,9,1,STEM,300,10,90000,8,Male,White or of European descent,40,3
+,,2,1,3,,3000,30,102000,8,Male,White or of European descent,65,4
+2,3,6,6,3,STEM,20000,10,110000,12,Male,East Asian,30,4
+1,2,6,7,3,STEM,3000,16,87000,12,Male,White or of European descent,40,3
+1,3,4,7,4,NON-STEM,20000,13,90000,12,Male,White or of European descent,40,3
+,,1,8,1,STEM,20000,4,57000,,,,,2
+2,1,2,8,3,STEM,60,4,75000,12,Male,White or of European descent,30,2
+3,1,2,7,4,STEM,15,10,97000,12,Male,White or of European descent,30,3
+,2,1,5,3,STEM,300,4,60000,14,Male,White or of European descent,21,2
+3,2,7,10,3,,60,16,143000,12,Male,,40,4
+2,2,3,6,3,STEM,60,1,70000,12,Non-Male,White or of European descent,21,2
+,,,2,4,STEM,750,10,160000,,Male,East Asian,50,5
+1,1,4,6,3,STEM,20000,4,100000,12,Male,White or of European descent,30,3
+2,1,2,2,3,STEM,300,10,130000,8,Non-Male,White or of European descent,30,4
+1,3,1,11,3,STEM,15,4,65000,8,Male,White or of European descent,30,2
+,4,,4,4,STEM,60,7,105000,8,Male,White or of European descent,40,4
+4,3,6,7,1,,20000,16,120000,14,Male,Hispanic or Latino/Latina,40,4
+2,6,5,10,3,STEM,20000,19,132000,8,Male,White or of European descent,40,4
+1,2,3,8,1,NON-STEM,5,10,127500,8,Male,White or of European descent,40,4
+2,2,1,9,3,STEM,20000,1,75000,8,Male,Other,21,2
+5,4,8,12,1,STEM,3000,22,130000,12,Male,White or of European descent,40,4
+,,5,5,4,,20000,19,78000,12,Male,White or of European descent,60,3
+,3,,9,3,STEM,750,30,95000,12,Male,White or of European descent,60,3
+1,3,2,5,3,STEM,20000,7,147000,12,Male,White or of European descent,30,4
+,1,,1,4,STEM,20000,1,100000,12,Male,Other,,3
+,1,3,3,1,NON-STEM,20000,19,65000,14,Male,White or of European descent,50,2
+4,2,2,9,3,NON-STEM,750,7,160000,12,Male,White or of European descent,40,5
+2,1,1,6,3,STEM,300,22,127000,12,Male,White or of European descent,40,4
+4,8,5,8,4,NON-STEM,750,1,60000,12,Male,White or of European descent,30,2
+1,3,2,10,3,STEM,300,4,67500,8,Non-Male,Black or of African descent,21,2
+1,2,2,7,3,STEM,3000,7,70000,12,Male,White or of European descent,40,2
+3,3,5,12,3,NON-STEM,300,4,85000,12,Male,White or of European descent,40,3
+1,1,,2,3,STEM,60,1,91000,14,Male,White or of European descent,21,3
+4,3,6,9,3,STEM,750,4,57000,14,Male,White or of European descent,21,2
+2,1,7,8,3,STEM,5,13,104000,8,Male,White or of European descent,30,4
+,3,2,6,3,STEM,3000,16,112000,14,Male,White or of European descent,40,4
+,1,1,6,4,STEM,3000,7,170000,8,Male,White or of European descent,30,5
+,2,,5,4,NON-STEM,15,1,60000,8,Male,White or of European descent,30,2
+2,1,2,4,3,STEM,750,13,84000,12,,,30,3
+1,1,1,3,3,NON-STEM,3000,28,125000,12,Male,White or of European descent,50,4
+1,4,1,7,4,STEM,5,1,65000,12,Male,White or of European descent,30,2
+,,5,6,3,NON-STEM,300,4,85000,8,Male,Black or of African descent,40,3
+5,3,6,6,3,STEM,300,4,115000,8,Male,Hispanic or Latino/Latina,30,4
+,1,3,6,4,STEM,300,25,93000,12,Non-Male,White or of European descent,50,3
+3,3,4,9,4,STEM,5,4,90000,12,Male,White or of European descent,30,3
+,,,2,4,STEM,20000,1,60000,8,Male,East Asian,40,2
+2,4,2,9,3,STEM,60,13,125000,12,Male,White or of European descent,30,4
+3,,4,4,4,NON-STEM,3000,4,125000,12,Male,Hispanic or Latino/Latina,30,4
+2,7,1,8,1,STEM,300,22,105000,4,Male,White or of European descent,40,4
+1,3,2,12,3,STEM,20000,1,85000,12,Male,Hispanic or Latino/Latina,30,3
+1,5,5,8,4,STEM,60,7,155000,8,Male,White or of European descent,40,5
+3,,4,8,3,STEM,3000,4,68000,12,Male,White or of European descent,21,2
+3,4,1,6,1,STEM,60,25,114000,12,Male,Black or of African descent,50,4
+,,1,6,4,STEM,60,1,120000,12,Non-Male,White or of European descent,30,4
+3,3,8,9,4,STEM,300,7,87000,12,Male,Other,30,3
+,,1,3,4,NON-STEM,300,4,90000,12,Male,White or of European descent,30,3
+5,,2,8,3,STEM,3000,7,85000,14,Male,White or of European descent,40,3
+,1,1,4,3,STEM,20000,10,110000,12,Male,White or of European descent,30,4
+4,5,5,13,1,STEM,5,1,50000,8,Male,White or of European descent,21,1
+,,1,1,3,STEM,300,1,61250,8,Male,Hispanic or Latino/Latina,21,2
+,1,5,8,1,,3000,7,77760,14,Male,White or of European descent,40,3
+2,2,11,10,4,STEM,3000,4,110000,12,Male,White or of European descent,30,4
+,,1,5,4,STEM,60,4,50000,12,Non-Male,White or of European descent,40,1
+1,5,5,7,4,NON-STEM,300,4,110000,12,Male,White or of European descent,30,4
+2,4,7,9,1,,7500,7,130000,12,Male,White or of European descent,30,4
+,,,2,4,STEM,60,7,103000,12,Male,White or of European descent,30,4
+3,1,5,13,4,STEM,750,4,120000,12,Male,White or of European descent,30,4
+1,,3,4,4,NON-STEM,7500,4,97500,8,Male,White or of European descent,30,3
+,2,2,5,3,STEM,300,7,93000,8,Male,White or of European descent,30,3
+5,4,6,8,3,STEM,5,7,110000,8,Male,White or of European descent,30,4
+3,8,4,11,2,NON-STEM,15,16,100000,12,Male,White or of European descent,40,3
+6,3,7,9,,,15,4,86500,14,Male,Hispanic or Latino/Latina,30,3
+,3,2,6,1,STEM,300,13,126000,12,Male,White or of European descent,30,4
+1,1,3,6,3,STEM,3000,1,55000,12,Non-Male,White or of European descent,30,2
+2,5,3,10,3,STEM,15,7,40000,12,Male,White or of European descent,30,1
+1,2,,5,4,STEM,60,10,150000,8,,,40,4
+1,1,1,6,4,NON-STEM,7500,13,56000,12,Non-Male,White or of European descent,40,2
+1,1,3,5,4,STEM,20000,13,135000,8,Male,East Asian,,4
+,,2,9,4,NON-STEM,5,4,75500,12,Male,White or of European descent,40,3
+4,4,4,11,4,STEM,60,10,120000,14,Male,White or of European descent,30,4
+2,4,2,7,1,NON-STEM,300,25,55000,8,Male,White or of European descent,50,2
+5,3,5,6,3,STEM,20000,1,85000,12,Male,Hispanic or Latino/Latina,21,3
+2,2,4,6,3,STEM,3000,19,150000,12,Male,White or of European descent,40,4
+1,1,6,5,3,STEM,20000,4,195000,8,Male,White or of European descent,30,5
+,2,,3,3,STEM,3000,30,170000,8,Male,Hispanic or Latino/Latina,60,5
+2,1,6,13,4,STEM,7500,30,155000,8,Male,White or of European descent,50,5
+2,2,2,8,4,STEM,300,19,171912,12,Male,White or of European descent,50,5
+,,1,2,4,STEM,300,7,120000,8,Male,White or of European descent,40,4
+,1,3,4,4,NON-STEM,20000,4,100000,8,Male,East Asian,40,3
+1,1,2,6,3,STEM,20000,7,76272,8,Male,White or of European descent,30,3
+3,1,4,6,1,STEM,15,4,50000,12,Male,White or of European descent,21,1
+,,4,9,1,NON-STEM,60,10,80000,12,Male,White or of European descent,21,3
+2,6,4,8,3,STEM,300,4,70064,8,Male,White or of European descent,30,2
+1,2,2,6,3,STEM,5,4,48000,12,Male,White or of European descent,30,1
+1,3,1,4,4,STEM,20000,7,80000,12,Male,White or of European descent,30,3
+2,3,4,8,1,,300,16,120000,8,Male,White or of European descent,40,4
+2,4,3,2,3,STEM,20000,7,110000,14,Male,White or of European descent,30,4
+,,,,4,STEM,20000,7,134000,,,,,4
+3,4,4,6,4,STEM,300,4,105000,12,Male,Other,30,4
+1,4,4,8,4,STEM,20000,4,84000,12,Male,White or of European descent,30,3
+,1,2,6,3,STEM,15,7,70000,8,Male,White or of European descent,30,2
+3,10,6,9,3,NON-STEM,60,19,128000,12,Male,White or of European descent,40,4
+1,1,1,4,4,STEM,60,1,53000,12,Male,White or of European descent,30,2
+4,2,6,6,3,STEM,7500,4,76600,12,Male,White or of European descent,30,3
+,1,1,4,3,STEM,20000,4,180000,12,Male,White or of European descent,30,5
+1,2,1,7,3,STEM,300,13,98000,8,Male,White or of European descent,30,3
+2,,1,3,4,STEM,3000,13,130000,12,Male,Hispanic or Latino/Latina,40,4
+3,5,5,7,1,NON-STEM,3000,25,110000,12,Male,White or of European descent,50,4
+,2,2,5,4,NON-STEM,300,4,84000,12,Male,Other,40,3
+,,,,3,STEM,300,7,130000,,,,,4
+4,1,2,8,3,STEM,3000,13,80000,8,Male,White or of European descent,30,3
+3,6,6,9,3,STEM,15,19,150000,8,Male,White or of European descent,40,4
+1,2,2,7,4,STEM,750,1,70500,12,Male,White or of European descent,30,2
+,,4,12,3,STEM,20000,13,46000,8,Non-Male,White or of European descent,60,1
+1,4,,4,4,STEM,60,4,105475,12,Male,White or of European descent,50,4
+,1,2,6,3,,750,4,125000,12,Male,White or of European descent,50,4
+1,1,3,2,2,STEM,3000,30,94000,12,Male,White or of European descent,50,3
+1,1,1,2,3,STEM,5,25,97000,12,Male,White or of European descent,50,3
+3,1,1,5,1,STEM,5,1,24000,8,Male,White or of European descent,21,
+,1,,4,1,NON-STEM,300,1,49000,8,Male,Hispanic or Latino/Latina,30,1
+,7,1,6,3,,3000,4,89000,8,Male,White or of European descent,30,3
+2,1,5,6,4,STEM,20000,4,145000,12,Male,White or of European descent,30,4
+1,5,3,6,1,STEM,300,10,160000,8,Male,Hispanic or Latino/Latina,30,5
+1,1,2,8,3,STEM,20000,25,48000,8,Male,White or of European descent,50,1
+2,7,4,5,3,STEM,60,7,130000,12,,,30,4
+4,4,6,3,4,STEM,300,7,120000,12,Male,White or of European descent,30,4
+2,3,4,6,3,STEM,5,1,85000,14,Male,White or of European descent,21,3
+1,4,3,5,4,STEM,5,22,95000,8,Male,White or of European descent,50,3
+,3,5,7,3,STEM,3000,1,40250,8,Male,White or of European descent,21,1
+,1,1,4,3,STEM,20000,1,75000,8,Male,White or of European descent,30,2
+2,4,2,7,1,,60,19,105000,14,,White or of European descent,50,4
+3,2,2,7,4,STEM,20000,1,200000,,,,,5
+1,4,2,7,3,STEM,300,7,78000,12,Male,White or of European descent,30,3
+,1,,4,4,STEM,20000,10,135000,8,Male,Other,30,4
+,3,3,7,2,NON-STEM,60,19,85000,8,Male,White or of European descent,40,3
+1,4,,5,2,STEM,20000,1,65000,8,Male,White or of European descent,40,2
+,1,1,4,3,STEM,7500,1,50000,12,Male,White or of European descent,21,1
+1,5,3,5,4,NON-STEM,3000,28,188600,12,Male,White or of European descent,50,5
+,3,2,8,3,STEM,3000,25,180000,8,Male,White or of European descent,50,5
+1,3,4,11,4,STEM,15,1,70000,12,Male,White or of European descent,30,2
+,,2,8,3,NON-STEM,20000,16,95000,12,Male,White or of European descent,40,3
+,1,2,5,3,STEM,300,1,50000,12,Male,White or of European descent,30,1
+3,3,5,4,4,STEM,60,10,150000,12,Male,Other,40,4
+2,1,2,6,2,NON-STEM,60,1,55000,12,Non-Male,White or of European descent,40,2
+1,2,2,7,3,STEM,300,4,80000,12,Male,White or of European descent,30,3
+1,3,,6,3,STEM,5,4,100000,8,Male,Other,21,3
+1,1,1,7,3,STEM,60,13,94000,12,Male,White or of European descent,30,3
+2,5,6,10,4,STEM,60,10,100000,14,Male,White or of European descent,30,3
+3,10,7,21,3,STEM,750,4,85000,12,Male,White or of European descent,21,3
+3,4,3,11,3,STEM,60,4,75000,8,Male,Hispanic or Latino/Latina,30,2
+2,3,5,5,3,STEM,20000,22,100000,8,Non-Male,White or of European descent,50,3
+2,4,7,7,2,NON-STEM,7500,13,96000,12,Male,White or of European descent,30,3
+,,1,4,4,NON-STEM,300,1,58000,8,Male,White or of European descent,30,2
+3,1,3,10,3,STEM,15,13,125000,12,Male,,40,4
+,1,5,9,1,NON-STEM,5,30,85000,12,Male,White or of European descent,60,3
+,1,4,13,3,STEM,300,16,200000,12,Male,White or of European descent,40,5
+,1,1,2,3,STEM,300,7,90000,12,Male,White or of European descent,30,3
+2,5,3,6,1,,60,16,125000,12,Male,White or of European descent,30,4
+,1,1,2,3,STEM,20000,13,162000,12,Male,White or of European descent,40,5
+5,2,4,10,4,NON-STEM,20000,4,146000,12,Male,White or of European descent,30,4
+1,2,2,6,1,STEM,300,16,88000,8,Male,White or of European descent,40,3
+,1,1,1,3,STEM,20000,30,135000,8,Male,White or of European descent,50,4
+1,1,4,5,4,NON-STEM,3000,1,100000,8,Male,White or of European descent,21,3
+,5,3,7,4,STEM,20000,28,160000,14,Male,White or of European descent,50,5
+3,2,3,9,4,STEM,300,10,80000,14,Male,White or of European descent,30,3
+,,1,6,3,STEM,300,1,94500,8,Non-Male,Black or of African descent,30,3
+,,2,4,3,STEM,20000,10,240000,8,Male,White or of European descent,30,6
+1,1,2,13,3,NON-STEM,300,7,64800,12,Non-Male,White or of European descent,40,2
+5,6,6,10,3,STEM,5,4,24000,12,Male,White or of European descent,21,
+,4,1,3,4,STEM,20000,4,52015,8,Male,White or of European descent,30,2
+3,2,5,8,3,STEM,750,7,59500,12,Male,White or of European descent,30,2
+1,6,7,11,1,,60,1,45000,14,Male,,30,1
+3,5,4,6,3,STEM,15,4,55000,12,Male,White or of European descent,21,2
+1,1,1,6,4,STEM,7500,10,118000,12,Male,Other,40,4
+1,3,3,6,3,STEM,20000,16,194000,12,Non-Male,White or of European descent,40,5
+,,3,3,3,STEM,3000,1,105000,12,Non-Male,White or of European descent,21,4
+2,2,9,11,3,STEM,750,7,72000,8,Male,White or of European descent,30,2
+2,5,6,14,3,NON-STEM,20000,10,77000,12,Male,White or of European descent,40,3
+,1,2,2,3,STEM,300,25,180000,12,Male,White or of European descent,50,5
+2,2,4,7,1,STEM,300,7,108000,8,Male,White or of European descent,21,4
+4,2,7,10,2,STEM,60,4,60000,12,Male,White or of European descent,30,2
+,,,,3,STEM,7500,1,56600,,,,,2
+,,1,2,4,STEM,60,10,150000,12,Male,White or of European descent,40,4
+4,9,8,8,3,STEM,20000,1,130000,8,Non-Male,Other,21,4
+,2,,2,4,STEM,3000,19,100000,12,Male,White or of European descent,50,3
+1,1,3,6,3,STEM,20000,7,90000,8,Male,Other,30,3
+2,4,5,7,4,STEM,750,19,75000,8,Non-Male,White or of European descent,40,2
+1,1,4,4,4,NON-STEM,60,1,105000,12,Male,White or of European descent,30,4
+2,3,1,6,3,NON-STEM,60,10,90000,12,Male,White or of European descent,40,3
+1,1,2,9,1,STEM,3000,4,154000,12,Non-Male,East Asian,40,5
+3,2,1,6,4,STEM,20000,1,120000,12,Male,White or of European descent,30,4
+,3,1,4,3,STEM,7500,25,85032,12,Male,,50,3
+2,3,4,10,3,STEM,7500,13,150200,12,Male,White or of European descent,30,5
+,1,2,5,3,STEM,60,4,80080,12,Male,Other,30,3
+1,3,3,4,4,STEM,20000,30,205000,8,Male,East Asian,60,6
+,1,2,3,3,NON-STEM,300,1,90000,12,Male,White or of European descent,30,3
+3,4,3,7,3,STEM,7500,1,49200,8,Male,White or of European descent,21,1
+,2,1,7,1,,5,16,90000,12,Male,White or of European descent,30,3
+2,4,2,4,3,NON-STEM,20000,4,75000,8,Male,White or of European descent,21,2
+,2,2,7,1,STEM,300,25,115000,14,Male,White or of European descent,50,4
+4,6,5,7,4,STEM,3000,10,85000,12,Male,White or of European descent,30,3
+,1,3,9,2,STEM,300,19,98628,12,Male,White or of European descent,40,3
+2,1,4,6,1,NON-STEM,60,1,50000,12,Male,Other,30,1
+1,1,,5,3,NON-STEM,750,10,116000,8,Male,White or of European descent,30,4
+3,2,4,6,3,STEM,300,1,85000,12,Male,East Asian,21,3
+5,2,8,8,3,STEM,60,10,195000,8,Male,White or of European descent,40,5
+1,2,1,6,4,STEM,20000,4,120524,12,Male,White or of European descent,30,4
+1,1,3,5,3,STEM,3000,7,120000,8,Non-Male,White or of European descent,30,4
+2,4,3,7,1,NON-STEM,5,10,80000,12,Male,White or of European descent,40,3
+1,5,3,8,3,NON-STEM,60,1,38000,12,Male,White or of European descent,21,1
+,2,1,3,4,STEM,20000,13,100000,12,Male,White or of European descent,40,3
+2,2,2,4,3,STEM,300,19,177000,12,Male,White or of European descent,40,5
+2,3,6,8,2,STEM,15,1,35000,8,Male,White or of European descent,21,1
+2,7,2,14,4,STEM,3000,19,170000,8,Male,White or of European descent,40,5
+2,3,3,5,3,STEM,60,30,75000,8,Male,White or of European descent,50,2
+2,4,2,6,4,STEM,5,1,135200,14,Male,White or of European descent,40,4
+2,7,5,7,1,STEM,300,16,165000,14,Male,White or of European descent,30,5
+2,5,,7,3,STEM,300,13,135441,8,Male,White or of European descent,40,4
+3,7,2,12,3,STEM,750,4,85000,8,Male,East Asian,21,3
+2,,4,12,3,STEM,60,4,103000,8,Male,White or of European descent,30,4
+,,2,3,3,NON-STEM,20000,4,80000,12,Non-Male,White or of European descent,30,3
+2,3,3,6,3,STEM,300,4,68000,14,Male,White or of European descent,30,2
+2,2,3,4,3,STEM,15,7,132000,12,Male,White or of European descent,30,4
+1,1,2,10,3,STEM,750,16,210000,12,Male,Other,40,6
+2,2,3,5,4,NON-STEM,3000,4,92000,12,Male,White or of European descent,30,3
+3,3,5,12,3,STEM,5,7,115000,14,Male,White or of European descent,30,4
+,2,2,5,3,STEM,3000,16,141000,8,Male,White or of European descent,40,4
+2,,2,5,4,NON-STEM,300,1,66500,14,Male,White or of European descent,30,2
+5,4,2,8,3,STEM,60,4,70000,8,Male,White or of European descent,30,2
+,,3,2,4,NON-STEM,750,4,115000,12,Non-Male,White or of European descent,40,4
+1,2,2,11,3,STEM,60,16,120000,12,Male,White or of European descent,40,4
+1,,1,3,3,NON-STEM,3000,1,96000,8,Male,White or of European descent,40,3
+2,5,3,9,3,STEM,20000,10,220000,12,Male,White or of European descent,40,6
+2,8,5,8,3,,20000,19,115000,12,Male,White or of European descent,40,4
+4,3,4,6,3,NON-STEM,20000,1,127000,12,Male,East Asian,30,4
+2,2,2,5,4,STEM,7500,4,80000,12,Male,White or of European descent,40,3
+4,10,6,14,1,STEM,750,19,135000,12,Male,Other,40,4
+,,,,3,STEM,20000,1,75000,,,,,2
+1,2,2,5,2,STEM,60,4,50000,12,Male,Hispanic or Latino/Latina,30,1
+,,2,4,3,NON-STEM,300,1,85000,12,Male,White or of European descent,30,3
+2,1,5,8,3,NON-STEM,7500,16,125000,8,Male,White or of European descent,50,4
+,1,2,3,1,STEM,750,10,128000,8,Male,White or of European descent,40,4
+1,2,1,4,4,STEM,20000,19,175000,12,Male,East Asian,50,5
+1,6,3,11,2,STEM,300,16,70000,8,Male,White or of European descent,40,2
+3,3,5,6,3,STEM,3000,16,70000,12,Male,White or of European descent,40,2
+3,3,2,8,3,STEM,3000,4,63000,12,Male,White or of European descent,30,2
+1,3,,3,3,STEM,300,1,79000,12,Male,White or of European descent,30,3
+4,1,3,7,3,STEM,5,1,55000,8,,,,2
+1,5,,11,3,STEM,300,1,40000,14,Male,White or of European descent,21,1
+2,4,3,12,3,STEM,60,22,115000,12,Male,White or of European descent,40,4
+2,5,6,9,2,STEM,3000,16,110000,12,Male,White or of European descent,40,4
+4,2,7,11,3,NON-STEM,20000,1,65000,14,Male,White or of European descent,21,2
+,3,5,4,3,STEM,60,10,125000,12,Male,White or of European descent,30,4
+1,3,4,6,3,STEM,3000,7,84000,12,Male,,30,3
+3,,1,6,4,STEM,5,4,90000,8,Male,White or of European descent,30,3
+,1,2,3,3,STEM,60,16,150000,12,Male,White or of European descent,40,4
+4,8,3,8,1,NON-STEM,750,4,75000,12,Male,White or of European descent,30,2
+1,3,2,7,3,NON-STEM,750,1,69000,14,Male,White or of European descent,30,2
+1,3,1,12,1,STEM,60,19,95000,14,Male,Black or of African descent,40,3
+1,3,4,8,3,STEM,60,10,78000,14,Male,White or of European descent,30,3
+2,2,4,6,4,STEM,750,10,135000,14,Male,White or of European descent,30,4
+1,,4,7,4,STEM,20000,4,140000,12,Male,Other,30,4
+2,3,4,7,3,NON-STEM,750,4,78000,8,Male,White or of European descent,30,3
+2,1,2,5,4,NON-STEM,300,16,110000,8,Male,White or of European descent,50,4
+1,2,,5,4,NON-STEM,300,4,103500,12,Male,White or of European descent,40,4
+5,10,8,9,3,STEM,15,7,67000,12,Male,White or of European descent,21,2
+2,1,2,6,3,STEM,750,10,150000,14,Male,Other,40,4
+1,2,2,7,3,STEM,300,7,75000,12,Male,White or of European descent,30,2
+3,1,3,5,3,STEM,20000,16,133000,8,Male,White or of European descent,40,4
+1,1,3,5,3,STEM,60,19,80000,12,Male,White or of European descent,40,3
+2,2,5,5,3,STEM,300,1,85000,12,Male,White or of European descent,30,3
+2,2,2,8,3,STEM,20000,4,78500,12,Male,White or of European descent,30,3
+1,2,3,6,3,STEM,15,4,90000,8,Male,White or of European descent,30,3
+1,2,1,5,4,STEM,20000,1,73000,8,Male,White or of European descent,30,2
+,2,2,5,3,STEM,300,19,120000,12,Male,White or of European descent,40,4
+1,1,,5,4,STEM,20000,1,120000,12,Male,White or of European descent,30,4
+2,2,3,7,1,STEM,60,22,105000,8,Male,White or of European descent,50,4
+,2,5,6,4,STEM,750,1,48000,,,,,1
+1,6,4,10,4,STEM,300,10,100000,12,Male,White or of European descent,30,3
+1,3,4,3,4,STEM,300,1,120000,8,Male,East Asian,30,4
+3,9,5,9,3,STEM,60,16,134000,12,Male,White or of European descent,40,4
+3,4,7,11,3,STEM,300,7,145000,12,Male,White or of European descent,30,4
+,4,2,8,1,,60,7,47000,12,Male,White or of European descent,30,1
+3,3,3,6,3,STEM,3000,13,70000,14,Male,White or of European descent,30,2
+,,2,5,2,STEM,300,4,65000,14,Male,White or of European descent,30,2
+1,,1,8,4,STEM,750,19,195000,12,Male,White or of European descent,40,5
+,1,5,8,4,STEM,60,4,135000,12,Male,Other,30,4
+3,,7,8,1,STEM,60,4,115000,8,,,,4
+3,8,4,7,3,STEM,60,4,135000,12,Male,White or of European descent,30,4
+2,3,2,10,1,NON-STEM,300,10,150000,14,Male,Hispanic or Latino/Latina,50,4
+4,3,3,3,3,STEM,300,7,92000,14,Male,Hispanic or Latino/Latina,30,3
+,1,1,6,3,STEM,15,16,92000,14,Male,White or of European descent,40,3
+4,5,3,8,4,NON-STEM,20000,7,160000,8,Male,White or of European descent,30,5
+,1,1,6,4,STEM,60,1,65000,8,Non-Male,White or of European descent,30,2
+1,2,7,11,3,,15,13,167000,12,Male,White or of European descent,40,5
+3,4,3,8,3,STEM,3000,30,108000,12,Male,White or of European descent,60,4
+4,2,2,5,4,NON-STEM,60,13,152740,12,Male,Hispanic or Latino/Latina,40,5
+3,5,5,7,1,STEM,7500,4,71500,14,Male,White or of European descent,30,2
+2,7,1,11,3,STEM,20000,7,80000,14,Male,White or of European descent,30,3
+2,2,9,5,3,STEM,750,7,110000,12,Male,White or of European descent,30,4
+,1,2,2,3,STEM,3000,22,70000,8,Non-Male,White or of European descent,60,2
+1,3,3,4,4,STEM,60,10,88000,12,Male,White or of European descent,30,3
+2,3,8,13,3,STEM,60,10,130000,12,Male,East Asian,30,4
+4,1,6,9,2,STEM,300,13,129000,12,Non-Male,White or of European descent,30,4
+2,1,2,5,3,STEM,20000,1,76500,12,Male,White or of European descent,30,3
+4,3,3,13,4,STEM,20000,1,120000,12,Male,Other,21,4
+,2,1,4,3,STEM,60,13,110000,12,,,30,4
+1,4,5,11,4,STEM,7500,4,80000,8,Male,East Asian,40,3
+1,3,8,8,1,STEM,60,4,70000,14,Non-Male,White or of European descent,30,2
+,,1,3,3,STEM,300,30,145000,12,Male,White or of European descent,50,4
+3,5,5,11,3,STEM,15,22,120000,12,Male,White or of European descent,40,4
+1,1,1,6,3,NON-STEM,300,1,70000,8,Non-Male,White or of European descent,30,2
+,3,1,6,3,STEM,3000,7,81000,12,Male,,30,3
+1,5,8,5,4,NON-STEM,15,19,180000,14,Male,,40,5
+1,,,1,4,STEM,20000,1,66500,8,Non-Male,White or of European descent,21,2
+4,4,3,9,3,STEM,300,16,160000,12,Male,White or of European descent,40,5
+2,2,2,6,4,STEM,60,19,110000,12,Male,White or of European descent,40,4
+1,1,1,5,3,STEM,15,4,97000,12,Male,White or of European descent,30,3
+4,,7,7,4,NON-STEM,60,4,70000,12,Male,White or of European descent,30,2
+,1,4,8,4,NON-STEM,7500,10,90000,14,Male,White or of European descent,30,3
+2,2,8,5,1,,60,1,45000,12,Male,White or of European descent,21,1
+4,6,3,9,1,STEM,20000,19,95000,14,Male,East Asian,40,3
+,,,,4,STEM,750,4,140000,8,,,,4
+3,1,1,8,3,STEM,300,1,90000,12,Male,White or of European descent,30,3
+3,6,7,6,3,NON-STEM,60,10,102000,8,Male,,50,4
+2,5,1,5,3,STEM,3000,1,60000,8,,,,2
+2,3,4,8,4,NON-STEM,3000,4,57000,12,Non-Male,White or of European descent,30,2
+,3,1,4,3,STEM,15,4,225000,12,Male,White or of European descent,30,6
+,3,2,7,4,STEM,300,16,62000,8,Non-Male,White or of European descent,40,2
+2,5,3,7,3,STEM,7500,16,130000,8,Male,White or of European descent,40,4
+,1,1,2,3,STEM,7500,30,170000,12,Male,White or of European descent,60,5
+,,,6,3,STEM,60,1,77000,,,,,3
+1,,2,6,4,STEM,60,1,70000,12,Male,White or of European descent,30,2
+,3,,10,4,STEM,60,1,97000,12,Male,Other,30,3
+2,3,3,7,3,STEM,60,4,65000,12,Male,White or of European descent,30,2
+2,1,2,8,2,STEM,3000,13,87000,12,Male,White or of European descent,40,3
+2,3,3,9,3,STEM,60,4,44000,14,Male,White or of European descent,30,1
+,1,1,6,3,NON-STEM,60,1,50000,12,Male,White or of European descent,30,1
+,,1,7,2,STEM,5,13,80000,8,Male,White or of European descent,50,3
+4,6,7,7,1,STEM,20000,4,115000,14,Male,White or of European descent,30,4
+2,1,,14,3,STEM,20000,4,106000,8,Male,White or of European descent,30,4
+1,3,2,9,3,NON-STEM,20000,13,45000,8,Male,White or of European descent,40,1
+1,3,5,11,1,,5,19,155000,14,Male,White or of European descent,40,5
+1,,2,5,4,STEM,20000,1,127000,8,Male,White or of European descent,30,4
+1,,2,7,4,STEM,300,1,85000,12,Male,White or of European descent,40,3
+,1,2,2,3,NON-STEM,300,4,115000,8,Male,White or of European descent,30,4
+1,4,1,7,4,STEM,60,13,95000,14,Non-Male,White or of European descent,40,3
+1,1,,4,4,STEM,15,16,150000,14,Male,White or of European descent,40,4
+2,5,8,9,3,STEM,60,19,145000,12,Male,Other,40,4
+2,2,3,6,1,STEM,3000,13,190000,14,Male,White or of European descent,40,5
+1,5,4,6,1,,60,7,65000,8,Male,White or of European descent,21,2
+1,3,2,5,1,STEM,300,25,133000,8,Male,White or of European descent,50,4
+3,2,4,7,3,STEM,750,1,80000,8,,,30,3
+,2,1,1,3,STEM,5,30,130000,12,Male,White or of European descent,60,4
+3,2,3,6,4,STEM,20000,10,120000,14,Male,White or of European descent,30,4
+2,3,4,9,3,STEM,15,4,65000,12,Male,White or of European descent,21,2
+,1,1,6,4,STEM,20000,22,80000,8,Male,White or of European descent,50,3
+1,4,3,11,1,NON-STEM,300,13,126000,8,Male,White or of European descent,40,4
+,1,1,5,3,NON-STEM,15,7,75000,12,Male,White or of European descent,40,2
+1,2,3,6,2,STEM,60,4,72500,12,Male,White or of European descent,30,2
+4,2,8,5,4,STEM,20000,22,165000,14,Male,Other,40,5
+2,,2,5,3,STEM,60,10,100000,12,Male,White or of European descent,30,3
+3,3,2,7,4,NON-STEM,60,4,100000,12,Male,White or of European descent,40,3
+2,5,5,11,3,STEM,60,10,185000,12,Male,White or of European descent,30,5
+2,2,4,6,1,NON-STEM,15,1,68000,4,Male,Other,30,2
+1,1,1,8,3,STEM,300,7,59800,12,Male,,30,2
+3,,1,9,1,STEM,3000,13,66000,12,Male,White or of European descent,40,2
+2,4,2,5,3,STEM,60,28,94000,12,Male,White or of European descent,60,3
+3,2,7,6,3,STEM,5,10,99000,8,Male,White or of European descent,30,3
+,6,5,9,4,STEM,15,22,195000,12,Male,White or of European descent,50,5
+1,1,1,7,3,STEM,300,16,88000,8,Male,White or of European descent,40,3
+,8,1,8,4,STEM,300,7,180000,12,Male,Other,40,5
+3,2,1,6,3,STEM,3000,7,100000,8,Male,White or of European descent,30,3
+,,2,4,4,NON-STEM,750,10,100000,12,Male,White or of European descent,40,3
+6,4,11,12,3,STEM,3000,1,104000,12,Male,Hispanic or Latino/Latina,30,4
+1,2,1,6,1,,300,19,102500,12,Male,White or of European descent,40,4
+5,2,7,11,4,STEM,20000,4,126000,8,Non-Male,Other,30,4
+,1,8,5,3,STEM,20000,10,114000,12,Male,White or of European descent,30,4
+,3,2,7,1,STEM,15,1,47000,12,Male,White or of European descent,30,1
+1,5,6,8,3,STEM,60,10,140000,12,Male,White or of European descent,30,4
+3,,3,,4,STEM,7500,7,150000,14,Male,Hispanic or Latino/Latina,30,4
+,1,1,7,2,STEM,3000,19,73000,12,Non-Male,White or of European descent,60,2
+2,,5,7,3,STEM,7500,16,130000,12,Male,White or of European descent,40,4
+2,5,6,8,3,STEM,20000,16,85000,12,Male,White or of European descent,40,3
+,,3,4,4,NON-STEM,20000,7,106000,12,Male,White or of European descent,40,4
+,3,1,6,2,STEM,60,7,35000,12,Male,Black or of African descent,30,1
+,3,2,9,3,STEM,20000,16,149000,12,Male,White or of European descent,40,4
+,,1,2,3,STEM,20000,4,52000,8,Male,White or of European descent,30,2
+,3,5,7,3,STEM,300,1,87000,12,Male,White or of European descent,21,3
+1,,3,3,4,STEM,300,4,191000,8,Male,White or of European descent,30,5
+2,1,5,7,3,STEM,20000,4,64000,12,Male,White or of European descent,21,2
+3,3,6,18,1,,60,7,115000,14,Male,White or of European descent,21,4
+1,,2,6,3,STEM,7500,1,65000,8,Male,White or of European descent,21,2
+,,,2,4,STEM,3000,1,55000,8,Male,White or of European descent,30,2
+,1,1,4,3,STEM,20000,25,115000,12,Male,,50,4
+4,4,4,6,3,STEM,300,7,123000,12,Male,White or of European descent,30,4
+,,1,7,2,STEM,60,1,45000,12,Male,White or of European descent,30,1
+1,4,5,5,3,STEM,60,4,165000,8,Male,Other,30,5
+,1,3,8,3,STEM,20000,4,64500,8,Male,White or of European descent,30,2
+6,5,2,8,3,STEM,3000,4,75000,8,Male,White or of European descent,21,2
+2,4,5,6,4,STEM,20000,10,120000,8,Male,White or of European descent,40,4
+2,2,10,8,3,NON-STEM,5,16,150000,12,Male,White or of European descent,40,4
+2,1,3,7,4,NON-STEM,750,1,105000,12,Male,White or of European descent,30,4
+2,2,5,9,3,STEM,3000,4,60000,8,Male,,21,2
+2,3,3,4,1,STEM,15,7,100000,14,Male,White or of European descent,21,3
+3,1,2,15,3,STEM,20000,4,71000,12,Male,Black or of African descent,21,2
+,1,2,1,2,STEM,300,7,91000,14,Male,White or of European descent,30,3
+3,3,6,11,1,STEM,5,7,119050,12,Male,White or of European descent,21,4
+,,2,5,3,STEM,300,7,87000,12,Male,White or of European descent,30,3
+,1,1,4,4,STEM,15,30,90000,14,Male,,60,3
+2,9,7,14,2,STEM,300,4,90000,8,Male,White or of European descent,30,3
+4,3,3,6,3,STEM,300,13,130000,12,Male,White or of European descent,30,4
+1,1,4,10,3,STEM,7500,10,44244,12,Male,White or of European descent,50,1
+3,4,2,6,4,STEM,7500,1,60000,12,Male,White or of European descent,30,2
+2,3,1,6,1,STEM,300,4,100000,12,Non-Male,White or of European descent,30,3
+1,2,5,11,3,STEM,3000,13,149000,14,Non-Male,White or of European descent,30,4
+1,2,3,7,3,STEM,750,4,90000,12,Male,White or of European descent,30,3
+,2,,6,4,STEM,750,4,110000,12,Male,White or of European descent,30,4
+2,2,2,8,1,STEM,20000,16,140000,8,Male,White or of European descent,40,4
+1,1,3,9,3,NON-STEM,60,1,80000,8,Male,White or of European descent,30,3
+1,4,2,11,1,NON-STEM,300,10,100000,8,Male,White or of European descent,30,3
+1,4,4,9,4,STEM,60,1,93000,12,Non-Male,White or of European descent,40,3
+1,2,1,11,3,NON-STEM,60,4,80000,12,,White or of European descent,30,3
+,,1,2,4,NON-STEM,300,7,105000,8,Male,White or of European descent,40,4
+1,1,2,8,4,NON-STEM,3000,7,53000,8,Non-Male,White or of European descent,30,2
+2,1,1,8,1,,3000,22,104000,12,Male,White or of European descent,40,4
+3,3,3,11,3,STEM,20000,16,118000,8,Male,White or of European descent,40,4
+,4,6,6,3,STEM,300,1,55000,12,Male,White or of European descent,30,2
+3,5,7,12,2,STEM,300,13,85000,12,Male,White or of European descent,40,3
+1,1,1,5,4,STEM,300,30,85000,12,Male,White or of European descent,60,3
+4,3,7,10,3,STEM,300,1,105000,8,Male,White or of European descent,30,4
+2,2,2,11,1,STEM,300,10,80000,14,Male,White or of European descent,30,3
+1,1,1,8,3,STEM,3000,13,105000,12,Male,White or of European descent,40,4
+,,1,6,2,NON-STEM,3000,19,90000,8,Male,White or of European descent,40,3
+1,2,,6,1,STEM,300,7,35000,8,Male,Hispanic or Latino/Latina,40,1
+2,3,4,9,1,,15,7,110000,14,Male,Other,30,4
+,2,1,5,3,STEM,15,1,58000,12,Male,White or of European descent,21,2
+,,,2,4,NON-STEM,60,7,90000,8,Male,White or of European descent,40,3
+,1,1,1,4,STEM,20000,4,113000,12,Male,White or of European descent,30,4
+,2,,8,4,STEM,300,4,102000,12,Male,White or of European descent,30,4
+1,2,4,9,4,NON-STEM,5,4,72000,8,Male,White or of European descent,30,2
+3,4,3,6,4,NON-STEM,3000,16,100000,8,Male,White or of European descent,40,3
+1,2,5,2,4,STEM,60,4,75000,12,Male,East Asian,30,2
+3,4,4,6,1,,60,13,65000,12,Male,White or of European descent,40,2
+2,2,6,10,3,STEM,300,10,75000,8,Male,White or of European descent,40,2
+1,1,4,12,1,,5,16,25000,12,Male,White or of European descent,40,1
+1,2,2,3,4,STEM,300,13,105000,12,Male,White or of European descent,40,4
+2,4,4,7,1,STEM,5,7,115000,8,Male,White or of European descent,30,4
+1,2,1,12,3,STEM,20000,4,100000,12,Male,Black or of African descent,21,3
+1,7,5,11,4,NON-STEM,20000,10,96000,8,Male,White or of European descent,30,3
+1,4,4,10,3,STEM,300,7,140000,12,Male,White or of European descent,30,4
+4,5,5,14,3,,20000,7,92000,14,Male,,30,3
+,1,,3,1,,750,4,48100,14,Male,Other,21,1
+4,9,7,9,4,STEM,300,13,165000,12,Male,White or of European descent,30,5
+3,,4,6,3,STEM,750,13,63000,12,Male,Hispanic or Latino/Latina,40,2
+,,1,5,2,STEM,60,7,53000,12,Male,White or of European descent,30,2
+4,3,2,9,3,NON-STEM,3000,1,63000,12,Non-Male,East Asian,21,2
+1,1,2,6,3,STEM,3000,7,98000,8,Male,White or of European descent,30,3
+4,5,2,7,3,STEM,5,4,65000,12,Male,White or of European descent,30,2
+1,1,1,5,1,STEM,20000,1,56000,8,Male,White or of European descent,30,2
+2,8,4,16,3,STEM,15,4,105000,,,,,4
+2,4,3,9,3,STEM,20000,7,100000,,Male,White or of European descent,30,3
+,3,3,7,2,STEM,300,13,91700,12,Male,White or of European descent,40,3
+4,5,3,9,1,STEM,5,4,70000,12,Non-Male,East Asian,21,2
+,,1,4,3,STEM,750,7,68000,,Male,White or of European descent,50,2
+1,2,3,1,2,,20000,25,120000,12,Male,Hispanic or Latino/Latina,60,4
+,,1,1,3,NON-STEM,750,10,73000,8,Male,White or of European descent,40,2
+,1,2,3,3,STEM,300,7,67000,12,,,,2
+4,2,5,7,4,STEM,750,13,133000,8,Male,White or of European descent,40,4
+1,2,1,11,3,STEM,20000,4,66500,12,Male,White or of European descent,30,2
+2,,1,5,1,STEM,3000,13,153500,12,Male,White or of European descent,30,5
+,1,3,3,4,NON-STEM,300,4,74500,8,Non-Male,White or of European descent,30,2
+4,5,5,12,2,STEM,750,4,62000,8,Male,White or of European descent,30,2
+2,2,1,4,3,STEM,7500,4,66000,12,Male,Other,40,2
+3,2,10,9,4,STEM,7500,7,150000,14,Male,,30,4
+,5,11,6,1,STEM,300,30,150000,12,Male,Hispanic or Latino/Latina,50,4
+,1,4,6,1,STEM,60,30,70000,8,Male,,50,2
+,1,3,7,1,,15,13,195000,12,Male,White or of European descent,40,5
+2,4,4,9,3,STEM,60,4,52800,12,Male,White or of European descent,30,2
+,2,,5,3,STEM,7500,1,83500,8,Male,White or of European descent,30,3
+4,7,6,14,2,STEM,60,4,52500,12,Male,White or of European descent,30,2
+,3,1,8,4,STEM,750,22,136000,12,Male,White or of European descent,50,4
+,,2,2,3,NON-STEM,20000,19,152000,14,Male,Hispanic or Latino/Latina,40,5
+,1,3,2,3,STEM,20000,4,87000,8,Male,White or of European descent,30,3
+2,1,3,10,3,STEM,5,4,75000,14,Male,White or of European descent,30,2
+3,1,3,6,4,STEM,3000,1,88000,12,Male,Other,30,3
+,1,1,5,3,STEM,20000,4,61000,14,Male,White or of European descent,30,2
+1,3,2,9,2,STEM,300,13,55000,12,Male,White or of European descent,40,2
+,,1,1,3,NON-STEM,750,19,90000,12,Non-Male,White or of European descent,60,3
+2,,5,8,3,STEM,60,13,120000,8,Male,White or of European descent,40,4
+4,6,6,6,4,NON-STEM,20000,4,160000,8,Male,Other,40,5
+1,3,5,8,3,STEM,300,16,200000,12,Male,,30,5
+5,5,3,7,3,STEM,60,19,150000,12,Male,White or of European descent,40,4
+,3,1,6,1,STEM,300,13,65000,14,Male,White or of European descent,40,2
+,2,4,6,2,STEM,300,4,55000,12,Male,White or of European descent,30,2
+,,,,1,,60,10,54000,,,,,2
+2,1,1,5,3,NON-STEM,750,4,80000,12,Male,White or of European descent,30,3
+,2,1,6,4,STEM,60,7,110000,12,Male,White or of European descent,30,4
+1,3,3,9,1,STEM,15,16,175000,12,Male,White or of European descent,40,5
+,3,3,8,3,STEM,300,30,80000,8,Non-Male,White or of European descent,60,3
+,2,1,8,4,STEM,20000,19,105000,8,Male,White or of European descent,50,4
+,2,2,6,4,STEM,750,22,143500,8,Male,White or of European descent,40,4
+,3,2,8,3,STEM,3000,4,65000,12,Male,White or of European descent,21,2
+,2,2,6,3,STEM,750,7,150000,12,Male,White or of European descent,30,4
+1,3,2,10,4,STEM,20000,25,180000,8,Male,White or of European descent,50,5
+2,,1,5,4,NON-STEM,60,1,63000,12,Male,White or of European descent,21,2
+,4,2,7,2,STEM,5,4,82000,8,Male,Hispanic or Latino/Latina,30,3
+2,2,1,10,2,STEM,5,7,60500,12,Male,White or of European descent,30,2
+2,1,1,8,4,STEM,7500,13,118000,12,Male,White or of European descent,40,4
+1,,1,9,3,STEM,60,4,72000,12,Male,White or of European descent,30,2
+3,13,8,14,3,STEM,300,16,55000,12,Male,White or of European descent,50,2
+,4,6,8,3,NON-STEM,5,1,90000,12,Male,White or of European descent,30,3
+1,2,2,9,3,STEM,20000,4,115000,8,Male,White or of European descent,30,4
+1,4,2,1,4,STEM,7500,30,175000,14,,,50,5
+1,3,1,9,3,,20000,7,106000,8,Male,White or of European descent,30,4
+,1,5,5,1,NON-STEM,750,16,130000,8,Male,Other,50,4
+1,2,2,4,4,NON-STEM,3000,1,120000,8,Male,White or of European descent,40,4
+1,6,3,17,2,STEM,20000,7,125000,12,Male,White or of European descent,30,4
+,2,3,11,1,STEM,60,4,85000,14,Male,White or of European descent,30,3
+,6,,2,1,STEM,5,1,75000,14,Male,White or of European descent,40,2
+2,2,2,7,1,,5,1,57500,14,Male,White or of European descent,30,2
+1,5,4,9,3,STEM,3000,1,90000,12,Male,White or of European descent,30,3
+1,1,2,3,3,NON-STEM,20000,1,75000,12,Male,White or of European descent,21,2
+3,1,2,7,3,,60,19,125000,8,Male,White or of European descent,50,4
+3,3,2,10,3,NON-STEM,300,4,97000,14,Male,White or of European descent,30,3
+,,1,2,4,STEM,7500,1,145000,8,Male,White or of European descent,30,4
+1,1,4,5,3,STEM,750,1,105000,8,Male,White or of European descent,21,4
+3,2,2,8,3,STEM,20000,4,97000,8,Male,White or of European descent,40,3
+1,5,1,6,4,NON-STEM,15,19,75000,8,Male,White or of European descent,50,2
+,3,6,6,3,STEM,20000,4,81500,8,Male,White or of European descent,40,3
+3,5,1,10,3,STEM,20000,1,105000,8,Male,Other,21,4
+2,2,2,10,3,STEM,15,4,60000,8,Male,White or of European descent,21,2
+3,3,6,11,3,STEM,750,7,93000,12,Male,White or of European descent,30,3
+3,8,5,14,1,STEM,7500,19,98200,12,Male,White or of European descent,40,3
+1,3,1,7,3,NON-STEM,300,22,160000,12,Male,White or of European descent,40,5
+1,3,5,6,1,STEM,60,7,77200,12,Male,White or of European descent,30,3
+1,2,1,9,3,STEM,7500,4,59000,12,Male,White or of European descent,30,2
+3,4,5,11,3,STEM,7500,4,55000,8,Male,White or of European descent,30,2
+,2,2,6,1,STEM,15,7,88000,12,Male,White or of European descent,21,3
+2,2,4,8,1,STEM,15,10,105000,12,,,40,4
+2,,1,15,4,STEM,60,10,130000,12,Male,Other,30,4
+4,7,7,7,3,STEM,15,19,220000,8,Non-Male,White or of European descent,40,6
+3,2,3,11,3,STEM,300,4,90000,12,Male,White or of European descent,30,3
+1,,3,8,3,STEM,7500,1,55000,12,Male,East Asian,21,2
+,2,,8,4,STEM,60,4,95000,8,Male,White or of European descent,30,3
+,1,1,5,3,STEM,750,13,90000,12,Male,White or of European descent,40,3
+5,3,2,9,3,STEM,60,10,133000,12,Male,White or of European descent,30,4
+3,4,5,9,3,STEM,20000,1,90000,8,Male,White or of European descent,30,3
+1,2,2,5,3,STEM,300,7,81000,12,Male,White or of European descent,30,3
+,,,3,4,STEM,300,1,120000,12,Male,White or of European descent,30,4
+,,2,4,3,STEM,60,4,120000,8,Non-Male,White or of European descent,30,4
+,2,3,8,1,STEM,300,10,85000,12,Male,White or of European descent,40,3
+2,7,9,8,4,NON-STEM,300,16,195000,12,Male,White or of European descent,40,5
+1,,1,8,4,STEM,60,1,120000,12,Male,White or of European descent,21,4
+1,2,1,8,3,STEM,750,19,175000,8,Male,White or of European descent,40,5
+1,,4,3,3,STEM,20000,4,80000,12,Male,White or of European descent,30,3
+,2,2,4,3,STEM,60,16,155000,12,Male,White or of European descent,40,5
+3,1,1,9,1,,15,4,70000,12,Male,White or of European descent,21,2
+1,2,2,6,3,STEM,60,4,85000,12,Male,White or of European descent,30,3
+,1,,4,4,STEM,20000,7,116000,12,Male,White or of European descent,30,4
+3,2,2,7,3,NON-STEM,5,19,70000,8,Male,White or of European descent,50,2
+1,1,3,3,3,STEM,300,30,124000,12,Male,White or of European descent,60,4
+3,1,2,6,1,STEM,60,13,127500,12,Male,White or of European descent,40,4
+5,9,7,18,3,STEM,60,7,60000,12,Male,,30,2
+2,6,9,12,3,STEM,20000,4,220000,12,Male,White or of European descent,30,6
+3,,1,7,4,,3000,1,95000,12,Male,White or of European descent,40,3
+,,2,6,3,STEM,750,1,50000,8,Male,White or of European descent,30,1
+2,3,5,6,1,,3000,4,60000,14,,,,2
+2,2,7,8,1,STEM,750,10,130000,12,,,,4
+3,5,2,10,3,STEM,300,22,120000,12,Male,White or of European descent,50,4
+,2,3,6,3,STEM,15,1,90000,14,Non-Male,White or of European descent,30,3
+1,2,4,9,3,STEM,15,7,85000,14,Male,East Asian,30,3
+1,1,1,5,3,STEM,60,16,100000,8,Male,White or of European descent,40,3
+,3,1,6,3,STEM,3000,13,84000,8,Male,White or of European descent,50,3
+2,1,2,6,3,NON-STEM,3000,4,111000,8,Male,White or of European descent,30,4
+,,,2,4,NON-STEM,7500,1,57000,12,Male,White or of European descent,30,2
+,,1,2,3,STEM,3000,7,107100,12,Male,White or of European descent,30,4
+5,4,8,7,4,STEM,300,16,160000,8,Male,Other,40,5
+,1,1,1,3,STEM,300,4,57000,8,Male,White or of European descent,30,2
+3,2,2,4,3,STEM,20000,1,65000,8,Male,White or of European descent,30,2
+,4,8,15,4,NON-STEM,300,4,80000,8,Male,White or of European descent,40,3
+,,3,7,3,STEM,7500,13,149000,,,,,4
+,1,2,4,4,STEM,3000,7,77000,12,Male,White or of European descent,30,3
+4,4,4,8,4,STEM,3000,30,200000,12,Male,White or of European descent,60,5
+1,2,,9,3,STEM,20000,4,90000,12,Male,White or of European descent,30,3
+3,2,2,7,4,NON-STEM,20000,1,75000,8,Male,White or of European descent,30,2
+,1,2,2,3,STEM,300,1,60000,8,Male,White or of European descent,21,2
+3,3,2,7,1,STEM,7500,30,90000,12,Male,Other,60,3
+1,1,2,8,3,STEM,20000,22,140000,12,Male,White or of European descent,40,4
+2,2,1,5,3,NON-STEM,60,19,114500,12,Male,White or of European descent,50,4
+5,7,4,9,3,STEM,20000,4,65000,12,Male,White or of European descent,30,2
+2,,1,5,2,STEM,300,13,80000,12,Male,White or of European descent,40,3
+2,2,1,5,3,STEM,300,10,105000,12,Male,White or of European descent,30,4
+3,4,3,3,3,STEM,60,4,80000,12,Male,White or of European descent,30,3
+1,1,4,8,3,STEM,60,7,166000,8,Male,White or of European descent,30,5
+,4,2,3,4,STEM,750,7,150000,8,Male,White or of European descent,30,4
+2,4,6,6,3,STEM,15,4,77000,12,Male,White or of European descent,30,3
+3,4,6,11,3,STEM,300,4,150000,12,Male,East Asian,21,4
+,,1,1,4,STEM,3000,1,75000,8,Male,White or of European descent,40,2
+3,3,4,10,1,STEM,300,22,153750,12,Male,White or of European descent,40,5
+5,4,4,11,3,STEM,60,4,105000,14,Male,White or of European descent,30,4
+1,4,5,6,3,,60,13,104000,12,Male,White or of European descent,30,4
+5,3,5,12,1,,20000,10,120000,14,Male,White or of European descent,30,4
+2,3,8,8,1,STEM,300,4,130000,12,Male,Hispanic or Latino/Latina,40,4
+,4,1,4,1,,15,10,39000,14,Male,Other,30,1
+,,1,2,3,,750,1,60000,8,Male,White or of European descent,21,2
+,2,1,5,3,STEM,3000,1,68000,8,Male,White or of European descent,30,2
+1,2,2,7,3,NON-STEM,60,1,38000,12,Male,White or of European descent,40,1
+3,3,1,8,3,STEM,300,19,133000,8,Male,White or of European descent,40,4
+,,1,4,3,STEM,60,7,70000,12,Male,White or of European descent,40,2
+,,,,3,STEM,60,7,60000,,,,,2
+4,1,7,7,3,STEM,60,4,165000,8,,,,5
+1,1,2,4,3,NON-STEM,300,4,56000,8,Male,White or of European descent,30,2
+5,8,6,10,3,STEM,20000,1,74000,8,Male,White or of European descent,30,2
+4,2,2,6,2,STEM,15,1,43700,8,Male,White or of European descent,30,1
+1,2,1,8,3,STEM,5,19,85000,12,Male,White or of European descent,40,3
+2,1,1,6,3,STEM,20000,13,88000,12,Male,White or of European descent,30,3
+,1,1,6,3,STEM,300,4,56000,12,Male,Other,30,2
+1,2,1,6,4,STEM,20000,19,140000,12,Male,White or of European descent,40,4
+4,,6,9,4,STEM,750,1,115000,14,Male,White or of European descent,30,4
+1,2,2,6,3,STEM,60,19,84000,12,Male,White or of European descent,50,3
+1,1,1,6,3,STEM,300,19,145000,8,Male,White or of European descent,40,4
+1,4,1,10,3,STEM,300,16,135000,12,Male,White or of European descent,40,4
+1,1,4,6,3,NON-STEM,5,4,130000,12,Male,White or of European descent,40,4
+2,3,3,8,3,NON-STEM,300,4,91000,8,Male,White or of European descent,30,3
+2,4,2,7,1,STEM,300,10,51000,14,,,30,2
+,3,2,6,3,STEM,20000,13,131000,12,Male,White or of European descent,40,4
+1,4,2,8,3,STEM,60,10,60000,12,Male,White or of European descent,30,2
+,3,1,7,3,STEM,60,13,60000,12,Male,Other,30,2
+4,4,4,8,1,,750,1,63000,8,Male,,,2
+1,4,3,8,1,STEM,60,16,132000,8,Male,White or of European descent,40,4
+,1,1,6,2,STEM,20000,30,150000,12,Male,White or of European descent,50,4
+3,5,2,7,3,STEM,60,7,86000,8,Male,White or of European descent,30,3
+2,4,2,7,3,STEM,5,25,90000,12,Male,White or of European descent,50,3
+1,7,1,5,2,STEM,300,7,60000,12,Male,White or of European descent,30,2
+,3,3,11,3,STEM,3000,4,90000,8,Male,White or of European descent,21,3
+3,4,3,5,3,NON-STEM,60,1,65000,14,Male,Other,30,2
+,2,1,9,1,STEM,300,7,50000,12,Male,Hispanic or Latino/Latina,30,1
+,3,2,7,3,STEM,15,1,96000,12,Male,Other,21,3
+1,6,3,8,3,STEM,60,7,155000,14,Male,White or of European descent,30,5
+2,3,3,5,1,NON-STEM,60,1,50000,8,Male,White or of European descent,21,1
+1,4,4,6,3,STEM,60,13,167000,8,Male,White or of European descent,40,5
+,7,,10,4,NON-STEM,60,7,102960,8,Male,White or of European descent,30,4
+1,1,2,6,3,STEM,3000,13,65000,14,Male,White or of European descent,30,2
+2,1,2,7,3,NON-STEM,60,7,73800,12,Male,White or of European descent,30,2
+2,1,1,7,3,STEM,300,4,75000,8,Male,White or of European descent,30,2
+2,3,1,6,1,STEM,15,4,75000,8,Male,White or of European descent,30,2
+3,1,2,2,3,STEM,750,1,130000,8,Non-Male,White or of European descent,21,4
+,1,1,4,4,STEM,5,1,120000,12,Male,White or of European descent,30,4
+2,2,2,3,3,,300,7,135000,8,Male,White or of European descent,40,4
+3,3,1,6,3,STEM,750,4,80000,12,Male,White or of European descent,21,3
+1,,2,5,4,STEM,60,4,90000,8,Male,White or of European descent,30,3
+,,1,4,3,STEM,3000,1,42000,12,Male,White or of European descent,30,1
+2,1,2,8,3,STEM,60,1,65000,14,Male,White or of European descent,21,2
+,,2,3,4,STEM,3000,1,98000,12,Non-Male,Other,30,3
+,,1,6,4,STEM,7500,10,76000,12,Male,White or of European descent,40,3
+2,2,1,8,3,STEM,300,10,96000,12,Male,White or of European descent,30,3
+,2,1,10,3,STEM,20000,7,86000,8,Male,White or of European descent,30,3
+1,4,2,11,1,STEM,60,16,160000,12,Non-Male,White or of European descent,30,5
+2,1,4,6,4,,60,4,80000,12,Male,White or of European descent,21,3
+4,5,6,7,4,STEM,7500,7,192500,8,Male,White or of European descent,50,5
+1,1,2,7,1,STEM,20000,25,30000,8,Male,White or of European descent,50,1
+6,8,8,20,4,STEM,300,7,105000,12,Male,White or of European descent,30,4
+1,2,1,4,4,STEM,15,4,100000,8,Male,White or of European descent,30,3
+3,7,5,9,1,STEM,15,7,72000,12,Male,White or of European descent,40,2
+,,3,6,1,STEM,300,4,80000,12,Male,White or of European descent,30,3
+2,3,3,11,4,STEM,750,13,120000,12,Male,White or of European descent,40,4
+1,,1,1,3,STEM,20000,1,60000,8,Male,White or of European descent,30,2
+,,2,7,3,STEM,3000,1,63000,8,Male,White or of European descent,21,2
+,2,,5,4,STEM,60,19,130500,8,Male,White or of European descent,30,4
+2,2,2,5,1,STEM,7500,4,80000,12,Male,Other,30,3
+3,4,2,10,4,STEM,15,30,135000,12,Male,,50,4
+1,2,2,7,2,STEM,15,10,45000,12,Male,White or of European descent,40,1
+2,3,3,11,4,STEM,15,4,125000,12,Male,White or of European descent,40,4
+,,,,2,STEM,7500,19,82500,,,,,3
+,2,,6,4,STEM,7500,19,221000,8,Male,White or of European descent,40,6
+2,,2,4,3,STEM,300,1,55000,14,Male,White or of European descent,30,2
+,1,2,3,3,STEM,20000,1,57000,8,Male,White or of European descent,30,2
+1,2,3,8,3,STEM,60,4,75000,12,Non-Male,White or of European descent,30,2
+,2,1,5,3,STEM,60,4,75000,12,Male,White or of European descent,30,2
+1,2,1,4,4,STEM,3000,10,100000,12,Male,White or of European descent,30,3
+1,2,3,5,4,,60,10,119000,8,Male,Hispanic or Latino/Latina,30,4
+1,2,2,8,3,STEM,5,4,46500,8,Male,White or of European descent,40,1
+2,4,3,7,4,NON-STEM,20000,16,87000,12,Male,White or of European descent,50,3
+5,2,2,7,1,STEM,300,7,71000,12,Male,White or of European descent,30,2
+6,5,8,11,3,STEM,60,1,62500,12,Male,White or of European descent,40,2
+1,2,3,4,3,STEM,20000,1,60000,8,Male,White or of European descent,40,2
+,6,2,10,3,STEM,5,13,100000,12,Male,White or of European descent,40,3
+1,1,2,5,4,STEM,300,4,100000,12,Male,White or of European descent,40,3
+1,,3,6,2,,20000,1,102000,14,Male,White or of European descent,30,4
+3,3,3,7,1,NON-STEM,15,19,80000,12,Male,White or of European descent,40,3
+3,2,4,7,1,STEM,60,1,36000,12,Male,White or of European descent,21,1
+2,6,5,11,3,STEM,20000,19,163000,8,Male,White or of European descent,40,5
+2,3,3,5,3,STEM,300,7,105000,8,Male,White or of European descent,30,4
+,2,3,8,3,STEM,60,1,60000,12,Male,Hispanic or Latino/Latina,21,2
+,2,2,5,3,STEM,300,28,90000,12,Male,White or of European descent,50,3
+1,4,,4,4,STEM,3000,7,110000,12,Male,White or of European descent,30,4
+,,2,2,4,STEM,20000,13,83300,8,Male,White or of European descent,40,3
+2,5,4,12,3,STEM,60,19,155000,12,Male,White or of European descent,40,5
+,4,2,5,4,STEM,20000,13,90000,8,,,40,3
+1,1,2,7,3,STEM,20000,16,205000,12,Male,,40,6
+3,2,3,8,1,NON-STEM,15,1,49000,12,Male,White or of European descent,40,1
+3,8,8,14,1,STEM,20000,25,240000,12,Male,White or of European descent,50,6
+2,3,4,9,1,,5,13,80000,12,Male,White or of European descent,40,3
+2,,3,7,3,STEM,15,4,32640,8,Male,White or of European descent,21,1
+2,2,4,8,4,STEM,3000,19,190000,12,Male,White or of European descent,40,5
+2,2,1,3,4,STEM,300,13,210000,12,Male,White or of European descent,30,6
+,2,1,5,4,NON-STEM,60,4,80000,14,Male,White or of European descent,30,3
+1,2,6,6,4,STEM,5,4,75000,12,Male,Hispanic or Latino/Latina,30,2
+4,10,8,8,2,STEM,15,4,120000,12,Male,,30,4
+,2,6,5,2,STEM,60,19,80000,12,Male,White or of European descent,40,3
+4,6,6,13,4,STEM,7500,10,185000,8,Male,White or of European descent,30,5
+2,3,3,3,3,STEM,300,30,85000,8,Male,White or of European descent,60,3
+,2,3,10,4,STEM,3000,10,94860,8,Male,White or of European descent,30,3
+1,2,1,6,1,NON-STEM,7500,13,50000,8,Male,White or of European descent,40,1
+3,2,5,4,3,NON-STEM,3000,10,50000,8,Male,White or of European descent,30,1
+2,1,3,5,4,STEM,750,1,100000,12,Male,White or of European descent,30,3
+2,1,1,3,3,STEM,3000,4,110000,8,Male,White or of European descent,30,4
+6,10,4,17,3,STEM,60,1,48000,14,Male,East Asian,30,1
+,1,,6,4,STEM,7500,7,119000,12,Male,White or of European descent,30,4
+,5,,5,3,STEM,7500,4,63000,4,Male,White or of European descent,21,2
+1,1,6,5,4,NON-STEM,300,4,145000,12,Male,White or of European descent,40,4
+4,4,3,5,1,STEM,20000,13,110000,12,Male,Hispanic or Latino/Latina,40,4
+,1,1,2,1,STEM,20000,4,102000,12,Male,White or of European descent,30,4
+2,2,5,7,4,STEM,20000,10,120000,,Male,White or of European descent,40,4
+,1,3,7,3,STEM,300,4,75000,12,Male,White or of European descent,30,2
+1,,2,4,4,STEM,60,7,102500,12,Non-Male,White or of European descent,40,4
+1,1,2,5,1,STEM,60,30,135000,12,Male,White or of European descent,50,4
+1,,2,4,3,STEM,750,4,60000,12,Male,White or of European descent,21,2
+2,4,8,7,4,STEM,300,4,177000,8,Non-Male,White or of European descent,40,5
+,,1,9,3,NON-STEM,20000,4,95500,12,Male,Hispanic or Latino/Latina,30,3
+1,4,3,10,2,STEM,5,28,135000,12,Male,White or of European descent,50,4
+3,3,5,12,4,STEM,750,22,180000,8,Male,White or of European descent,50,5
+6,4,5,16,4,STEM,60,10,130000,12,Male,White or of European descent,30,4
+4,2,5,8,3,STEM,20000,7,190000,12,Male,White or of European descent,30,5
+4,2,4,12,3,STEM,3000,4,70000,8,Male,White or of European descent,21,2
+1,3,4,6,3,STEM,15,22,196000,8,Male,Black or of African descent,40,5
+1,,2,3,3,STEM,3000,1,52000,12,Male,East Asian,30,2
+,,1,2,3,STEM,20000,1,63000,8,Male,White or of European descent,30,2
+1,2,,2,3,STEM,20000,1,47600,8,Male,White or of European descent,30,1
+5,3,4,5,3,STEM,15,4,120000,12,Male,White or of European descent,30,4
+,,1,2,4,NON-STEM,20000,1,40000,12,Male,East Asian,30,1
+4,4,6,7,3,STEM,60,4,42000,12,Non-Male,,30,1
+,1,1,2,4,STEM,20000,4,105000,8,Male,White or of European descent,30,4
+6,4,6,13,3,NON-STEM,15,4,130000,12,Male,White or of European descent,30,4
+3,2,2,7,3,STEM,750,22,145000,12,Male,White or of European descent,50,4
+1,3,1,8,3,STEM,20000,1,65000,8,Male,White or of European descent,21,2
+1,2,4,6,4,STEM,300,10,63000,12,Non-Male,White or of European descent,30,2
+,1,1,3,3,STEM,20000,1,55000,12,Male,White or of European descent,21,2
+5,3,2,9,3,STEM,300,7,66000,12,Male,White or of European descent,30,2
+2,1,2,9,3,STEM,5,4,41000,12,Male,White or of European descent,21,1
+7,10,6,12,1,STEM,60,7,85000,12,Male,Hispanic or Latino/Latina,40,3
+,1,1,6,4,STEM,20000,10,151000,12,Male,White or of European descent,30,5
+1,3,1,8,3,NON-STEM,60,4,50000,12,Male,White or of European descent,30,1
+2,2,5,7,1,STEM,5,19,92000,8,Male,White or of European descent,40,3
+1,3,1,11,3,STEM,300,19,160000,14,,,,5
+2,2,2,10,1,STEM,300,13,100000,12,Male,White or of European descent,40,3
+3,,5,8,3,NON-STEM,300,4,58000,8,Male,White or of European descent,30,2
+,,2,7,4,STEM,20000,4,113000,12,Male,White or of European descent,30,4
+4,6,3,13,3,STEM,60,4,75000,12,,,30,2
+1,3,3,7,3,STEM,60,4,65000,12,Male,,21,2
+,1,2,5,1,,20000,10,84000,14,,,,3
+2,6,6,6,3,STEM,15,10,80000,12,Male,White or of European descent,40,3
+3,6,4,9,4,STEM,20000,16,130000,8,Male,White or of European descent,40,4
+,4,1,3,2,STEM,7500,30,91000,8,Male,White or of European descent,60,3
+2,1,3,9,4,STEM,7500,22,180000,4,Male,White or of European descent,40,5
+,1,2,7,3,STEM,60,22,102000,12,Male,White or of European descent,40,4
+3,3,3,7,2,STEM,60,16,80000,12,Male,White or of European descent,30,3
+2,3,5,9,3,STEM,5,7,86000,12,Male,White or of European descent,30,3
+3,6,6,7,1,STEM,60,10,70000,12,Male,White or of European descent,30,2
+3,4,6,7,4,STEM,300,16,145000,12,Male,White or of European descent,40,4
+,1,2,5,3,STEM,15,19,80000,12,Male,White or of European descent,40,3
+4,1,3,12,3,STEM,300,28,125000,12,Male,White or of European descent,50,4
+,2,2,7,1,,3000,7,90000,12,Male,White or of European descent,40,3
+1,1,3,7,3,STEM,60,13,87000,12,Male,,30,3
+3,4,1,7,3,STEM,5,28,135000,8,Male,,60,4
+2,2,2,5,3,STEM,60,1,110000,8,Male,Other,30,4
+2,1,1,5,3,STEM,3000,4,89500,8,Male,White or of European descent,21,3
+1,5,5,7,3,STEM,20000,1,103000,8,Male,White or of European descent,30,4
+3,3,3,3,3,STEM,20000,7,80000,12,Male,,21,3
+,3,1,7,4,STEM,60,19,130000,12,Male,White or of European descent,40,4
+4,4,4,7,1,STEM,3000,7,130000,14,Male,White or of European descent,30,4
+2,3,5,4,1,STEM,3000,13,66000,12,Male,White or of European descent,40,2
+2,2,6,11,3,STEM,3000,7,72000,12,Male,White or of European descent,30,2
+3,1,3,6,3,NON-STEM,20000,16,150000,12,Male,,,4
+2,,,6,4,STEM,60,13,175000,14,Male,Other,40,5
+1,8,4,8,3,STEM,15,10,98000,8,Male,White or of European descent,40,3
+,3,3,4,4,STEM,60,1,90000,8,Male,White or of European descent,40,3
+3,1,3,5,1,,60,16,90000,12,Male,White or of European descent,30,3
+2,6,4,8,2,STEM,750,7,51000,12,Male,White or of European descent,30,2
+2,2,1,7,4,STEM,20000,16,108000,12,Male,White or of European descent,40,4
+,1,1,6,3,STEM,7500,7,70000,8,Male,White or of European descent,30,2
+1,1,1,3,3,,750,4,61200,12,Male,White or of European descent,30,2
+,2,,2,3,STEM,60,19,105000,12,Male,White or of European descent,40,4
+5,8,12,19,1,STEM,3000,16,180939,14,Male,White or of European descent,30,5
+2,6,11,16,1,,60,22,150000,14,Non-Male,White or of European descent,40,4
+1,3,3,8,3,STEM,15,19,121000,8,Male,White or of European descent,40,4
+3,4,6,11,3,STEM,15,10,50000,12,,,,1
+3,2,9,7,3,STEM,300,16,170000,8,Male,White or of European descent,40,5
+,,,7,3,STEM,3000,1,35000,8,Non-Male,White or of European descent,21,1
+1,1,1,3,3,STEM,300,4,58500,14,Male,White or of European descent,40,2
+1,1,1,14,3,STEM,3000,16,95000,12,Male,White or of European descent,40,3
+4,5,5,4,3,STEM,20000,4,65000,8,Male,White or of European descent,21,2
+2,3,2,3,4,NON-STEM,20000,19,130000,12,Male,White or of European descent,40,4
+,,3,5,3,STEM,60,4,45000,12,Male,White or of European descent,30,1
+1,1,1,8,1,,750,4,48000,8,Male,White or of European descent,30,1
+1,,3,9,1,STEM,15,4,77000,12,Male,Other,40,3
+,1,2,8,3,NON-STEM,20000,4,150000,14,Male,White or of European descent,30,4
+3,5,6,11,3,STEM,15,22,150000,14,Male,White or of European descent,40,4
+3,,1,6,1,NON-STEM,300,16,107000,12,Male,White or of European descent,50,4
+1,1,1,6,3,STEM,3000,1,66000,8,Male,White or of European descent,21,2
+,,,,4,STEM,20000,4,70000,,,,,2
+2,6,2,7,3,STEM,5,4,42000,8,Male,White or of European descent,30,1
+3,2,3,7,1,,750,10,90500,12,Male,White or of European descent,50,3
+,1,1,7,4,STEM,60,10,60000,12,Male,White or of European descent,30,2
+2,2,2,13,4,STEM,60,7,110000,8,Male,White or of European descent,30,4
+,5,2,6,3,STEM,750,1,62000,12,Male,Hispanic or Latino/Latina,30,2
+3,2,2,8,3,STEM,20000,7,85500,12,Male,White or of European descent,30,3
+1,1,4,9,3,STEM,15,16,125000,8,Male,White or of European descent,40,4
+1,3,3,4,1,STEM,60,7,160000,12,Male,White or of European descent,30,5
+2,7,4,13,3,STEM,60,30,150000,12,Male,White or of European descent,50,4
+,1,1,6,2,NON-STEM,300,19,120000,8,Male,White or of European descent,50,4
+,,,2,3,STEM,20000,1,53600,12,Male,White or of European descent,30,2
+,5,6,5,3,STEM,60,4,125000,12,Male,White or of European descent,30,4
+,,,4,4,STEM,20000,7,118000,12,Male,Black or of African descent,30,4
+2,4,6,13,4,STEM,20000,19,160000,8,Male,White or of European descent,50,5
+1,1,2,5,4,STEM,7500,25,105000,12,Non-Male,,,4
+,1,,,1,NON-STEM,300,30,74000,8,Male,White or of European descent,60,2
+1,6,4,13,3,STEM,15,13,100000,12,Non-Male,White or of European descent,40,3
+2,2,,2,4,NON-STEM,7500,1,60000,12,Non-Male,White or of European descent,30,2
+1,4,4,7,4,NON-STEM,3000,10,55000,8,Male,White or of European descent,30,2
+9,6,9,12,3,STEM,750,30,100000,14,,White or of European descent,60,3
+,2,3,7,3,STEM,5,1,55000,12,Male,White or of European descent,21,2
+2,,1,6,3,STEM,300,13,90000,12,Male,White or of European descent,30,3
+,2,,2,4,STEM,750,30,200000,12,Male,White or of European descent,50,5
+3,6,4,8,4,STEM,3000,30,120000,14,Male,Hispanic or Latino/Latina,40,4
+,,3,5,1,STEM,15,13,56000,14,Male,White or of European descent,40,2
+3,2,3,8,2,STEM,15,4,48880,14,Male,White or of European descent,30,1
+,,3,7,3,NON-STEM,300,16,64000,12,Male,White or of European descent,40,2
+2,1,3,8,3,NON-STEM,60,4,135000,12,Male,,30,4
+1,,3,6,3,NON-STEM,750,19,82000,12,Male,White or of European descent,50,3
+4,3,4,9,1,STEM,60,10,110000,12,Male,White or of European descent,30,4
+1,3,6,7,3,STEM,5,7,140000,8,Male,White or of European descent,30,4
+4,,1,8,3,STEM,300,7,100000,12,Male,White or of European descent,30,3
+2,2,2,7,1,NON-STEM,60,1,31000,12,Male,White or of European descent,30,1
+1,,1,4,1,NON-STEM,300,4,47500,8,Male,White or of European descent,40,1
+2,3,2,4,4,STEM,20000,13,117000,12,Male,,40,4
+,1,3,5,3,NON-STEM,15,7,90000,12,Male,Other,40,3
+1,4,5,12,3,STEM,5,10,145000,12,Male,White or of European descent,30,4
+1,4,4,7,3,STEM,20000,10,112000,14,Male,White or of European descent,30,4
+,3,1,6,4,STEM,20000,7,150000,12,Non-Male,White or of European descent,30,4
+2,4,8,7,3,STEM,300,4,175000,,,,,5
+2,5,3,7,1,STEM,300,22,175000,12,Male,White or of European descent,50,5
+3,2,2,8,1,NON-STEM,300,4,60100,12,Male,White or of European descent,40,2
+2,1,,5,4,STEM,300,25,110000,8,Male,White or of European descent,50,4
+1,3,1,6,3,STEM,300,10,145000,12,Male,White or of European descent,40,4
+2,5,3,11,3,STEM,5,7,45000,14,Male,White or of European descent,40,1
+3,6,2,10,2,STEM,300,10,115000,8,Male,White or of European descent,40,4
+,1,1,2,4,STEM,20000,10,90000,12,Non-Male,White or of European descent,30,3
+2,1,1,6,1,,60,25,140000,12,Male,White or of European descent,50,4
+,2,5,6,3,STEM,60,10,71000,12,Male,White or of European descent,40,2
+1,2,4,11,4,STEM,20000,10,120000,12,Male,White or of European descent,30,4
+2,2,2,12,3,STEM,300,7,90000,14,Male,White or of European descent,30,3
+1,2,2,6,2,STEM,15,10,94000,8,Male,White or of European descent,40,3
+3,3,2,5,4,STEM,750,1,85000,12,Male,Hispanic or Latino/Latina,30,3
+1,4,5,8,3,STEM,300,7,87000,8,Male,White or of European descent,30,3
+2,4,7,6,3,NON-STEM,3000,7,115000,12,Male,White or of European descent,30,4
+4,,6,8,3,STEM,20000,4,94000,8,Male,Hispanic or Latino/Latina,30,3
+,1,1,4,3,STEM,7500,1,60000,12,Non-Male,Other,30,2
+,1,2,5,1,NON-STEM,300,4,76000,12,Male,White or of European descent,30,3
+2,2,7,7,3,STEM,3000,7,177000,12,Male,White or of European descent,30,5
+3,1,2,5,3,NON-STEM,60,10,128500,12,Male,White or of European descent,40,4
+,3,2,5,3,,5,22,120000,12,Male,White or of European descent,50,4
+,2,2,5,3,NON-STEM,60,1,52000,8,Male,White or of European descent,21,2
+,4,1,6,4,STEM,20000,13,99000,12,Non-Male,White or of European descent,40,3
+3,5,5,11,3,STEM,300,28,104000,12,Male,White or of European descent,50,4
+,2,4,5,3,STEM,60,4,120000,12,Male,White or of European descent,21,4
+1,5,5,10,1,STEM,20000,7,123097,12,Male,White or of European descent,30,4
+4,2,8,7,3,STEM,300,4,100000,12,Male,White or of European descent,30,3
+2,4,4,7,3,STEM,15,25,147000,12,Male,White or of European descent,50,4
+1,4,6,9,4,STEM,15,10,70000,14,Male,White or of European descent,30,2
+1,2,6,4,4,STEM,300,1,85000,14,Non-Male,White or of European descent,30,3
+3,4,1,10,3,STEM,5,4,63500,14,Male,White or of European descent,30,2
+1,4,7,10,1,NON-STEM,3000,10,129800,12,Male,White or of European descent,30,4
+2,3,2,7,1,STEM,5,30,140000,8,Male,Other,50,4
+2,1,1,8,3,STEM,20000,22,87127,12,Male,White or of European descent,50,3
+,,,1,4,STEM,20000,7,94000,8,Male,White or of European descent,50,3
+3,3,2,19,3,STEM,750,13,102000,12,Male,White or of European descent,30,4
+,4,2,7,3,STEM,3000,28,90000,12,Male,White or of European descent,,3
+,1,1,4,4,STEM,3000,1,85000,12,Male,White or of European descent,30,3
+6,6,4,7,1,STEM,60,4,60000,14,Male,White or of European descent,30,2
+,3,3,8,2,,300,30,104000,12,Male,White or of European descent,50,4
+,,1,3,3,STEM,3000,4,105000,8,Male,White or of European descent,40,4
+,3,3,7,3,STEM,20000,4,60000,8,,Black or of African descent,30,2
+7,,11,6,3,NON-STEM,300,4,115000,8,Male,White or of European descent,40,4
+1,1,3,5,3,STEM,15,19,130000,8,Male,White or of European descent,50,4
+,,,,3,STEM,300,19,99000,,,,,3
+,,1,4,3,STEM,3000,1,80000,12,Male,White or of European descent,30,3
+3,8,5,13,1,STEM,7500,10,77000,12,Male,White or of European descent,40,3
+3,6,2,8,3,STEM,5,4,52000,14,Male,Other,21,2
+3,5,2,10,3,STEM,5,7,75000,12,Male,White or of European descent,30,2
+1,4,5,8,3,STEM,20000,22,140000,8,Male,White or of European descent,40,4
+1,1,2,5,3,STEM,300,25,111000,8,Male,White or of European descent,50,4
+2,3,4,8,3,STEM,5,7,120000,12,Male,White or of European descent,30,4
+5,4,2,4,4,STEM,300,1,195000,12,Male,White or of European descent,30,5
+2,4,2,13,3,STEM,60,16,80000,8,Male,White or of European descent,40,3
+,2,6,5,4,NON-STEM,3000,7,85000,12,Male,Black or of African descent,30,3
+2,4,3,10,3,NON-STEM,5,4,120000,8,Male,White or of European descent,30,4
+3,3,5,13,3,STEM,300,16,164000,12,Male,White or of European descent,30,5
+3,,5,9,2,STEM,15,7,120000,12,Male,White or of European descent,30,4
+3,4,4,6,3,STEM,3000,4,145000,12,Male,White or of European descent,30,4
+5,5,6,12,3,STEM,60,10,200000,14,Male,White or of European descent,30,5
+,2,2,3,3,STEM,300,1,48000,12,Non-Male,White or of European descent,21,1
+,2,2,3,3,NON-STEM,60,4,125000,8,Male,White or of European descent,30,4
+3,,2,7,4,STEM,5,22,160000,12,Male,White or of European descent,50,5
+2,,2,8,4,STEM,3000,4,70000,12,Male,White or of European descent,30,2
+,,,4,4,STEM,20000,16,124000,12,,,,4
+1,,3,4,1,,7500,16,180000,12,Male,White or of European descent,30,5
+3,5,6,9,1,STEM,60,4,93000,12,Male,White or of European descent,40,3
+2,3,2,5,1,NON-STEM,3000,7,85000,12,Male,White or of European descent,40,3
+3,3,10,6,1,STEM,20000,4,180000,12,Male,White or of European descent,30,5
+4,10,8,15,3,STEM,300,16,105000,12,Male,White or of European descent,40,4
+4,7,4,4,1,,750,16,150000,14,Male,White or of European descent,30,4
+2,2,4,6,3,STEM,5,16,103000,12,Male,White or of European descent,40,4
+,4,,,4,STEM,5,1,150000,14,Male,White or of European descent,40,4
+2,1,3,6,3,STEM,3000,16,130000,8,Male,White or of European descent,40,4
+1,4,5,7,4,STEM,60,10,95000,12,Non-Male,White or of European descent,30,3
+3,2,5,8,3,STEM,60,7,133000,8,Male,White or of European descent,50,4
+2,5,4,8,3,NON-STEM,5,7,85000,12,,,,3
+2,2,,4,4,STEM,5,1,76000,12,Male,White or of European descent,30,3
+2,6,4,8,3,NON-STEM,300,1,59000,12,Male,White or of European descent,30,2
+,,1,4,3,STEM,300,4,100000,8,Male,Black or of African descent,30,3
+2,4,3,10,4,STEM,20000,10,87500,8,Male,White or of European descent,30,3
+1,5,5,9,3,NON-STEM,300,7,100000,8,Male,White or of European descent,40,3
+1,3,3,7,3,NON-STEM,15,10,80000,8,Male,White or of European descent,30,3
+3,2,1,5,4,STEM,20000,16,135000,12,Male,White or of European descent,50,4
+3,2,2,5,3,STEM,20000,19,151000,8,Male,Hispanic or Latino/Latina,40,5
+2,,1,2,3,STEM,7500,7,74000,12,Male,White or of European descent,30,2
+,6,2,5,3,,20000,19,128000,12,Male,White or of European descent,40,4
+3,4,4,10,1,STEM,60,1,50000,12,Male,White or of European descent,21,1
+1,,,3,3,STEM,60,4,110000,14,Male,White or of European descent,30,4
+3,4,7,9,3,NON-STEM,7500,13,169000,12,Male,White or of European descent,40,5
+2,4,5,3,3,STEM,750,10,185000,8,Male,White or of European descent,40,5
+,2,,4,4,STEM,3000,10,97000,12,Male,White or of European descent,30,3
+,2,,2,4,STEM,300,4,110000,8,Male,White or of European descent,30,4
+3,,5,4,3,STEM,15,30,80000,14,Male,White or of European descent,60,3
+,1,,5,4,STEM,20000,4,83000,14,Male,White or of European descent,30,3
+2,4,5,6,4,STEM,300,4,82000,12,Male,White or of European descent,30,3
+2,2,2,4,3,STEM,60,1,70000,12,Male,,21,2
+3,3,,4,4,,60,10,140000,8,Male,White or of European descent,40,4
+1,1,2,4,3,STEM,300,13,140000,12,Male,White or of European descent,40,4
+4,5,5,8,4,NON-STEM,300,4,110000,8,Male,White or of European descent,30,4
+3,4,1,7,3,NON-STEM,300,4,55625,8,Male,White or of European descent,30,2
+2,2,6,7,3,,300,7,110000,12,Male,White or of European descent,30,4
+2,2,4,7,3,STEM,750,16,80000,12,Male,Hispanic or Latino/Latina,50,3
+1,6,5,7,4,STEM,7500,7,99000,12,Male,White or of European descent,30,3
+6,4,5,8,4,NON-STEM,300,4,87000,8,Male,White or of European descent,30,3
+2,4,7,9,4,STEM,60,10,110000,12,Male,East Asian,40,4
+,2,1,6,3,STEM,60,10,126000,8,Male,White or of European descent,40,4
+6,7,8,15,1,STEM,15,10,90000,12,Male,White or of European descent,30,3
+,2,1,7,3,,15,7,75000,12,Male,White or of European descent,30,2
+2,1,3,12,2,STEM,300,13,82000,8,Male,White or of European descent,60,3
+,,3,7,3,NON-STEM,5,4,52000,8,Non-Male,White or of European descent,21,2
+,2,1,4,4,,300,16,139000,8,Male,White or of European descent,50,4
+1,1,3,5,1,STEM,5,1,34496,8,Non-Male,White or of European descent,21,1
+3,7,9,10,4,NON-STEM,15,4,135000,12,Non-Male,White or of European descent,40,4
+,1,2,3,4,STEM,300,13,120000,12,Male,Other,40,4
+2,7,3,7,3,STEM,60,10,80000,8,Male,White or of European descent,21,3
+2,1,4,9,3,STEM,20000,4,190000,8,Male,Hispanic or Latino/Latina,30,5
+1,3,3,3,4,STEM,3000,4,150000,8,Male,White or of European descent,40,4
+,,,8,3,STEM,60,10,85000,,,,,3
+2,3,3,11,3,STEM,750,22,138000,12,Male,White or of European descent,40,4
+1,1,1,6,4,STEM,300,30,90000,8,Male,,50,3
+1,1,1,8,3,STEM,20000,1,75000,12,Male,,21,2
+3,2,1,3,3,STEM,60,1,95000,12,Male,East Asian,21,3
+1,1,2,5,3,STEM,15,4,87000,8,Male,White or of European descent,30,3
+1,,4,7,2,STEM,300,1,23000,12,Male,White or of European descent,30,
+3,3,3,9,2,STEM,15,7,50000,14,Male,White or of European descent,30,1
+,1,1,4,4,STEM,3000,16,162000,8,Male,White or of European descent,40,5
+3,5,1,8,3,STEM,15,19,94000,12,Male,White or of European descent,40,3
+2,6,9,11,3,NON-STEM,15,4,120000,14,Male,White or of European descent,30,4
+2,2,2,5,1,STEM,3000,19,85000,12,Male,White or of European descent,40,3
+,,3,6,3,STEM,300,4,54000,8,Male,White or of European descent,30,2
+4,2,1,13,4,STEM,60,4,66000,12,Male,East Asian,30,2
+2,4,3,6,1,NON-STEM,20000,16,112000,12,Male,White or of European descent,40,4
+2,2,2,9,3,STEM,20000,1,86000,8,Male,White or of European descent,40,3
+2,1,4,9,1,STEM,15,1,80000,14,Male,White or of European descent,30,3
+2,1,9,10,4,STEM,300,4,69000,8,Male,White or of European descent,30,2
+1,4,2,6,1,STEM,5,16,90000,12,Male,White or of European descent,40,3
+3,1,4,6,3,STEM,15,13,115000,12,Male,White or of European descent,40,4
+2,1,1,7,3,STEM,300,22,130000,8,Non-Male,White or of European descent,40,4
+,1,1,7,3,STEM,300,25,150000,8,Male,White or of European descent,40,4
+,3,2,3,4,STEM,300,4,120000,12,Male,White or of European descent,40,4
+3,1,3,5,3,STEM,3000,1,45000,12,Male,White or of European descent,21,1
+2,1,2,7,4,STEM,3000,10,126000,14,Male,Other,30,4
+3,7,4,11,3,STEM,3000,7,75000,12,Male,,30,2
+4,3,5,9,1,STEM,15,1,75000,12,Male,White or of European descent,40,2
+,1,2,7,4,STEM,300,28,135000,14,,White or of European descent,50,4
+1,1,1,7,1,STEM,15,10,105000,14,Male,White or of European descent,30,4
+3,3,,5,1,NON-STEM,3000,10,120000,12,Male,White or of European descent,30,4
+4,1,2,7,3,NON-STEM,300,19,120000,12,Male,White or of European descent,40,4
+,,,5,4,STEM,3000,1,78780,12,Male,Hispanic or Latino/Latina,30,3
+,2,1,2,4,STEM,15,10,129000,8,Male,White or of European descent,30,4
+3,1,2,8,3,STEM,60,13,120000,8,Male,White or of European descent,40,4
+1,,,4,4,NON-STEM,7500,10,225000,12,Male,White or of European descent,40,6
+,,5,11,3,STEM,60,4,81000,12,,,,3
+,2,1,6,3,STEM,3000,16,38000,12,Non-Male,White or of European descent,40,1
+,4,2,7,2,NON-STEM,60,13,150000,8,Male,White or of European descent,40,4
+,2,2,7,1,STEM,60,22,60000,12,Male,White or of European descent,40,2
+2,4,3,6,3,NON-STEM,3000,4,135000,8,,East Asian,30,4
+2,3,4,9,3,STEM,7500,4,78000,12,Male,White or of European descent,30,3
+,1,,5,3,NON-STEM,5,4,40000,12,Male,White or of European descent,30,1
+,,1,5,3,STEM,7500,4,80000,12,Male,White or of European descent,30,3
+3,3,4,7,1,STEM,15,10,95000,14,Male,White or of European descent,30,3
+,1,3,9,3,STEM,300,19,154000,8,Male,White or of European descent,40,5
+,2,,6,4,NON-STEM,3000,1,140000,12,Male,White or of European descent,30,4
+4,2,1,3,3,STEM,20000,1,76000,12,Male,White or of European descent,30,3
+1,2,2,8,3,STEM,20000,4,86000,12,Male,White or of European descent,30,3
+1,2,4,8,1,STEM,750,4,70000,12,Male,White or of European descent,40,2
+,1,2,6,1,NON-STEM,15,4,65000,14,Male,White or of European descent,21,2
+1,6,6,9,3,NON-STEM,60,7,89000,12,Male,,40,3
+2,,2,6,2,NON-STEM,750,10,80000,12,Male,White or of European descent,30,3
+1,2,2,5,2,STEM,300,4,80000,12,Male,White or of European descent,30,3
+1,,2,6,1,STEM,750,25,221000,4,Male,White or of European descent,50,6
+2,2,3,8,4,STEM,3000,7,108000,8,Male,White or of European descent,30,4
+,1,,9,3,STEM,20000,13,106500,8,Male,Other,30,4
+,,1,7,3,STEM,20000,4,73500,12,Non-Male,White or of European descent,30,2
+2,,1,4,4,NON-STEM,60,4,95000,14,Male,White or of European descent,30,3
+,,2,6,4,NON-STEM,20000,4,96000,8,Male,White or of European descent,40,3
+2,4,4,15,4,STEM,20000,13,135000,14,Male,White or of European descent,30,4
+3,3,8,11,1,,300,16,180000,12,Male,,40,5
+,3,2,5,3,NON-STEM,15,7,55000,8,Non-Male,White or of European descent,30,2
+,1,1,7,3,STEM,15,7,100000,12,Male,White or of European descent,30,3
+2,3,2,7,3,STEM,20000,1,65000,14,Male,East Asian,21,2
+2,10,2,12,1,NON-STEM,20000,30,135000,12,Male,White or of European descent,60,4
+,2,3,3,1,,60,19,116000,12,Male,White or of European descent,50,4
+1,1,1,4,3,STEM,60,22,120000,12,Male,White or of European descent,50,4
+1,1,1,5,4,STEM,60,4,115000,12,Male,White or of European descent,40,4
+1,1,1,5,3,STEM,5,4,70000,12,Male,White or of European descent,30,2
+1,4,2,7,1,,300,16,113000,14,Male,White or of European descent,30,4
+3,4,4,8,3,STEM,20000,19,91000,8,Male,White or of European descent,60,3
+4,3,4,7,3,STEM,300,10,87000,12,Male,White or of European descent,40,3
+,,1,2,3,NON-STEM,60,1,52000,8,Non-Male,White or of European descent,30,2
+,,1,2,3,STEM,300,10,110000,12,Male,White or of European descent,40,4
+2,1,2,6,3,STEM,60,4,49000,14,Male,White or of European descent,30,1
+,,1,6,3,NON-STEM,60,1,75000,12,Male,White or of European descent,30,2
+,,2,4,3,STEM,750,4,105000,12,Male,White or of European descent,30,4
+,1,1,5,1,STEM,15,22,75000,12,Male,White or of European descent,50,2
+4,6,5,7,1,STEM,15,10,75000,12,,,,2
+1,,,4,3,STEM,20000,19,80000,12,Male,White or of European descent,40,3
+1,2,2,4,1,NON-STEM,300,19,50000,12,Non-Male,White or of European descent,40,1
+1,3,2,12,3,STEM,300,13,120000,14,Male,White or of European descent,21,4
+1,2,1,10,1,,60,7,65000,12,Male,White or of European descent,30,2
+,2,1,5,1,STEM,300,4,125000,12,Male,White or of European descent,30,4
+,,2,1,4,STEM,3000,28,124000,8,Male,White or of European descent,50,4
+1,3,6,8,3,NON-STEM,15,7,85000,8,Non-Male,White or of European descent,30,3
+,2,2,5,3,STEM,15,4,40000,12,Male,White or of European descent,30,1
+2,,3,4,4,STEM,7500,4,140000,8,Male,White or of European descent,21,4
+1,1,1,5,3,STEM,15,13,112000,12,Male,White or of European descent,30,4
+3,6,3,7,1,NON-STEM,15,10,100000,12,Male,White or of European descent,40,3
+,2,5,10,1,,60,7,100000,12,Male,White or of European descent,30,3
+2,1,1,8,1,,750,7,116000,12,Male,White or of European descent,30,4
+,,2,7,4,STEM,15,1,60000,12,Male,White or of European descent,30,2
+2,,2,9,2,STEM,5,4,59529,14,Male,White or of European descent,30,2
+1,1,1,7,1,NON-STEM,300,4,87500,8,Male,White or of European descent,50,3
+1,2,,5,3,STEM,7500,4,141000,12,Male,East Asian,30,4
+,5,3,7,3,STEM,300,4,60000,12,Male,White or of European descent,30,2
+2,,2,3,3,STEM,20000,1,58000,8,Male,White or of European descent,30,2
+1,3,3,3,4,STEM,300,4,120000,8,Male,East Asian,30,4
+1,3,2,5,4,STEM,60,1,65000,12,Male,East Asian,30,2
+1,2,,4,4,STEM,20000,7,110000,12,Male,White or of European descent,30,4
+,5,2,12,3,NON-STEM,7500,7,94000,12,Male,White or of European descent,30,3
+,1,1,7,3,STEM,3000,4,53000,8,,White or of European descent,30,2
+2,2,2,5,4,STEM,20000,16,150000,14,Male,White or of European descent,40,4
+,,5,4,3,STEM,20000,1,120000,12,Male,East Asian,40,4
+,2,1,3,4,STEM,5,1,85000,8,Male,Hispanic or Latino/Latina,30,3
+3,6,6,11,4,STEM,20000,4,175000,12,Male,White or of European descent,30,5
+,1,,3,2,STEM,20000,4,78000,12,Male,White or of European descent,21,3
+,2,1,2,2,STEM,60,1,45000,12,Male,White or of European descent,40,1
+,3,1,3,3,STEM,20000,10,130000,12,Male,Other,30,4
+3,6,5,7,3,STEM,300,4,80000,12,Non-Male,White or of European descent,30,3
+,1,2,4,3,STEM,60,19,150000,12,Male,White or of European descent,50,4
+1,3,3,8,2,STEM,3000,1,53500,12,Male,White or of European descent,30,2
+4,12,6,12,3,STEM,60,7,80000,14,Male,White or of European descent,21,3
+1,1,1,4,4,NON-STEM,60,30,140000,12,Male,White or of European descent,60,4
+,1,1,3,3,NON-STEM,3000,4,70000,12,Male,White or of European descent,30,2
+,5,3,6,1,STEM,60,4,65000,12,Male,Hispanic or Latino/Latina,30,2
+,,,,4,NON-STEM,20000,1,61003,12,Non-Male,Black or of African descent,30,2
+4,2,3,8,3,STEM,60,4,110000,8,Male,Hispanic or Latino/Latina,30,4
+1,6,4,9,1,,300,10,54000,12,Male,White or of European descent,40,2
+4,1,1,9,3,STEM,60,1,75000,8,Male,Hispanic or Latino/Latina,30,2
+2,3,2,11,3,STEM,60,1,51000,14,Male,White or of European descent,21,2
+2,1,2,9,3,STEM,300,4,65000,12,Male,White or of European descent,30,2
+3,6,5,7,4,STEM,20000,13,115000,8,Male,Hispanic or Latino/Latina,40,4
+4,6,9,9,3,STEM,3000,16,116500,8,Male,White or of European descent,40,4
+2,1,1,9,1,STEM,20000,4,80000,1,Male,White or of European descent,30,3
+3,2,5,7,3,NON-STEM,750,16,180000,8,Male,White or of European descent,40,5
+,,5,7,3,STEM,300,13,73500,8,Male,White or of European descent,30,2
+2,7,7,8,1,,20000,10,72000,12,Male,White or of European descent,40,2
+,1,,2,4,,20000,4,165000,14,Male,Other,40,5
+2,7,4,11,1,STEM,15,4,90000,14,Male,Hispanic or Latino/Latina,21,3
+1,2,4,6,2,STEM,15,7,110000,14,Male,White or of European descent,30,4
+2,3,3,6,1,,3000,19,135000,8,Male,White or of European descent,30,4
+1,5,3,7,3,STEM,60,7,90000,8,Male,White or of European descent,30,3
+1,9,7,10,3,STEM,300,4,91500,8,Male,White or of European descent,30,3
+1,5,4,6,4,NON-STEM,750,4,80000,8,Male,Hispanic or Latino/Latina,30,3
+2,3,3,6,4,STEM,60,4,98000,12,Non-Male,East Asian,40,3
+4,3,2,8,3,STEM,300,7,110000,12,Male,White or of European descent,30,4
+2,2,1,9,4,STEM,60,1,90000,12,Non-Male,White or of European descent,30,3
+2,2,1,8,1,STEM,60,1,60000,12,Male,White or of European descent,30,2
+1,2,1,7,4,STEM,20000,7,83000,12,Male,Other,30,3
+2,3,3,7,,,3000,16,93000,12,Male,White or of European descent,40,3
+1,1,1,3,3,NON-STEM,60,4,70000,12,Male,White or of European descent,30,2
+,1,2,7,3,STEM,300,10,120000,12,Male,White or of European descent,50,4
+2,6,2,8,2,STEM,15,1,39000,14,Male,White or of European descent,30,1
+5,3,3,11,1,NON-STEM,60,25,122500,12,Male,White or of European descent,40,4
+1,3,2,4,3,STEM,60,7,90000,8,Male,White or of European descent,30,3
+2,,3,8,4,NON-STEM,300,1,110000,12,Non-Male,White or of European descent,30,4
+1,2,2,10,3,STEM,60,4,60000,12,Male,White or of European descent,21,2
+1,3,2,6,3,STEM,20000,25,137000,12,Male,White or of European descent,50,4
+2,2,4,8,3,STEM,5,1,32500,12,Male,White or of European descent,40,1
+3,3,8,7,3,NON-STEM,300,13,140000,8,Male,White or of European descent,40,4
+2,5,2,8,3,STEM,750,4,80000,12,,,,3
+3,4,4,6,3,STEM,3000,1,63000,12,Male,White or of European descent,30,2
+3,7,6,9,3,NON-STEM,15,7,115000,12,Male,White or of European descent,30,4
+,3,4,10,4,STEM,60,13,140000,14,Male,White or of European descent,40,4
+3,,,3,3,STEM,60,4,75000,12,Male,White or of European descent,30,2
+1,3,2,7,2,STEM,7500,10,115000,12,Male,White or of European descent,30,4
+,1,,3,4,STEM,3000,13,74000,8,Male,White or of European descent,30,2
+,10,6,8,1,STEM,20000,4,41000,12,Male,White or of European descent,21,1
+3,2,6,9,1,,300,4,46000,14,Male,White or of European descent,30,1
+1,2,1,6,4,STEM,5,10,59004,8,Male,White or of European descent,30,2
+2,3,4,8,2,NON-STEM,60,4,80000,12,Male,,30,3
+2,5,2,8,2,NON-STEM,300,1,65000,12,Male,White or of European descent,21,2
+1,3,4,5,4,STEM,20000,16,92000,12,Male,Black or of African descent,50,3
+3,2,6,6,4,STEM,3000,30,120000,12,Male,White or of European descent,60,4
+,1,2,4,3,STEM,15,7,60000,12,,,,2
+2,5,3,4,3,,60,1,90000,8,Male,White or of European descent,50,3
+,1,3,4,4,STEM,3000,7,105000,8,Male,,40,4
+1,,4,9,3,STEM,20000,4,85000,12,Male,White or of European descent,21,3
+1,2,3,8,1,NON-STEM,15,4,90000,12,Non-Male,Black or of African descent,30,3
+3,3,6,13,3,STEM,20000,1,69500,12,Male,White or of European descent,30,2
+1,3,3,9,1,NON-STEM,300,19,95000,8,Non-Male,White or of European descent,40,3
+,1,2,8,2,STEM,15,7,95000,12,,,30,3
+1,1,,5,3,STEM,5,22,74000,12,Male,White or of European descent,40,2
+1,1,1,6,4,STEM,15,4,96000,12,Male,White or of European descent,30,3
+2,1,3,10,1,NON-STEM,3000,7,122000,12,Male,White or of European descent,30,4
+1,1,1,6,3,STEM,300,7,80000,12,Male,White or of European descent,40,3
+2,,2,4,3,STEM,60,10,70000,8,Male,White or of European descent,30,2
+1,3,2,5,1,STEM,60,13,94000,14,,,30,3
+,2,1,5,1,,20000,16,75653,12,Male,White or of European descent,60,3
+,,4,4,3,STEM,3000,4,85000,12,Non-Male,White or of European descent,30,3
+4,6,7,9,3,NON-STEM,300,19,212000,14,Male,White or of European descent,40,6
+2,5,3,19,3,STEM,15,7,160000,12,Male,White or of European descent,30,5
+1,,3,7,1,STEM,60,7,66000,12,Male,White or of European descent,30,2
+,2,1,5,2,STEM,750,4,56000,14,Male,White or of European descent,30,2
+1,1,4,2,4,STEM,300,7,131000,8,Male,Hispanic or Latino/Latina,30,4
+,1,,4,4,STEM,300,25,150000,8,Male,White or of European descent,50,4
+3,7,3,11,1,STEM,3000,7,120000,14,Male,White or of European descent,40,4
+2,2,4,5,3,STEM,20000,4,116000,8,Male,White or of European descent,21,4
+,3,1,7,3,NON-STEM,20000,1,60000,14,Male,White or of European descent,21,2
+1,4,3,1,3,STEM,60,1,56000,12,Male,White or of European descent,30,2
+1,1,1,2,4,STEM,3000,1,85000,12,Male,White or of European descent,30,3
+1,2,2,7,1,STEM,300,10,160000,,,,,5
+3,3,2,4,4,STEM,3000,4,150000,8,Male,White or of European descent,30,4
+2,5,4,8,4,NON-STEM,60,10,75000,12,Male,White or of European descent,50,2
+3,4,4,7,1,STEM,300,4,55000,12,Male,White or of European descent,30,2
+,,4,3,3,STEM,300,1,60000,12,Male,White or of European descent,21,2
+3,2,1,7,1,,20000,4,55000,8,Male,White or of European descent,21,2
+3,2,5,6,3,STEM,300,10,125000,12,Male,East Asian,30,4
+,2,5,2,3,STEM,300,16,90000,8,Male,,30,3
+3,,1,9,4,NON-STEM,20000,7,125000,12,Non-Male,White or of European descent,50,4
+,,1,5,3,NON-STEM,300,13,104300,12,Non-Male,White or of European descent,40,4
+5,5,14,17,3,STEM,3000,7,150000,14,Non-Male,White or of European descent,30,4
+,2,9,13,4,STEM,5,22,155000,12,Male,White or of European descent,40,5
+1,,1,4,4,NON-STEM,300,4,65000,12,,,30,2
+4,12,5,7,4,STEM,20000,7,150000,12,Male,White or of European descent,30,4
+1,1,1,8,1,STEM,5,10,96000,12,Male,White or of European descent,30,3
+1,,1,5,4,STEM,15,19,57500,12,Non-Male,White or of European descent,50,2
+1,1,1,7,4,NON-STEM,3000,4,79000,12,Male,East Asian,30,3
+1,1,5,3,4,,3000,10,105000,8,Male,White or of European descent,30,4
+2,3,2,5,1,STEM,20000,1,107000,14,Male,White or of European descent,21,4
+4,4,6,7,2,,7500,4,57000,12,Male,White or of European descent,21,2
+1,1,1,6,3,,20000,7,90000,12,Male,White or of European descent,30,3
+,2,,4,3,STEM,300,4,67000,8,Male,White or of European descent,30,2
+,2,4,8,3,NON-STEM,300,1,53000,12,Male,White or of European descent,21,2
+,3,4,7,3,NON-STEM,300,7,85000,12,Male,White or of European descent,30,3
+2,3,6,8,4,STEM,3000,7,100000,8,Male,Black or of African descent,30,3
+2,4,1,7,3,STEM,15,19,106000,8,Male,White or of European descent,40,4
+2,5,3,7,3,STEM,60,4,85000,14,Male,Hispanic or Latino/Latina,40,3
+2,1,1,1,3,STEM,7500,10,62000,8,Male,White or of European descent,40,2
+,2,1,5,1,STEM,15,30,120000,12,Male,White or of European descent,50,4
+7,7,2,12,3,STEM,7500,1,40000,12,Male,White or of European descent,21,1
+1,1,2,6,1,NON-STEM,3000,10,150000,12,Male,White or of European descent,30,4
+,2,1,8,3,STEM,750,13,115000,8,Male,White or of European descent,40,4
+,1,1,4,3,STEM,5,1,80000,8,Male,Other,21,3
+2,6,12,8,4,NON-STEM,300,30,180000,12,Male,White or of European descent,60,5
+6,4,7,8,3,STEM,60,16,105000,8,Male,White or of European descent,30,4
+3,5,4,7,3,STEM,750,4,65000,12,,White or of European descent,30,2
+,2,,2,4,STEM,60,19,140000,12,Male,White or of European descent,40,4
+2,2,2,5,3,STEM,3000,4,61000,12,Male,White or of European descent,21,2
+3,4,6,11,4,STEM,3000,7,107000,14,Male,White or of European descent,30,4
+,1,2,2,4,STEM,60,25,120000,12,Male,White or of European descent,50,4
+,2,2,8,3,STEM,750,10,90000,,,,,3
+2,2,5,6,3,STEM,300,4,65000,12,Male,White or of European descent,30,2
+1,,2,10,3,STEM,750,10,110000,12,Male,White or of European descent,30,4
+2,2,3,5,3,STEM,750,1,95000,14,Male,White or of European descent,30,3
+,4,2,7,3,STEM,20000,13,126000,12,,,,4
+,,1,5,4,NON-STEM,300,1,48000,14,Male,White or of European descent,30,1
+4,1,1,7,1,STEM,750,7,107000,12,Male,White or of European descent,30,4
+5,6,9,10,3,,7500,7,113000,12,Male,Hispanic or Latino/Latina,30,4
+3,1,1,6,3,STEM,300,1,67000,12,Male,White or of European descent,30,2
+2,4,4,7,1,NON-STEM,15,7,80000,12,Male,,30,3
+2,5,2,4,3,,300,4,115000,12,Male,White or of European descent,30,4
+,,1,6,3,NON-STEM,5,13,40000,12,Male,White or of European descent,50,1
+1,2,4,10,4,STEM,3000,13,160000,12,Male,Other,40,5
+,1,1,6,3,NON-STEM,750,19,113000,12,Male,White or of European descent,50,4
+,1,1,5,4,NON-STEM,300,7,43500,8,Male,White or of European descent,30,1
+7,4,1,7,1,STEM,15,1,30000,14,Male,White or of European descent,30,1
+2,4,1,5,4,STEM,7500,1,100300,8,Male,White or of European descent,30,4
+2,2,2,11,4,NON-STEM,3000,1,83500,8,Male,,30,3
+2,10,3,10,4,STEM,750,4,80000,12,Male,White or of European descent,40,3
+,,,3,4,STEM,3000,4,55000,8,Non-Male,White or of European descent,30,2
+1,6,5,7,3,STEM,60,7,130000,12,Male,White or of European descent,30,4
+6,5,3,5,4,STEM,3000,7,96000,12,Male,White or of European descent,30,3
+,1,1,6,3,STEM,15,1,60000,12,Male,White or of European descent,30,2
+4,1,4,9,3,STEM,60,4,76000,12,Male,White or of European descent,30,3
+3,,4,7,2,NON-STEM,60,1,45000,12,Male,White or of European descent,21,1
+4,5,5,11,4,STEM,20000,19,220000,12,Male,White or of European descent,40,6
+1,9,5,11,3,NON-STEM,750,22,98000,12,Male,Other,50,3
+2,,1,1,3,STEM,60,4,45000,12,Male,White or of European descent,50,1
+1,2,1,7,3,STEM,300,4,81000,8,Male,White or of European descent,30,3
+,,7,12,4,STEM,20000,30,200000,12,Male,White or of European descent,50,5
+,2,2,6,3,STEM,300,28,120000,8,Male,White or of European descent,50,4
+2,1,2,10,3,STEM,3000,16,79000,12,Male,Other,40,3
+1,2,2,8,3,STEM,60,4,75000,12,Male,White or of European descent,21,2
+2,,1,2,3,NON-STEM,300,4,110000,8,Male,White or of European descent,30,4
+1,2,2,6,3,NON-STEM,20000,16,134234,12,,,50,4
+,5,3,9,4,NON-STEM,20000,13,145000,12,Male,White or of European descent,30,4
+1,3,6,4,4,NON-STEM,60,1,150000,12,Non-Male,Other,30,4
+1,,3,5,3,STEM,60,4,52000,12,Male,Other,30,2
+1,,2,4,3,STEM,20000,4,88000,12,Male,White or of European descent,30,3
+2,6,3,8,3,STEM,750,13,70000,8,Male,White or of European descent,40,2
+2,4,2,6,3,STEM,750,4,78000,12,Male,White or of European descent,30,3
+2,5,7,6,1,STEM,3000,10,66000,12,Male,White or of European descent,40,2
+,,1,3,3,STEM,60,28,105000,8,Male,White or of European descent,60,4
+6,4,4,6,3,STEM,60,4,100000,12,Male,White or of European descent,30,3
+,2,2,6,4,NON-STEM,3000,19,95000,12,Male,White or of European descent,50,3
+2,8,6,12,1,,60,7,125000,12,Male,White or of European descent,21,4
+1,2,1,2,4,STEM,20000,7,147000,12,Male,,40,4
+1,1,,7,4,STEM,20000,22,120000,12,Male,White or of European descent,40,4
+,3,2,6,3,STEM,300,19,122000,12,Male,White or of European descent,40,4
+1,6,5,9,1,,60,7,140000,12,Male,White or of European descent,30,4
+4,3,2,5,4,STEM,20000,1,120000,8,Male,Black or of African descent,21,4
+,1,3,2,3,STEM,300,30,145000,12,Male,White or of European descent,60,4
+1,6,2,8,3,STEM,15,1,48000,12,Male,White or of European descent,21,1
+,,2,3,4,NON-STEM,3000,4,88000,12,Non-Male,White or of European descent,30,3
+3,2,2,6,3,STEM,5,19,72000,12,Male,White or of European descent,40,2
+,4,3,6,1,NON-STEM,7500,22,75000,8,Male,White or of European descent,40,2
+1,1,4,6,4,STEM,20000,4,114000,12,Male,White or of European descent,30,4
+3,4,4,5,3,STEM,60,7,120000,14,Male,White or of European descent,30,4
+,2,3,2,4,STEM,20000,4,144000,14,Male,White or of European descent,40,4
+,1,2,4,3,STEM,750,4,180000,12,Male,East Asian,30,5
+2,2,3,15,1,STEM,20000,30,102000,12,Male,White or of European descent,50,4
+1,3,4,8,3,STEM,3000,30,140500,8,Male,White or of European descent,50,4
+1,4,2,4,3,STEM,300,13,103000,8,Male,White or of European descent,40,4
+3,2,1,5,3,STEM,60,19,110000,8,Male,White or of European descent,50,4
+6,2,2,10,4,NON-STEM,750,4,55000,12,Male,White or of European descent,40,2
+5,5,3,11,3,STEM,300,4,100000,,,,,3
+2,1,2,10,1,,300,4,57000,12,Male,White or of European descent,30,2
+1,3,4,7,1,STEM,3000,10,99400,12,Male,White or of European descent,30,3
+,1,2,7,2,STEM,7500,7,65000,12,Male,White or of European descent,40,2
+1,2,2,9,1,,300,1,55000,8,Male,White or of European descent,18,2
+3,7,6,8,2,STEM,60,4,50000,12,Male,White or of European descent,30,1
+,,,,3,STEM,20000,1,85000,,,,,3
+5,1,4,11,3,STEM,3000,1,120000,12,Male,White or of European descent,21,4
+4,3,2,8,3,STEM,750,13,93000,12,Male,Hispanic or Latino/Latina,30,3
+,,1,6,3,STEM,60,10,110000,8,Male,White or of European descent,30,4
+1,1,2,6,1,,300,10,80000,12,Male,White or of European descent,50,3
+3,,3,7,3,STEM,20000,10,140000,8,Male,White or of European descent,30,4
+3,6,6,12,3,STEM,15,10,140000,8,Male,White or of European descent,30,4
+,2,5,7,3,STEM,300,7,100000,8,Male,White or of European descent,30,3
+3,9,6,11,3,STEM,15,7,89000,12,Male,White or of European descent,30,3
+1,3,3,5,1,,15,7,80000,14,Male,White or of European descent,30,3
+,2,2,4,3,STEM,300,1,54000,8,Male,White or of European descent,30,2
+,1,1,4,3,STEM,300,19,108500,12,Male,White or of European descent,40,4
+,,,,4,NON-STEM,20000,19,95000,8,,,,3
+5,7,8,14,4,STEM,3000,13,160000,8,Male,Other,40,5
+3,8,9,9,4,STEM,20000,7,95000,12,Male,White or of European descent,30,3
+2,1,2,4,,,60,16,110000,12,Non-Male,White or of European descent,65,4
+,3,2,5,1,STEM,60,1,85000,12,Male,Black or of African descent,30,3
+,3,2,3,1,STEM,60,7,75000,12,Male,White or of European descent,30,2
+2,2,6,10,1,,3000,4,60000,12,Male,White or of European descent,21,2
+3,2,3,9,3,STEM,20000,1,133023,14,Male,White or of European descent,30,4
+3,3,4,10,1,,60,7,110000,12,Male,White or of European descent,21,4
+2,5,2,7,4,STEM,3000,22,170000,12,Male,White or of European descent,40,5
+3,9,9,10,3,STEM,300,4,75000,8,Male,White or of European descent,21,2
+,1,,4,3,,20000,1,40000,12,Male,Hispanic or Latino/Latina,21,1
+,1,1,3,4,,5,7,100000,8,Male,White or of European descent,40,3
+,1,3,9,3,STEM,750,10,115000,8,Male,East Asian,30,4
+1,1,2,6,3,NON-STEM,300,25,90000,12,Male,White or of European descent,50,3
+2,2,6,8,1,STEM,15,1,66000,14,Male,,21,2
+3,2,3,6,3,STEM,750,7,70000,12,Non-Male,White or of European descent,30,2
+2,7,10,11,1,STEM,300,1,119000,12,Male,White or of European descent,21,4
+1,,2,7,3,STEM,15,4,90000,8,Male,White or of European descent,30,3
+3,1,4,8,3,STEM,60,13,130000,12,Male,White or of European descent,40,4
+,3,5,14,4,STEM,20000,19,154000,12,Male,White or of European descent,30,5
+1,1,1,2,4,NON-STEM,7500,25,210000,12,Male,Hispanic or Latino/Latina,50,6
+1,4,4,8,1,STEM,60,4,75000,12,Male,White or of European descent,21,2
+,1,1,5,4,STEM,300,4,80000,8,Non-Male,White or of European descent,40,3
+7,7,4,12,3,STEM,3000,4,129000,8,Male,White or of European descent,30,4
+,1,1,2,1,STEM,15,19,75000,12,Male,White or of European descent,40,2
+4,1,9,11,1,STEM,60,10,118000,14,Non-Male,White or of European descent,30,4
+1,,2,4,3,STEM,20000,16,130000,8,Male,White or of European descent,50,4
+,2,4,6,4,,3000,1,70000,12,Male,White or of European descent,40,2
+,3,4,6,3,STEM,300,16,100000,8,Male,White or of European descent,40,3
+1,,3,1,4,STEM,300,4,110000,8,Male,White or of European descent,30,4
+3,1,2,7,1,,5,10,27000,14,Male,White or of European descent,30,1
+1,1,3,12,3,STEM,750,19,130000,12,Male,White or of European descent,40,4
+,,1,4,4,NON-STEM,60,4,230000,12,Non-Male,White or of European descent,30,6
+1,6,1,10,4,STEM,60,4,105000,14,Male,White or of European descent,40,4
+2,5,6,13,3,STEM,300,7,55000,12,,,30,2
+2,2,4,7,3,STEM,3000,19,120000,14,Male,Other,50,4
+,5,3,10,3,STEM,15,7,110000,12,Male,White or of European descent,30,4
+,1,1,3,3,STEM,300,25,99000,12,Male,White or of European descent,50,3
+,,,,3,NON-STEM,15,4,35000,,,,,1
+,3,2,7,3,STEM,60,4,40000,14,Male,White or of European descent,21,1
+2,5,4,6,1,,5,19,110000,12,Male,White or of European descent,40,4
+4,9,5,12,1,NON-STEM,20000,4,66000,12,Non-Male,White or of European descent,50,2
+,2,4,3,4,STEM,7500,7,125000,8,Male,White or of European descent,30,4
+,1,1,3,4,STEM,300,4,66666,14,Male,White or of European descent,30,2
+1,4,1,6,4,NON-STEM,20000,4,75000,12,Non-Male,White or of European descent,30,2
+3,4,6,10,3,STEM,15,7,120000,12,Male,White or of European descent,30,4
+,1,1,2,3,STEM,300,22,123000,12,Male,White or of European descent,50,4
+1,1,2,7,4,STEM,3000,10,110000,8,Male,East Asian,40,4
+,3,4,8,1,STEM,300,16,145000,8,Male,White or of European descent,40,4
+2,2,5,6,3,STEM,20000,4,64000,14,Male,White or of European descent,21,2
+2,4,4,4,3,STEM,60,4,68000,12,Non-Male,White or of European descent,30,2
+3,4,5,6,4,STEM,20000,4,97000,8,Male,Other,30,3
+1,4,4,3,3,STEM,15,19,155000,8,Male,White or of European descent,40,5
+1,2,3,7,3,STEM,750,19,130000,12,Male,White or of European descent,40,4
+,4,1,3,3,STEM,20000,4,80000,12,Male,White or of European descent,30,3
+1,4,1,7,3,STEM,60,1,41000,12,Male,White or of European descent,21,1
+3,1,1,3,3,NON-STEM,750,22,125000,8,Male,White or of European descent,50,4
+,3,2,4,3,NON-STEM,3000,28,75000,12,Male,,,2
+3,3,3,8,3,STEM,60,25,150000,12,Male,,,4
+5,8,5,12,3,STEM,5,4,105000,12,Male,White or of European descent,30,4
+1,1,2,3,3,STEM,60,1,80000,8,Male,Other,21,3
+2,3,2,6,1,NON-STEM,15,19,115000,8,Male,White or of European descent,40,4
+2,1,2,2,4,STEM,300,4,100000,12,Male,Other,30,3
+2,3,8,7,1,,60,22,80000,14,Male,White or of European descent,40,3
+4,5,4,6,1,NON-STEM,5,7,45000,12,Non-Male,White or of European descent,40,1
+,3,3,5,4,STEM,60,7,72000,8,Non-Male,White or of European descent,30,2
+3,6,5,14,1,STEM,5,10,78000,12,Male,White or of European descent,30,3
+2,8,3,12,4,STEM,20000,13,92000,12,Male,Other,30,3
+3,4,3,6,4,NON-STEM,7500,16,120000,12,Male,White or of European descent,40,4
+2,3,5,6,3,STEM,5,10,70000,8,Male,,30,2
+,4,1,9,1,STEM,5,7,72600,12,Male,White or of European descent,30,2
+,1,1,6,4,STEM,300,22,130000,12,Male,White or of European descent,40,4
+2,2,4,8,1,STEM,5,1,85000,12,Male,White or of European descent,21,3
+,,,3,4,STEM,7500,10,66000,8,Male,White or of European descent,30,2
+,2,2,7,3,STEM,15,13,145000,12,Male,White or of European descent,30,4
+2,3,4,11,3,STEM,3000,7,120000,12,Male,White or of European descent,30,4
+,3,1,10,1,STEM,20000,4,56000,12,Male,White or of European descent,30,2
+4,3,4,12,3,STEM,60,4,77500,12,Male,White or of European descent,21,3
+,2,3,7,4,STEM,7500,4,83000,12,Male,White or of European descent,30,3
+,2,2,8,3,STEM,7500,4,52000,8,Male,White or of European descent,30,2
+,,1,5,3,NON-STEM,5,4,45000,12,Male,White or of European descent,30,1
+3,4,6,9,4,STEM,3000,22,120000,12,Male,White or of European descent,40,4
+5,15,4,17,3,STEM,60,4,65000,8,Male,White or of European descent,30,2
+1,1,3,6,4,STEM,20000,10,157000,12,Male,White or of European descent,30,5
+2,4,3,9,3,NON-STEM,750,19,70000,8,Non-Male,White or of European descent,,2
+4,3,3,6,3,STEM,60,10,115000,12,Male,White or of European descent,30,4
+,,2,2,4,NON-STEM,20000,10,130000,14,Male,White or of European descent,40,4
+,1,,6,4,STEM,15,10,95000,12,Male,White or of European descent,30,3
+,3,9,11,3,STEM,300,4,90000,12,Male,White or of European descent,30,3
+3,2,2,9,1,STEM,20000,16,130000,12,Male,White or of European descent,40,4
+3,5,5,8,3,STEM,60,13,140000,12,Male,White or of European descent,40,4
+2,,6,7,3,STEM,20000,1,70000,8,Male,White or of European descent,30,2
+,1,4,7,3,STEM,20000,7,85000,12,Non-Male,White or of European descent,30,3
+4,1,7,12,4,STEM,5,7,60000,12,Male,Hispanic or Latino/Latina,30,2
+1,1,2,8,1,STEM,5,10,45000,12,Male,White or of European descent,30,1
+,1,,2,4,STEM,3000,7,65000,8,Male,East Asian,40,2
+1,1,4,8,3,NON-STEM,300,10,95000,14,Male,White or of European descent,30,3
+,,3,8,3,STEM,20000,4,167750,12,,,,5
+2,,4,7,3,,60,10,116000,12,Male,White or of European descent,40,4
+6,2,7,13,3,STEM,300,7,125000,8,Male,White or of European descent,30,4
+1,3,7,8,3,STEM,60,16,123000,12,Male,White or of European descent,40,4
+1,3,6,9,3,STEM,5,4,100000,12,Male,White or of European descent,30,3
+1,4,1,6,4,STEM,300,4,55000,12,Male,White or of European descent,30,2
+1,1,3,6,1,STEM,20000,1,91000,12,Male,East Asian,21,3
+,3,3,12,1,STEM,300,19,120000,14,Male,,50,4
+2,3,5,5,3,STEM,750,22,140000,12,Male,White or of European descent,40,4
+,,,5,4,NON-STEM,20000,4,62000,8,Male,Other,40,2
+3,3,1,6,4,NON-STEM,60,25,170000,12,Male,White or of European descent,50,5
+,2,1,4,4,STEM,7500,28,200000,8,Male,White or of European descent,60,5
+2,1,2,10,3,STEM,750,4,96000,8,Male,,21,3
+2,4,2,11,3,NON-STEM,300,4,46000,8,Male,White or of European descent,30,1
+6,8,2,10,3,STEM,60,1,75000,14,Male,Other,21,2
+3,4,5,5,3,NON-STEM,5,10,70000,12,Male,White or of European descent,40,2
+3,2,2,9,3,,300,10,68000,8,Male,White or of European descent,30,2
+,,,1,3,STEM,60,1,77000,8,Male,White or of European descent,21,3
+1,1,1,7,1,STEM,3000,30,95000,8,,,,3
+,7,9,7,4,STEM,60,10,150000,12,Male,White or of European descent,30,4
+3,1,3,6,3,STEM,15,1,55000,12,Male,White or of European descent,21,2
+3,1,3,12,4,STEM,7500,16,125000,12,Non-Male,White or of European descent,40,4
+4,5,3,,3,STEM,300,4,62500,8,Non-Male,White or of European descent,40,2
+,1,3,2,4,STEM,300,4,105000,8,Male,White or of European descent,30,4
+,2,2,7,3,,20000,13,62000,12,Male,Other,40,2
+3,5,6,7,1,,5,13,120000,14,Male,White or of European descent,30,4
+1,,3,9,4,STEM,60,4,80000,14,Male,White or of European descent,30,3
+1,2,1,9,2,STEM,60,4,43000,14,Male,White or of European descent,21,1
+,2,2,2,4,NON-STEM,3000,10,190000,12,Male,White or of European descent,40,5
+,,,,3,STEM,60,1,70000,,,,,2
+4,8,9,16,3,,3000,7,140000,14,Male,White or of European descent,21,4
+,,,3,4,STEM,7500,7,62000,12,Male,White or of European descent,30,2
+3,,1,6,3,STEM,60,19,109000,8,Non-Male,White or of European descent,40,4
+1,,2,3,4,STEM,300,10,55000,12,Male,Hispanic or Latino/Latina,50,2
+1,1,3,8,4,STEM,300,4,110000,12,Male,White or of European descent,30,4
+3,4,3,10,3,STEM,60,10,120000,12,Male,Black or of African descent,30,4
+,,,,3,STEM,7500,4,103000,,,,,4
+2,4,1,5,2,STEM,15,10,55000,8,Male,White or of European descent,30,2
+7,6,8,5,3,STEM,60,16,135000,8,Male,White or of European descent,40,4
+1,2,4,9,3,STEM,15,1,52000,12,Male,White or of European descent,21,2
+2,3,6,7,4,STEM,300,4,85000,8,Non-Male,White or of European descent,30,3
+1,2,,7,3,STEM,3000,10,91000,12,Male,White or of European descent,30,3
+4,6,4,12,3,STEM,20000,7,94100,8,Male,White or of European descent,30,3
+,1,2,6,3,STEM,300,19,82000,12,Non-Male,White or of European descent,40,3
+3,9,3,9,3,STEM,5,30,95000,14,Male,White or of European descent,50,3
+1,1,4,9,1,STEM,7500,10,150000,12,Male,White or of European descent,30,4
+3,3,3,5,4,STEM,3000,4,115000,8,Male,White or of European descent,30,4
+3,10,3,9,3,NON-STEM,300,4,80000,8,Male,Hispanic or Latino/Latina,30,3
+3,3,2,11,3,STEM,3000,1,62000,8,Male,White or of European descent,21,2
+1,5,4,11,1,STEM,20000,22,162000,12,Male,White or of European descent,40,5
+,,1,3,3,STEM,20000,1,53000,12,Male,Hispanic or Latino/Latina,21,2
+1,1,2,7,3,STEM,3000,7,70000,12,Male,,40,2
+3,6,4,10,3,STEM,15,4,55000,8,Male,White or of European descent,40,2
+,,3,4,1,NON-STEM,7500,13,75000,14,Male,White or of European descent,30,2
+,1,3,8,3,STEM,60,10,112750,8,Male,White or of European descent,30,4
+1,3,4,3,4,STEM,750,10,150000,12,Male,White or of European descent,30,4
+,3,,8,3,STEM,750,1,92500,12,Male,White or of European descent,30,3
+3,13,7,12,3,STEM,300,19,175000,12,Male,White or of European descent,40,5
+4,4,3,10,4,STEM,20000,30,100000,12,Male,Hispanic or Latino/Latina,60,3
+4,3,4,7,1,NON-STEM,20000,7,97000,12,Male,White or of European descent,30,3
+,1,2,3,4,STEM,750,10,80000,14,Male,White or of European descent,30,3
+1,1,1,4,3,STEM,300,1,75000,8,Male,White or of European descent,30,2
+,1,3,10,3,STEM,20000,28,145000,12,Male,White or of European descent,50,4
+2,1,4,3,3,NON-STEM,300,1,68500,8,Male,White or of European descent,30,2
+1,5,8,10,3,STEM,60,4,135000,14,Male,White or of European descent,30,4
+,2,3,6,3,STEM,5,10,240000,12,Male,White or of European descent,30,6
+3,12,14,13,4,STEM,300,22,90000,14,Male,,40,3
+3,10,6,14,4,STEM,20000,30,200000,12,Male,White or of European descent,50,5
+2,4,9,5,3,STEM,3000,10,130000,12,Male,Other,30,4
+4,6,4,13,3,STEM,7500,10,84000,12,Male,White or of European descent,30,3
+3,,2,3,4,STEM,7500,4,85000,12,Male,Other,30,3
+2,5,5,8,3,,15,4,87360,12,Male,White or of European descent,30,3
+2,5,4,13,1,STEM,60,16,97500,8,Male,White or of European descent,40,3
+,2,2,7,1,STEM,60,4,43000,12,Male,White or of European descent,30,1
+3,2,1,5,3,STEM,7500,1,67000,14,Male,East Asian,30,2
+3,2,3,11,2,STEM,300,4,52000,12,Male,White or of European descent,30,2
+,1,1,6,3,NON-STEM,3000,4,70500,12,Male,White or of European descent,30,2
+1,3,4,8,1,,5,22,108000,12,Male,White or of European descent,40,4
+1,1,2,7,3,STEM,5,4,65000,12,Male,White or of European descent,30,2
+,3,2,5,4,STEM,20000,30,150000,12,Male,White or of European descent,50,4
+6,6,8,8,3,STEM,300,10,120000,14,Male,White or of European descent,30,4
+2,4,2,9,3,STEM,60,16,110000,8,Male,White or of European descent,40,4
+2,1,4,5,3,STEM,3000,4,155000,8,Male,White or of European descent,30,5
+1,2,2,9,4,STEM,60,1,40000,12,Male,White or of European descent,30,1
+1,1,1,7,4,STEM,60,7,68000,8,Male,White or of European descent,30,2
+3,7,3,5,4,STEM,300,10,138000,12,Male,White or of European descent,30,4
+1,2,2,7,3,STEM,300,7,80000,8,Male,White or of European descent,30,3
+4,1,5,10,3,STEM,15,4,85000,8,Male,White or of European descent,30,3
+,2,1,7,1,STEM,5,10,45000,12,Male,Other,30,1
+1,,,3,3,STEM,60,4,93000,12,Non-Male,White or of European descent,30,3
+,3,5,4,2,STEM,300,4,61000,12,Male,,30,2
+5,8,10,11,3,STEM,750,4,83000,8,Male,White or of European descent,21,3
+3,2,2,9,3,STEM,20000,7,80000,14,Male,White or of European descent,21,3
+,,1,2,3,STEM,3000,22,100000,8,Male,White or of European descent,40,3
+,2,,4,3,STEM,60,1,54000,8,Male,White or of European descent,21,2
+,2,5,6,3,STEM,300,7,121000,12,Male,White or of European descent,30,4
+1,1,1,7,3,NON-STEM,750,1,58000,12,Male,,30,2
+3,5,5,7,1,STEM,7500,22,75000,8,Male,White or of European descent,40,2
+,1,1,2,3,NON-STEM,5,4,75000,12,Male,White or of European descent,30,2
+4,3,3,12,4,NON-STEM,300,13,100000,8,Male,White or of European descent,30,3
+2,2,3,10,3,STEM,15,1,80000,12,Male,White or of European descent,21,3
+3,6,5,10,4,STEM,60,4,105000,12,Male,White or of European descent,30,4
+,1,3,6,1,NON-STEM,7500,30,105000,12,Male,White or of European descent,60,4
+2,1,3,9,1,NON-STEM,20000,4,78213,14,Male,White or of European descent,40,3
+2,3,1,7,4,STEM,300,4,56000,8,Male,White or of European descent,30,2
+2,,6,7,3,NON-STEM,60,1,75000,8,Male,White or of European descent,21,2
+2,1,6,3,3,STEM,60,10,205000,14,Male,Other,30,6
+1,3,2,2,4,STEM,300,7,100000,14,Non-Male,White or of European descent,30,3
+3,4,5,12,3,STEM,5,4,100000,8,Male,Hispanic or Latino/Latina,30,3
+4,1,1,8,3,NON-STEM,20000,7,119000,12,Male,White or of European descent,50,4
+3,3,1,4,3,STEM,60,19,100000,12,Male,White or of European descent,40,3
+2,3,2,7,2,NON-STEM,20000,19,109000,12,Male,White or of European descent,40,4
+,1,,7,1,NON-STEM,60,4,100000,12,Male,White or of European descent,30,3
+,3,5,10,3,STEM,20000,7,180000,12,Male,White or of European descent,30,5
+,3,1,6,4,STEM,20000,19,105000,12,Male,White or of European descent,40,4
+1,1,3,6,1,STEM,20000,30,190000,8,Male,White or of European descent,50,5
+2,3,2,8,4,STEM,7500,10,80000,8,Non-Male,White or of European descent,30,3
+3,5,3,7,1,STEM,15,4,56000,8,Male,White or of European descent,21,2
+1,1,1,5,3,NON-STEM,60,10,110000,12,Male,White or of European descent,30,4
+2,2,1,7,3,STEM,300,1,62500,12,Male,White or of European descent,30,2
+1,2,3,7,3,STEM,60,4,103000,12,Male,White or of European descent,40,4
+3,3,6,4,4,STEM,60,7,163000,12,,,,5
+,,3,7,3,STEM,300,7,35000,12,Male,White or of European descent,40,1
+,1,3,6,3,STEM,60,7,130000,12,Non-Male,White or of European descent,30,4
+2,2,1,4,3,STEM,750,4,109500,8,Male,White or of European descent,30,4
+,1,1,6,3,STEM,7500,13,76960,8,Male,White or of European descent,40,3
+2,2,2,9,3,STEM,60,7,145000,14,Male,White or of European descent,30,4
+1,,,3,4,STEM,20000,4,55000,12,Male,White or of European descent,30,2
+,,2,3,3,STEM,15,4,145000,8,Male,White or of European descent,30,4
+,2,3,7,3,STEM,60,13,110000,8,Male,White or of European descent,40,4
+3,3,4,10,3,STEM,60,10,125000,14,Male,White or of European descent,30,4
+1,,2,3,3,STEM,750,4,160000,12,Male,Other,30,5
+2,4,4,4,4,,15,10,120000,14,,,30,4
+,,4,6,4,STEM,300,1,51000,12,Non-Male,White or of European descent,30,2
+4,2,2,4,3,STEM,15,10,80000,8,Male,White or of European descent,30,3
+2,,,5,4,STEM,7500,1,128000,8,Non-Male,Other,,4
+,2,1,6,1,NON-STEM,60,7,91500,14,Male,White or of European descent,30,3
+2,3,2,7,3,NON-STEM,300,22,100000,12,Male,White or of European descent,50,3
+2,2,3,5,4,STEM,3000,1,75000,14,Male,,30,2
+1,3,,5,3,STEM,300,4,76500,12,Male,White or of European descent,21,3
+2,2,3,6,1,,60,4,65000,12,Male,White or of European descent,30,2
+1,3,2,9,4,STEM,300,13,99000,12,Male,,40,3
+,,1,6,3,NON-STEM,5,4,50000,12,Male,White or of European descent,30,1
+2,2,4,8,4,STEM,300,22,236000,8,Male,East Asian,40,6
+1,,1,6,3,STEM,3000,13,77000,14,Male,White or of European descent,30,3
+,,,,1,STEM,300,7,85000,,,,,3
+2,7,5,9,3,STEM,15,7,130000,14,Male,White or of European descent,30,4
+,,1,6,4,STEM,60,10,190000,12,Non-Male,White or of European descent,40,5
+,1,1,3,4,STEM,20000,22,150000,12,Male,East Asian,60,4
+4,6,9,7,3,STEM,750,30,145000,14,Male,White or of European descent,50,4
+4,4,1,9,3,STEM,300,4,68000,8,Male,Hispanic or Latino/Latina,30,2
+1,2,3,8,1,,15,1,55000,12,Male,White or of European descent,21,2
+1,1,1,4,4,STEM,20000,4,160000,12,Male,Other,30,5
+,,,3,1,,7500,13,70000,12,Male,White or of European descent,50,2
+1,1,3,5,1,,60,25,103500,8,Male,White or of European descent,50,4
+,1,2,2,4,STEM,20000,7,70000,12,Male,White or of European descent,30,2
+,,1,,4,STEM,3000,7,81000,12,Male,White or of European descent,30,3
+4,3,7,6,3,STEM,20000,1,89000,12,Male,White or of European descent,21,3
+,,,3,4,STEM,3000,7,80000,8,Male,White or of European descent,30,3
+4,2,3,10,4,STEM,20000,4,165000,8,Male,Hispanic or Latino/Latina,30,5
+2,3,6,9,3,STEM,15,19,140000,12,Male,White or of European descent,40,4
+3,2,2,11,3,STEM,300,16,147000,8,Male,White or of European descent,40,4
+1,,1,3,3,STEM,300,4,80000,8,Male,White or of European descent,30,3
+2,1,,6,3,STEM,20000,4,66700,12,Male,Hispanic or Latino/Latina,30,2
+1,3,3,9,3,STEM,15,7,130000,8,Male,White or of European descent,30,4
+2,3,3,7,1,STEM,60,19,82000,12,Male,White or of European descent,50,3
+,,,,3,STEM,15,1,48000,,,,,1
+1,5,7,14,3,STEM,60,7,135000,12,Male,White or of European descent,30,4
+,,,3,4,NON-STEM,3000,4,165000,12,Male,White or of European descent,50,5
+2,4,4,4,3,NON-STEM,60,4,80000,8,Male,White or of European descent,30,3
+3,1,4,5,1,NON-STEM,300,4,120000,4,Male,White or of European descent,30,4
+3,2,2,6,3,STEM,300,4,77254,8,Male,Black or of African descent,30,3
+2,4,6,5,1,STEM,20000,10,130000,12,Male,White or of European descent,30,4
+1,1,5,2,3,STEM,20000,4,80000,12,Male,White or of European descent,40,3
+2,5,1,7,1,STEM,300,1,34000,14,Male,White or of European descent,21,1
+1,1,3,8,3,STEM,7500,1,65000,8,Male,White or of European descent,30,2
+3,6,7,11,4,STEM,15,4,60000,8,Male,White or of European descent,30,2
+2,2,4,6,4,STEM,20000,4,89000,12,Male,Other,30,3
+,2,7,6,4,STEM,15,4,75000,8,Male,Other,30,2
+1,1,,1,3,STEM,20000,4,74000,14,Male,White or of European descent,30,2
+1,2,1,7,3,STEM,3000,10,72000,12,Male,White or of European descent,40,2
+3,2,3,12,1,STEM,300,10,68000,12,Male,White or of European descent,30,2
+,,,2,4,STEM,3000,4,56000,8,Male,White or of European descent,40,2
+5,6,6,13,3,STEM,300,4,125000,8,Male,White or of European descent,30,4
+2,4,3,10,3,STEM,60,1,40000,8,Male,East Asian,30,1
+9,3,9,14,3,STEM,20000,1,115000,12,Male,White or of European descent,21,4
+1,4,2,6,3,NON-STEM,300,7,40000,12,Male,White or of European descent,30,1
+,3,3,10,3,STEM,5,4,56000,8,Non-Male,White or of European descent,21,2
+4,11,11,16,3,STEM,750,10,120000,8,Male,White or of European descent,30,4
+,5,3,9,3,STEM,15,1,70500,12,Male,,30,2
+,1,1,3,4,STEM,60,4,96000,12,Male,White or of European descent,30,3
+1,4,4,5,1,STEM,60,10,65000,12,Male,White or of European descent,30,2
+2,5,7,8,1,,5,10,120000,8,Male,White or of European descent,30,4
+5,8,3,11,3,STEM,3000,4,75000,12,Male,Other,30,2
+2,1,1,6,3,NON-STEM,300,10,155000,12,,,,5
+1,3,2,8,1,,300,10,71500,12,Male,White or of European descent,40,2
+1,2,3,9,3,STEM,750,4,46000,12,Non-Male,White or of European descent,30,1
+1,2,4,7,3,NON-STEM,60,1,57000,12,Male,White or of European descent,21,2
+4,2,4,11,3,STEM,750,7,55000,14,Male,White or of European descent,30,2
+2,1,2,4,3,STEM,5,7,75500,12,Male,White or of European descent,30,3
+,3,,5,4,STEM,60,4,110000,14,Male,East Asian,40,4
+2,3,3,3,4,STEM,20000,7,95000,14,Male,East Asian,30,3
+1,1,,5,4,STEM,300,19,75000,12,Male,White or of European descent,60,2
+3,2,3,6,4,STEM,300,13,125000,12,Male,White or of European descent,30,4
+,1,1,6,2,STEM,300,19,57000,12,Male,White or of European descent,60,2
+2,5,7,10,1,,300,16,120000,12,Male,White or of European descent,40,4
+4,2,2,9,3,NON-STEM,300,4,97500,8,Male,Other,30,3
+2,3,1,5,3,STEM,5,1,30000,12,Male,White or of European descent,30,1
+,,,2,3,STEM,300,1,75000,8,Male,White or of European descent,30,2
+,2,5,11,4,STEM,5,10,100000,12,Male,White or of European descent,30,3
+1,5,2,9,3,STEM,15,7,82500,12,Male,White or of European descent,40,3
+,1,6,8,4,STEM,60,22,105000,14,Male,White or of European descent,50,4
+3,1,5,10,4,STEM,300,7,85000,12,Male,White or of European descent,30,3
+,2,1,6,4,STEM,300,13,120000,8,Male,White or of European descent,40,4
+2,4,5,5,1,NON-STEM,20000,1,120000,12,Male,White or of European descent,30,4
+4,2,6,8,3,STEM,5,7,120000,12,Male,White or of European descent,30,4
+6,6,10,10,1,STEM,750,13,150000,12,Male,White or of European descent,30,4
+2,3,4,8,3,STEM,60,4,105000,12,Male,White or of European descent,30,4
+2,4,5,8,3,STEM,750,1,105000,8,Male,White or of European descent,30,4
+1,1,2,8,3,STEM,20000,22,55000,12,Male,White or of European descent,50,2
+1,1,1,2,3,STEM,20000,7,85000,12,Male,Other,30,3
+1,1,,4,4,STEM,3000,1,92000,12,Male,White or of European descent,21,3
+4,6,5,7,3,STEM,15,22,150000,12,Male,White or of European descent,40,4
+1,2,2,5,1,STEM,15,7,127500,12,Male,White or of European descent,30,4
+2,2,2,5,3,STEM,60,7,135000,12,Male,White or of European descent,30,4
+1,5,6,7,4,STEM,5,7,120000,8,Male,White or of European descent,30,4
+,1,2,6,1,STEM,60,22,126500,8,Male,White or of European descent,50,4
+1,6,2,7,4,STEM,300,30,160000,12,Male,East Asian,65,5
+,1,,1,4,STEM,60,1,100000,14,Non-Male,White or of European descent,40,3
+1,2,3,5,2,NON-STEM,3000,7,70400,12,Non-Male,White or of European descent,30,2
+3,2,2,9,3,STEM,15,4,65000,12,Male,White or of European descent,30,2
+,,3,3,3,NON-STEM,60,4,140000,12,Non-Male,East Asian,30,4
+4,5,6,9,3,NON-STEM,300,30,130000,12,Male,White or of European descent,60,4
+2,2,1,9,4,STEM,60,16,165000,12,Male,White or of European descent,30,5
+5,2,5,8,4,STEM,7500,7,74000,12,Male,White or of European descent,30,2
+2,3,3,4,4,STEM,300,1,51500,12,Male,Other,30,2
+5,7,2,15,1,STEM,20000,25,94430,12,Male,White or of European descent,50,3
+2,3,5,11,3,NON-STEM,7500,30,165000,12,Male,White or of European descent,50,5
+,,3,7,4,STEM,3000,4,78000,12,,,,3
+1,2,2,5,3,STEM,7500,13,120000,12,Male,White or of European descent,40,4
+1,3,4,7,3,STEM,3000,7,100000,12,Male,White or of European descent,30,3
+1,3,2,7,4,NON-STEM,300,22,150000,8,Non-Male,White or of European descent,60,4
+1,1,1,4,2,STEM,20000,28,79000,12,Male,Black or of African descent,50,3
+1,1,3,9,4,STEM,15,4,60000,8,Non-Male,Hispanic or Latino/Latina,30,2
+,,2,3,4,STEM,300,4,194600,12,Male,White or of European descent,30,5
+1,2,3,4,3,STEM,60,1,40000,8,Non-Male,White or of European descent,21,1
+4,4,4,13,4,STEM,3000,1,80000,14,Male,White or of European descent,21,3
+2,1,1,6,3,STEM,20000,4,110000,14,Male,White or of European descent,21,4
+,2,3,3,3,NON-STEM,300,19,102000,12,,,40,4
+,,,1,3,STEM,300,4,85000,12,Male,White or of European descent,30,3
+1,2,5,19,4,STEM,20000,7,152000,12,Male,Other,30,5
+,,1,5,3,STEM,300,13,92000,12,Male,White or of European descent,30,3
+2,3,3,8,4,STEM,60,4,100000,12,Male,White or of European descent,30,3
+2,3,2,6,3,,15,19,180000,12,Male,White or of European descent,40,5
+1,6,7,7,4,NON-STEM,3000,19,100000,8,Male,White or of European descent,40,3
+,3,1,5,3,STEM,5,10,33000,12,Male,White or of European descent,30,1
+1,3,9,14,4,STEM,20000,10,135000,12,Male,White or of European descent,30,4
+1,1,3,4,3,NON-STEM,60,1,65000,12,Male,White or of European descent,21,2
+1,3,5,5,3,NON-STEM,20000,13,125000,8,Male,White or of European descent,40,4
+1,4,5,6,3,STEM,750,10,135000,12,Male,White or of European descent,40,4
+1,,3,6,1,STEM,300,7,87500,8,Male,Other,40,3
+,,2,3,4,STEM,750,1,100000,12,Male,White or of European descent,30,3
+2,4,3,6,2,STEM,20000,16,175000,8,Male,White or of European descent,40,5
+,1,1,3,3,STEM,750,13,145000,12,Male,White or of European descent,40,4
+1,3,6,5,3,STEM,300,1,76000,12,Male,White or of European descent,30,3
+,3,8,4,3,STEM,15,13,150000,12,Male,White or of European descent,30,4
+1,2,5,17,4,NON-STEM,60,16,88000,8,Male,White or of European descent,40,3
+5,5,6,8,4,STEM,3000,4,65000,12,Male,Other,30,2
+,,4,3,3,STEM,750,25,154000,12,Male,White or of European descent,50,5
+3,5,6,14,1,STEM,300,16,105000,8,Male,White or of European descent,40,4
+1,2,3,6,3,NON-STEM,60,4,85000,12,Male,White or of European descent,30,3
+2,3,5,9,3,STEM,60,10,130000,12,Male,White or of European descent,30,4
+,7,7,7,3,STEM,15,1,66000,12,Non-Male,White or of European descent,21,2
+3,2,2,10,3,STEM,3000,1,74000,12,Male,Hispanic or Latino/Latina,21,2
+1,2,5,5,4,NON-STEM,20000,7,175000,12,,White or of European descent,30,5
+3,1,10,8,3,STEM,3000,7,175000,12,Male,White or of European descent,30,5
+,4,4,2,1,STEM,300,19,185000,12,Male,White or of European descent,50,5
+3,4,7,5,1,,300,7,75000,12,Non-Male,Other,40,2
+2,1,1,7,3,STEM,5,4,85000,8,Male,White or of European descent,40,3
+,1,1,3,3,STEM,20000,30,125000,8,Male,White or of European descent,60,4
+2,2,3,11,3,STEM,15,13,40000,4,Male,White or of European descent,30,1
+3,1,1,6,3,STEM,20000,28,210000,14,Male,White or of European descent,50,6
+,,2,3,4,STEM,750,25,74000,12,Male,White or of European descent,60,2
+,,3,2,3,STEM,300,1,80000,14,Male,East Asian,21,3
+4,3,2,11,4,STEM,3000,16,180000,12,Male,White or of European descent,40,5
+4,1,3,8,3,STEM,20000,4,102000,8,Male,White or of European descent,30,4
+1,2,4,8,4,STEM,20000,30,125000,12,Male,White or of European descent,60,4
+1,2,1,7,3,STEM,60,4,78000,14,Male,White or of European descent,30,3
+,1,2,4,3,STEM,15,7,125000,12,Male,White or of European descent,30,4
+1,2,1,6,3,STEM,300,13,112000,12,Male,Hispanic or Latino/Latina,40,4
+,1,3,4,1,STEM,15,7,105000,14,Male,White or of European descent,40,4
+4,10,2,11,4,STEM,750,13,159000,12,Male,White or of European descent,40,5
+2,3,2,5,3,STEM,20000,13,175000,12,Male,White or of European descent,40,5
+,2,3,9,1,STEM,60,19,119000,12,Male,White or of European descent,40,4
+3,1,2,3,3,STEM,60,7,138000,12,Male,White or of European descent,30,4
+1,4,4,5,4,NON-STEM,3000,22,115000,12,Male,White or of European descent,50,4
+,3,2,11,3,STEM,15,4,100000,12,Male,East Asian,30,3
+2,2,1,6,1,STEM,15,7,75000,12,Male,White or of European descent,30,2
+2,2,5,12,3,STEM,300,4,88000,14,Male,Hispanic or Latino/Latina,21,3
+3,5,3,16,3,STEM,15,22,150000,14,Male,White or of European descent,40,4
+,,,1,4,STEM,750,16,105000,12,Male,White or of European descent,40,4
+,1,3,4,3,NON-STEM,3000,1,45000,8,Male,White or of European descent,30,1
+3,9,2,16,3,STEM,15,4,70000,8,Male,Other,21,2
+,,1,4,4,STEM,300,4,85000,8,Non-Male,White or of European descent,30,3
+,,,4,3,STEM,300,25,100000,12,Male,White or of European descent,50,3
+2,2,3,10,3,NON-STEM,20000,7,108000,12,Male,White or of European descent,30,4
+,,1,4,4,STEM,3000,7,78500,8,Male,White or of European descent,30,3
+1,1,2,2,2,STEM,300,4,49000,12,Male,White or of European descent,40,1
+2,1,3,4,3,STEM,20000,7,75000,12,Male,White or of European descent,30,2
+2,6,2,9,3,NON-STEM,60,16,87500,8,Male,White or of European descent,40,3
+3,1,2,10,3,STEM,20000,19,170000,12,Male,White or of European descent,40,5
+1,4,6,9,3,STEM,60,19,136248,14,Male,White or of European descent,30,4
+,,3,5,3,STEM,60,19,135000,14,Male,White or of European descent,40,4
+1,4,4,11,3,STEM,20000,1,103000,8,Male,White or of European descent,21,4
+4,4,12,11,3,STEM,3000,4,120000,8,Male,White or of European descent,30,4
+2,3,4,6,3,STEM,5,7,90000,12,Male,White or of European descent,30,3
+4,2,6,8,2,STEM,5,4,60000,,Male,White or of European descent,21,2
+,,1,2,3,STEM,300,16,137500,14,Male,White or of European descent,40,4
+2,4,1,9,2,STEM,20000,1,60000,8,Male,White or of European descent,30,2
+3,6,4,6,4,STEM,60,10,200000,12,Non-Male,White or of European descent,30,5
+2,2,4,6,3,STEM,5,7,125000,12,Male,White or of European descent,40,4
+2,2,4,13,4,STEM,300,1,130000,12,Male,White or of European descent,21,4
+1,2,4,7,3,STEM,20000,1,65000,8,Male,White or of European descent,21,2
+3,3,2,6,3,STEM,3000,7,105000,12,Male,White or of European descent,30,4
+2,1,4,11,4,STEM,20000,13,100000,8,Male,White or of European descent,30,3
+,2,1,7,3,STEM,5,13,67500,12,Male,White or of European descent,50,2
+,,3,5,3,STEM,300,4,48000,8,Male,Hispanic or Latino/Latina,30,1
+,1,1,5,3,STEM,20000,7,74623,12,Male,White or of European descent,40,2
+,,1,1,3,NON-STEM,300,25,81000,12,Male,White or of European descent,65,3
+2,2,1,5,4,STEM,3000,10,100097,8,Male,Other,40,4
+1,1,1,6,3,,20000,4,63000,12,Male,East Asian,30,2
+,1,4,6,4,STEM,300,4,80000,8,Male,Other,30,3
+,1,,3,4,STEM,3000,19,65000,14,Male,Hispanic or Latino/Latina,40,2
+,2,2,5,4,NON-STEM,5,19,120000,12,Male,White or of European descent,40,4
+3,3,6,10,1,STEM,300,7,56000,14,Male,White or of European descent,40,2
+,2,,6,4,STEM,20000,7,140000,8,Male,White or of European descent,30,4
+5,2,5,8,1,STEM,300,7,95000,,,,,3
+6,7,10,13,3,STEM,300,4,106000,12,Male,East Asian,30,4
+,,,,4,STEM,7500,7,150000,,,,,4
+,,1,5,1,NON-STEM,750,10,97000,12,Male,White or of European descent,30,3
+2,2,2,6,3,NON-STEM,5,1,50000,12,Male,,30,1
+,2,4,6,3,STEM,20000,16,165000,12,Male,White or of European descent,40,5
+1,,1,6,4,STEM,7500,7,87000,12,Male,,40,3
+,4,2,4,4,NON-STEM,20000,4,130000,,,,,4
+1,3,2,6,1,STEM,5,4,41000,8,Male,White or of European descent,30,1
+3,5,4,8,4,STEM,20000,1,68000,8,Male,White or of European descent,21,2
+1,5,4,7,3,NON-STEM,3000,4,112000,12,Non-Male,White or of European descent,30,4
+1,,1,5,3,STEM,15,10,65000,14,Male,White or of European descent,30,2
+3,,1,7,3,STEM,3000,10,78000,12,Non-Male,Black or of African descent,30,3
+3,3,6,8,3,STEM,3000,7,43200,12,Male,White or of European descent,30,1
+,,4,7,4,STEM,20000,4,100000,12,Male,White or of European descent,50,3
+2,4,4,2,4,STEM,15,10,105000,8,Male,Other,50,4
+1,2,8,5,1,STEM,300,7,123000,12,Male,White or of European descent,30,4
+3,1,3,10,1,NON-STEM,300,16,115000,12,Male,White or of European descent,40,4
+,3,5,3,3,NON-STEM,300,4,120000,12,Non-Male,Other,30,4
+2,3,1,4,3,NON-STEM,15,1,65000,12,Male,White or of European descent,30,2
+2,,4,9,3,STEM,3000,7,105000,,,,,4
+1,3,1,4,4,STEM,300,10,82500,12,Male,White or of European descent,40,3
+2,2,5,8,3,STEM,20000,22,150000,12,Male,White or of European descent,40,4
+,2,1,2,3,STEM,60,13,156000,8,Non-Male,East Asian,30,5
+,1,1,8,3,STEM,3000,22,93000,8,Male,White or of European descent,50,3
+1,1,,5,3,STEM,20000,1,60000,12,Non-Male,White or of European descent,21,2
+2,4,9,11,2,STEM,300,16,95000,14,Male,White or of European descent,40,3
+2,2,2,6,2,NON-STEM,300,10,62500,12,Male,Black or of African descent,40,2
+2,5,4,7,1,STEM,3000,4,98000,12,Male,White or of European descent,40,3
+4,2,7,13,3,STEM,60,10,93000,8,Male,White or of European descent,30,3
+,1,6,6,3,STEM,300,13,93000,12,Male,White or of European descent,30,3
+4,6,6,10,3,NON-STEM,20000,16,184000,12,Male,White or of European descent,30,5
+,1,3,6,3,NON-STEM,15,7,63000,12,Male,White or of European descent,30,2
+1,4,2,10,4,STEM,3000,10,125000,12,Male,White or of European descent,30,4
+2,3,6,4,4,STEM,7500,7,90000,8,Male,White or of European descent,30,3
+1,,,5,4,STEM,15,7,115000,12,Male,White or of European descent,30,4
+2,,2,6,3,STEM,750,4,75000,12,Male,Black or of African descent,30,2
+2,3,6,7,3,STEM,7500,4,130000,12,Male,,30,4
+2,3,6,8,3,NON-STEM,15,13,110000,8,Male,White or of European descent,50,4
+4,,3,4,3,STEM,3000,7,84000,12,Male,White or of European descent,40,3
+6,3,1,7,4,NON-STEM,7500,7,110000,8,Male,White or of European descent,30,4
+3,1,1,3,1,STEM,750,19,96000,12,Male,White or of European descent,60,3
+2,5,4,8,2,NON-STEM,15,1,65000,12,Male,White or of European descent,30,2
+2,2,1,6,3,STEM,3000,1,60000,8,Male,White or of European descent,21,2
+,,1,3,3,NON-STEM,300,4,71400,8,Male,White or of European descent,30,2
+,,3,1,3,,7500,4,60000,12,Non-Male,White or of European descent,30,2
+,,3,6,4,STEM,7500,4,85000,12,Non-Male,White or of European descent,30,3
+,3,,3,3,NON-STEM,7500,1,65000,12,Male,Other,21,2
+1,2,5,10,4,STEM,7500,4,46800,12,Male,White or of European descent,30,1
+,,2,5,1,STEM,7500,10,120000,,,,,4
+,3,1,5,4,STEM,60,4,85000,8,Male,White or of European descent,40,3
+1,3,1,7,2,STEM,20000,10,50000,14,Male,White or of European descent,40,1
+2,3,6,11,3,STEM,300,7,100000,12,Male,East Asian,30,3
+1,2,5,4,4,NON-STEM,20000,4,74100,12,Male,White or of European descent,30,2
+4,4,7,11,3,NON-STEM,15,4,130000,12,Male,White or of European descent,30,4
+2,4,5,8,1,NON-STEM,60,7,85000,12,Non-Male,White or of European descent,30,3
+1,3,1,9,4,STEM,60,10,150000,8,Male,White or of European descent,30,4
+2,9,4,13,1,,15,13,75000,12,Male,White or of European descent,40,2
+2,3,4,5,3,STEM,20000,16,102000,8,Male,White or of European descent,40,4
+1,4,2,10,3,STEM,15,7,70000,12,Male,White or of European descent,21,2
+,1,1,3,4,STEM,300,4,65000,8,Male,White or of European descent,30,2
+2,2,4,8,4,NON-STEM,300,4,130000,12,Male,White or of European descent,30,4
+2,4,3,7,3,NON-STEM,7500,4,75000,12,Male,White or of European descent,30,2
+1,3,3,8,3,STEM,60,7,142000,12,Male,White or of European descent,30,4
+1,2,2,6,3,NON-STEM,3000,1,75000,12,Non-Male,White or of European descent,30,2
+1,3,3,8,3,STEM,15,4,85000,12,Non-Male,Black or of African descent,30,3
+,3,3,4,2,STEM,20000,22,83000,12,Male,White or of European descent,50,3
+,,2,5,4,NON-STEM,7500,7,126000,8,Non-Male,White or of European descent,60,4
+,,2,6,3,NON-STEM,7500,10,57000,8,Male,White or of European descent,40,2
+1,1,1,6,3,STEM,15,25,55000,8,Male,White or of European descent,50,2
+1,,2,6,1,STEM,60,4,27300,12,Male,White or of European descent,21,1
+1,2,3,9,3,STEM,20000,4,55000,8,Male,White or of European descent,30,2
+7,10,13,14,4,STEM,5,25,126000,12,Male,Black or of African descent,40,4
+,1,3,8,4,NON-STEM,3000,10,110000,12,Male,White or of European descent,40,4
+2,,2,7,4,STEM,5,4,150000,8,Non-Male,White or of European descent,30,4
+1,,3,6,4,,60,4,75000,8,Male,White or of European descent,50,2
+1,3,1,7,1,,300,16,110000,8,Male,White or of European descent,40,4
+3,4,5,5,3,STEM,300,4,100000,12,Non-Male,White or of European descent,30,3
+,1,1,5,1,,60,10,120000,12,Male,Other,40,4
+,,,1,4,STEM,3000,7,130000,8,Male,White or of European descent,50,4
+6,2,7,10,1,,60,10,120000,12,Male,Other,30,4
+3,5,3,6,4,,300,7,95000,8,Male,,,3
+,1,4,5,3,STEM,7500,19,116000,12,Non-Male,White or of European descent,40,4
+3,1,2,6,3,STEM,3000,10,95000,12,Male,White or of European descent,30,3
+1,3,3,6,3,NON-STEM,300,7,131670,8,Male,Black or of African descent,30,4
+,,3,3,4,NON-STEM,3000,1,55000,8,Male,White or of European descent,30,2
+,1,2,12,3,NON-STEM,3000,10,85000,12,Male,White or of European descent,40,3
+4,7,5,13,3,STEM,300,16,96000,8,Male,White or of European descent,40,3
+2,3,2,9,1,,5,4,48000,14,Male,White or of European descent,21,1
+3,2,5,5,4,STEM,20000,4,144000,14,Male,Other,30,4
+3,5,5,7,3,STEM,300,1,60000,12,Male,Other,30,2
+2,4,4,9,3,STEM,20000,7,130000,8,Male,White or of European descent,30,4
+,,1,5,3,STEM,300,13,53000,14,Non-Male,White or of European descent,50,2
+2,1,3,3,4,STEM,60,1,135000,8,Male,Other,30,4
+,,1,7,3,STEM,300,13,59400,12,,,40,2
+,1,1,4,4,NON-STEM,750,10,68000,8,Non-Male,White or of European descent,40,2
+1,8,6,11,1,STEM,300,4,60000,14,Male,White or of European descent,21,2
+2,2,1,7,4,STEM,60,7,110000,12,Male,White or of European descent,30,4
+,2,2,7,4,STEM,20000,7,125000,12,Male,White or of European descent,30,4
+3,1,2,8,4,STEM,20000,19,120000,12,Male,Hispanic or Latino/Latina,50,4
+2,1,2,2,3,STEM,20000,10,150000,12,Non-Male,Other,30,4
+,2,1,5,3,STEM,3000,10,65000,12,Male,East Asian,30,2
+1,2,5,8,3,STEM,300,4,90000,12,Male,White or of European descent,30,3
+1,4,3,6,1,STEM,60,4,125000,8,Male,White or of European descent,40,4
+,2,7,5,4,NON-STEM,3000,4,165000,12,Non-Male,Hispanic or Latino/Latina,40,5
+2,5,6,9,3,STEM,300,13,118000,12,Male,White or of European descent,30,4
+2,1,3,1,4,STEM,750,4,82000,12,Non-Male,East Asian,30,3
+2,3,4,7,3,STEM,300,7,111000,8,Male,White or of European descent,30,4
+5,3,4,7,3,STEM,300,4,80000,12,Male,White or of European descent,30,3
+1,1,2,14,3,STEM,,10,63890,14,Male,,,2
+,2,2,5,3,,,4,92000,12,Male,White or of European descent,30,3
+1,2,2,6,1,STEM,,10,70000,12,Male,White or of European descent,30,2
+,,,2,1,NON-STEM,,30,150000,12,Male,,60,4
+,3,1,4,3,STEM,,13,96000,12,Male,White or of European descent,30,3
+2,2,1,6,3,STEM,,19,80000,12,Male,White or of European descent,50,3
+1,2,2,7,3,STEM,,7,83200,12,Male,White or of European descent,30,3
+1,2,,11,4,STEM,,7,98000,12,Male,White or of European descent,30,3
+2,2,1,7,3,NON-STEM,,13,120000,12,Male,White or of European descent,40,4
+1,7,2,8,4,STEM,,1,70000,12,Male,White or of European descent,21,2
+2,3,4,7,1,STEM,,1,35000,8,Male,Black or of African descent,21,1
+,2,1,11,4,STEM,,7,100000,8,Male,White or of European descent,30,3
+2,,1,5,3,STEM,,13,136000,8,,,40,4
+1,2,2,9,3,STEM,,4,75000,12,Male,White or of European descent,30,2
+,3,3,14,1,NON-STEM,,25,108000,8,Non-Male,White or of European descent,50,4
+1,1,3,5,3,STEM,,10,70000,14,Male,White or of European descent,30,2
+,,,,1,STEM,,1,40000,,,,,1
+2,3,4,10,1,STEM,,10,73000,14,,White or of European descent,30,2
+4,4,6,16,1,STEM,,10,170000,14,Male,White or of European descent,30,5
+2,,2,7,3,STEM,,16,106000,12,Male,White or of European descent,40,4
+,2,3,9,3,STEM,,7,50000,14,Male,White or of European descent,30,1
+,1,4,1,1,STEM,,4,57500,14,Male,Hispanic or Latino/Latina,40,2
+1,1,2,6,3,STEM,,4,91000,8,Male,White or of European descent,30,3
+4,2,3,6,3,,,1,60000,12,Male,,30,2
+3,1,1,4,4,STEM,,4,80000,14,Male,White or of European descent,30,3
+,1,1,1,3,STEM,,19,65580,8,Male,White or of European descent,40,2
+,4,1,10,2,STEM,,7,75000,12,Male,White or of European descent,30,2
+,,1,5,3,STEM,,7,140000,14,,,,4
+,2,2,14,3,STEM,,10,93855,8,Male,Hispanic or Latino/Latina,40,3
+,2,4,6,2,STEM,,10,64000,14,Non-Male,White or of European descent,30,2
+6,11,10,19,3,STEM,,4,70000,8,Male,White or of European descent,21,2
+2,3,3,12,1,STEM,,19,78000,12,Male,White or of European descent,50,3
+2,2,1,8,3,STEM,,1,64000,12,Male,White or of European descent,21,2
+3,4,3,9,1,STEM,,10,110000,12,Male,White or of European descent,30,4
+2,1,2,6,3,STEM,,1,71400,12,Male,Other,21,2
+1,1,3,2,4,STEM,,4,82000,8,Male,Hispanic or Latino/Latina,30,3
+3,1,3,6,3,STEM,,4,57000,14,Male,White or of European descent,30,2
+,,2,7,4,STEM,,4,75000,8,Male,White or of European descent,30,2
+1,2,2,3,3,STEM,,4,70000,8,Male,White or of European descent,21,2

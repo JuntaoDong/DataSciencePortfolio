@@ -1,0 +1,1 @@
+# StackOverflow 2018 Survey - Salary Prediction
