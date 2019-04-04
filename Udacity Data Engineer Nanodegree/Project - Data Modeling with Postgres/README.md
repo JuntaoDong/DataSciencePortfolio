@@ -38,7 +38,7 @@ log_data/2018/11/2018-11-13-events.json
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 
-![logdata](/images/log-data.png)
+![logdata](images/log-data.png)
 
 If you would like to look at the json data within log_data files, you will need to create a Panda df to read the data. Remember to first import json and pandas libraries.
 
@@ -90,7 +90,7 @@ To get started with the project, go to the workspace on the next page, where you
 
 In addition to the data files, the project workspace includes six files:
 
-![star](/images/star-schema.png)
+![star](images/star-schema.png)
 
 1. ```test.ipynb``` displays the first few rows of each table to let you check your database.
 
