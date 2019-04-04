@@ -60,6 +60,8 @@ In case you need a refresher on JSON files, here is a helpful video from [Udacit
 
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. This includes the following tables.
 
+![star](images/star_schema.PNG)
+
 ### Fact Table
 
 1. **songplays** - records in log data associated with song plays i.e. records with page ```NextSong```
@@ -89,8 +91,6 @@ Using the song and log datasets, you'll need to create a star schema optimized f
 To get started with the project, go to the workspace on the next page, where you'll find the project template files. You can work on your project and submit your work through this workspace. Alternatively, you can download the project template files from the Resources folder if you'd like to develop your project locally.
 
 In addition to the data files, the project workspace includes six files:
-
-![star](images/star_schema.PNG)
 
 1. ```test.ipynb``` displays the first few rows of each table to let you check your database.
 
