@@ -90,7 +90,7 @@ To get started with the project, go to the workspace on the next page, where you
 
 In addition to the data files, the project workspace includes six files:
 
-![star](images/star_schema.png)
+![star](images/star_schema.PNG)
 
 1. ```test.ipynb``` displays the first few rows of each table to let you check your database.
 
