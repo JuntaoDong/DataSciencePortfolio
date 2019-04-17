@@ -1,4 +1,4 @@
-# Project: Data Warehouse
+# Project: Data Warehouse Using AWS
 
 ## Introduction
 
@@ -46,13 +46,13 @@ log-data/2018/11/2018-11-13-events.json
 
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 
-![logdata](images/log-data.png)
+![logdata](https://github.com/JuntaoDong/DataSciencePortfolio/blob/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Postgres/images/log-data.png)
 
 ## Schema for Song Play Analysis
 
 Using the song and log datasets, you'll need to create a star schema optimized for queries on song play analysis. This includes the following tables.
 
-![star](images/star_schema.PNG)
+![star](https://github.com/JuntaoDong/DataSciencePortfolio/blob/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Postgres/images/star_schema.PNG)
 
 ### Fact Table
 
@@ -121,4 +121,13 @@ Do the following steps in your README.md file.
 1. [Optional] Provide example queries and results for song play analysis.
 
 ## Note
+
 The SERIAL command in Postgres is not supported in Redshift. The equivalent in redshift is IDENTITY(0,1), which you can read more on in the Redshift Create Table Docs.
+
+## Lessons I Learned from Project
+
+1. Create tables with proper column types and lengths. There are actually performance benefits to making the varchar columns minimal width in Redshift, so this would be nice in that respect, as its common in ETL use cases to just pick a default that's probably bigger than necessary. I tried to do that but turn out there are always outliers when you work with large dataset, so for some column you can't realize specify a maxmum length in varchar.
+2. There are missing values in the staging data e.g. user_id in staging event table. In the begining I was trying to make user_id as one of the composite primary key in the staging table then I realized that the staging data is usually not reliable so adding a primary key to staging table actually makes the ETL process more complicated. I found one great article talking about the ETL process steps [here](https://www.blastam.com/blog/implementing-etl-process-steps-ga-data-warehouse)
+3. When working with redshift, keep track of all the load errors by checking 'stl_load_errors' system table.
+4. what can you do when the length of a variable exceeds 255? 
+    I encountered this issue when loading the staging_songs table. In artist_name column, there is a song sung together by many artists and the length actually exceeds 255 which is the maximum length of varchar in redshift. Finally, I used TRUNCATECOLUMNS parameter while loading the staging table. Please find more discussion about this issue [here](https://github.com/databricks/spark-redshift/issues/29) and the document about [TRUNCATECOLUMNS](https://docs.aws.amazon.com/redshift/latest/dg/copy-parameters-data-conversion.html#copy-truncatecolumns).

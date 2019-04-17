@@ -7,6 +7,9 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 ## Data Science Projects
 
 1. [StackOverflow 2018 Survay Analysis](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/StackOverflow%202018%20Survey)
+2. [Postgres ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Postgres)
+3. [Cassandra ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Cassandra)
+4. [Cloud Data Warehousing Using AWS](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Warehouse)
 
 ## Hackathons
 
