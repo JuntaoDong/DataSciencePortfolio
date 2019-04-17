@@ -17,7 +17,7 @@ def create_tables(cur, conn):
 
 def main():
     config = configparser.ConfigParser()
-    config.read('dwh.cfg')
+    config.read(r'C:\Users\junta\Documents\GitHub\aws crendential\dwh.cfg')
 
     conn = psycopg2.connect("host={} dbname={} user={} password={} port={}".format(*config['CLUSTER'].values()))
     cur = conn.cursor()
