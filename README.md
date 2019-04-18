@@ -10,6 +10,7 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 + [Postgres ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Postgres)
 + [Cassandra ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Cassandra)
 + [Cloud Data Warehousing Using AWS](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Warehouse)
++ [Docker and WebServices](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project1)
 + [Big Data Analysis Using MapReduce / Apache Spark](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project2)
 
 ## Hackathons
