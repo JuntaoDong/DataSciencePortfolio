@@ -5,7 +5,7 @@
 
 ### Command: 
 ```
-docker pull juntaodong/weathereapi
+docker pull juntaodong/weatherapi
 docker run -d -p 8081:80 juntaodong/weatherapi
 ```
 
