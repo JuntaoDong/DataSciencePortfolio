@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="us">
+<head>
+    <meta charset="utf-8">
+    <title>Weather Forecast API</title>
+	<link href="/static/jquery-ui.css" rel="stylesheet">
+	<script src="/static/plotly-latest.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+	<script
+  		src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"
+  		integrity="sha256-T0Vest3yCU7pafRw9r+settMBX6JkKN06dqBnpQ8d30="
+  		crossorigin="anonymous"></script>
+	<style>
+	body{
+		font-family: "Trebuchet MS", sans-serif;
+		margin: 50px;
+	}
+	.demoHeaders {
+		margin-top: 2em;
+	}
+	#dialog-link {
+		padding: .4em 1em .4em 20px;
+		text-decoration: none;
+		position: relative;
+	}
+	#dialog-link span.ui-icon {
+		margin: 0 5px 0 0;
+		position: absolute;
+		left: .2em;
+		top: 50%;
+		margin-top: -8px;
+	}
+	#icons {
+		margin: 0;
+		padding: 0;
+	}
+	#icons li {
+		margin: 2px;
+		position: relative;
+		padding: 4px 0;
+		cursor: pointer;
+		float: left;
+		list-style: none;
+	}
+	#icons span.ui-icon {
+		float: left;
+		margin: 0 4px;
+	}
+	.fakewindowcontain .ui-widget-overlay {
+		position: absolute;
+	}
+	select {
+		width: 200px;
+	}
+	</style>
+	<script>
+	function gethistory() {
+         var url = "http://127.0.0.1:5000/historical/";
+         $.getJSON(url, function(data){
+                $("#hist").text(JSON.stringify(data));
+                 console.log(JSON.stringify(data));
+        });
+    }
+
+    function search() {
+    	var date1 = document.getElementById("date1").value;
+    	console.log(date1);
+    	var year = date1.substring(0,4);
+        var month = date1.substring(5,7);
+        var day = date1.substring(8,10);
+        console.log(year);
+        console.log(month);
+        console.log(day);
+        //var theday = year+month+day;
+        var url = "http://127.0.0.1:5000/historical/"+year+month+day;
+    	$.getJSON(url, function(data){
+                $("#gett").text(JSON.stringify(data));
+                console.log(JSON.stringify(data));
+        }); 
+    }
+	
+	function insert() {
+    	var date2 = document.getElementById("date2").value;
+    	console.log(date2);
+    	var year = date2.substring(0,4);
+        var month = date2.substring(5,7);
+        var day = date2.substring(8,10);
+        console.log(year);
+        console.log(month);
+        console.log(day);
+        var thedate = year+month+day;	
+        var url = "http://127.0.0.1:5000/historical/"+thedate;
+        console.log(url);
+        var instmax = document.getElementById("instmax").value;
+        var instmin = document.getElementById("instmin").value;
+        console.log(instmax);
+        console.log(instmin);
+        var insdata = '{"DATE":"'+thedate+'","TMAX":'+instmax+',"TMIN":'+instmin+'}';
+        console.log(insdata);
+        console.log(typeof insdata)
+        //$.post(url, insdata, function(data,status){
+        //	alert("Data \n" + data + "\nStatus " + status)
+        //}, 'json');
+        $.ajax({
+                type : "POST",
+                url : url,
+                data: JSON.stringify(eval("(" + insdata + ")")),
+                contentType: 'application/json;charset=UTF-8',
+                success: function(result) {
+                console.log(result);
+                $("#ins").html('Data inserted');
+                }
+        });
+    }
+
+    function delete1(){
+    	var date3 = document.getElementById("date3").value;
+    	console.log(date3);
+    	var year = date3.substring(0,4);
+        var month = date3.substring(5,7);
+        var day = date3.substring(8,10);
+        console.log(year);
+        console.log(month);
+        console.log(day);
+        var thedate = year+month+day;	
+        //var url = "http://18.219.36.77:5000/historical/"+thedate;
+        $.ajax({
+                url: "http://127.0.0.1:5000/historical/"+thedate,
+                type: 'DELETE',
+                success: function(result) {
+                 alert('Data has been deleted');
+                }
+                });
+    }
+
+    function forecast(){
+    	var date4 = document.getElementById("date4").value;
+    	console.log(date4);
+    	var year = date4.substring(0,4);
+        var month = date4.substring(5,7);
+        var day = date4.substring(8,10);
+        console.log(year);
+        console.log(month);
+        console.log(day);
+        var thedate = year+month+day;
+        var url = "http://127.0.0.1:5000/forecast/"+thedate;
+        var fdata;
+        var TMAX = [];
+        var TMIN = [];
+        var DATE = [];
+        var layout1 = {
+  			title: 'TMAX plot',
+  			xaxis: {
+    		title: 'Date'
+    		},
+    		yaxis: {
+    		title: 'Temperature'
+    		}
+    	};
+		var layout2 = {
+  			title: 'TMIN plot',
+  			xaxis: {
+    		title: 'Date'
+    		},
+    		yaxis: {
+    		title: 'Temperature'
+    		}
+    	};
+        $.getJSON(url, function(data){
+        		fdata= JSON.stringify(data);
+                $("#fore").text(fdata);
+                console.log(fdata);
+                fdata = JSON.parse(fdata);
+                console.log(fdata);
+                for (i = 0; i < fdata.length; i++){
+        		DATE.push(fdata[i]['DATE']);
+        		TMAX.push(fdata[i]['TMAX']);
+        		TMIN.push(fdata[i]['TMIN']);}
+        		console.log(DATE);
+        		console.log(TMAX);
+        		console.log(TMIN);
+        		var maxplot = [{
+    				x: DATE,
+    				y: TMAX,
+    				type: 'bar'}];
+    			var minplot = [{
+    				x: DATE,
+    				y: TMIN,
+    				type: 'bar'}];
+				Plotly.newPlot('TMAXplot', maxplot, layout1);
+				Plotly.newPlot('TMINplot', minplot, layout2);
+        });   
+    }
+	</script>
+
+</head>
+<body>
+	<h1>Weather Forecast API</h1>
+	<!-- Tabs -->
+	<div id="tabs">
+		<ul>
+			<li><a href="#History">Historical Data</a></li>
+			<li><a href="#Search">Search Date</a></li>
+			<li><a href="#Insert">Insert Date</a></li>
+			<li><a href="#Delete">Delete Date</a></li>
+			<li><a href="#Forecast">Weather Forecast</a></li>
+		</ul>
+		<!-- Tab1 -->
+		<div id="History">
+			<!-- Button -->
+			</br>
+            </br>
+            <input type="button" id="submit1" value="View History" onclick="gethistory()"/>
+            <p id="hist"></p>
+        	</br>
+		</div>
+		<!-- Tab2 -->
+		<div id="Search">
+			<label>Please enter date:</label>
+        	<input type="date" id="date1" data-date-inline-picker="true"/>
+        	</br>
+        	</br>
+        	<input type="button" id="submit2" value="Get Details" onclick="search()"/>
+        	</br>
+        	<p id="gett"></p>
+        	</br>
+		</div>
+		<!-- Tab3 -->
+		<div id="Insert">
+			<label>Please enter date:</label>
+        	<input type="date" id="date2" data-date-inline-picker="true"/>
+        	</br>
+        	</br>
+        	<label>Please enter max temperature:</label>
+        	<input type="number" id="instmax" requeired/>
+        	</br>
+        	</br>
+        	<label>Please enter min temperature:</label>
+        	<input type="number" id="instmin" requeired/>
+        	</br>
+        	</br>
+        	<input type="button" id="submit3" value="Submit Data" onclick="insert()"/>
+        	</br>
+        	<p id="insert"></p>
+        	</br>
+		</div>
+		<!-- Tab4 -->
+		<div id="Delete">
+			<label>Please enter date:</label>
+        	<input type="date" id="date3" data-date-inline-picker="true"/>
+        	</br>
+        	</br>
+        	<input type="button" id="submit4" value="Complete Deletion" onclick="delete1()"/>
+        	</br>
+        	<p id="delete"></p>
+        	</br>
+		</div>
+		<!-- Tab5 -->
+		<div id="Forecast">
+			<label>Please enter date:</label>
+        	<input type="date" id="date4" data-date-inline-picker="true"/>
+        	</br>
+        	</br>
+        	<input type="button" id="submit5" value="Get Next 7 Days Forecast" onclick="forecast()"/>
+        	</br>
+        	<p id="fore"></p>
+        	</br>
+        	</br>
+        	<div id="TMAXplot"><!-- Plotly chart will be drawn inside this DIV --></div>
+        	<div id="TMINplot"><!-- Plotly chart will be drawn inside this DIV --></div>
+        	</br>
+		</div>
+	</div>
+
+	
+    <script>
+ 
+    $( "#tabs" ).tabs();
+
+    </script>
+</body>
+</html>

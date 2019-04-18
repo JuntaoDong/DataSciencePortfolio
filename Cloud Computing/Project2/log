@@ -1,0 +1,465 @@
+juntao@juntao-VirtualBox:~/Documents/P2$ pyspark
+Python 2.7.12 (default, Dec  4 2017, 14:50:18) 
+[GCC 5.4.0 20160609] on linux2
+Type "help", "copyright", "credits" or "license" for more information.
+2018-04-26 20:01:13 WARN  Utils:66 - Your hostname, juntao-VirtualBox resolves to a loopback address: 127.0.1.1; using 10.0.2.15 instead (on interface enp0s3)
+2018-04-26 20:01:13 WARN  Utils:66 - Set SPARK_LOCAL_IP if you need to bind to another address
+2018-04-26 20:01:14 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+Setting default log level to "WARN".
+To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
+Welcome to
+      ____              __
+     / __/__  ___ _____/ /__
+    _\ \/ _ \/ _ `/ __/  '_/
+   /__ / .__/\_,_/_/ /_/\_\   version 2.3.0
+      /_/
+
+Using Python version 2.7.12 (default, Dec  4 2017 14:50:18)
+SparkSession available as 'spark'.
+>>> from weatherstats import run, run_whole_dataset
+>>> run()
+                                                                                
+2000
+====
+
+Min TMIN = -57.8 deg C                                                          
+Max TMAX = 52.2 deg C                                                           
+Avg TMIN = 4.4 deg C                                                            
+Avg TMAX = 17.6 deg C                                                           
+Median TMIN = 12.8 deg C                                                        
+Median TMAX = 26.1 deg C                                                        
+                                                                                
+Hottest station #1: USC00416892 - 37.4 deg C
+Hottest station #2: USC00411013 - 36.9 deg C
+Hottest station #3: USC00045502 - 36.8 deg C
+Hottest station #4: USC00024761 - 35.0 deg C
+Hottest station #5: USC00021026 - 34.0 deg C
+                                                                                
+Coldest station #1: USC00508140 - -20.8 deg C
+Coldest station #2: USC00505873 - -18.7 deg C
+Coldest station #3: USR0000WBAR - -18.1 deg C
+Coldest station #4: USC00247248 - -16.0 deg C
+Coldest station #5: USW00026508 - -15.7 deg C
+
+2001
+====
+
+Min TMIN = -52.8 deg C                                                          
+Max TMAX = 52.8 deg C                                                           
+Avg TMIN = 4.8 deg C                                                            
+Avg TMAX = 17.9 deg C                                                           
+Median TMIN = 26.7 deg C                                                        
+Median TMAX = 28.9 deg C                                                        
+                                                                                
+Hottest station #1: USC00045502 - 35.6 deg C
+Hottest station #2: USC00022434 - 35.1 deg C
+Hottest station #3: USC00026250 - 34.0 deg C
+Hottest station #4: USC00024761 - 33.9 deg C
+Hottest station #5: USC00042319 - 33.8 deg C
+                                                                                
+Coldest station #1: USR0000AHAY - -31.7 deg C
+Coldest station #2: USW00026508 - -29.9 deg C
+Coldest station #3: USC00508409 - -18.7 deg C
+Coldest station #4: USW00026440 - -18.5 deg C
+Coldest station #5: USC00509315 - -18.4 deg C
+
+2002
+====
+
+Min TMIN = -47.2 deg C                                                          
+Max TMAX = 53.3 deg C                                                           
+Avg TMIN = 4.7 deg C                                                            
+Avg TMAX = 17.7 deg C                                                           
+Median TMIN = 14.4 deg C                                                        
+Median TMAX = 36.7 deg C                                                        
+                                                                                
+Hottest station #1: USC00022807 - 34.6 deg C
+Hottest station #2: USC00347254 - 34.4 deg C
+Hottest station #3: USC00042319 - 33.9 deg C
+Hottest station #4: USC00044259 - 33.4 deg C
+Hottest station #5: USR0000CBUU - 32.8 deg C
+                                                                                
+Coldest station #1: USR0000NHAM - -19.2 deg C
+Coldest station #2: USS0051R01S - -19.0 deg C
+Coldest station #3: USC00502873 - -17.3 deg C
+Coldest station #4: USC00501987 - -15.1 deg C
+Coldest station #5: USC00263101 - -14.8 deg C
+
+2003
+====
+
+Min TMIN = -50.0 deg C                                                          
+Max TMAX = 53.3 deg C                                                           
+Avg TMIN = 4.9 deg C                                                            
+Avg TMAX = 17.7 deg C                                                           
+Median TMIN = 26.7 deg C                                                        
+Median TMAX = 17.8 deg C                                                        
+                                                                                
+Hottest station #1: USC00344766 - 36.2 deg C
+Hottest station #2: USC00026194 - 35.1 deg C
+Hottest station #3: USC00045502 - 34.7 deg C
+Hottest station #4: USR0000CWIL - 34.6 deg C
+Hottest station #5: USC00412906 - 34.3 deg C
+                                                                                
+Coldest station #1: USS0045M07S - -20.1 deg C
+Coldest station #2: USS0048V01S - -17.8 deg C
+Coldest station #3: USC00433581 - -16.6 deg C
+Coldest station #4: USC00067373 - -16.3 deg C
+Coldest station #5: USC00503181 - -15.7 deg C
+
+2004
+====
+
+Min TMIN = -53.3 deg C                                                          
+Max TMAX = 51.7 deg C                                                           
+Avg TMIN = 4.9 deg C                                                            
+Avg TMAX = 17.5 deg C                                                           
+Median TMIN = 6.1 deg C                                                         
+Median TMAX = 18.9 deg C                                                        
+                                                                                
+Hottest station #1: USC00042346 - 37.1 deg C
+Hottest station #2: USW00053139 - 34.8 deg C
+Hottest station #3: USR0000CMIO - 34.3 deg C
+Hottest station #4: USW00023195 - 33.7 deg C
+Hottest station #5: USC00044259 - 33.4 deg C
+                                                                                
+Coldest station #1: USR0000ACOA - -25.4 deg C
+Coldest station #2: USR0000AOKL - -21.7 deg C
+Coldest station #3: USR0000ASTU - -21.7 deg C
+Coldest station #4: USR0000NLIM - -21.0 deg C
+Coldest station #5: USC00306957 - -19.7 deg C
+
+2005
+====
+
+Min TMIN = -55.0 deg C                                                          
+Max TMAX = 53.9 deg C                                                           
+Avg TMIN = 5.0 deg C                                                            
+Avg TMAX = 17.8 deg C                                                           
+Median TMIN = 11.1 deg C                                                        
+Median TMAX = 24.4 deg C                                                        
+                                                                                
+Hottest station #1: USR0000MKIL - 34.0 deg C
+Hottest station #2: USC00290525 - 34.0 deg C
+Hottest station #3: USC00427606 - 33.5 deg C
+Hottest station #4: USC00383906 - 32.9 deg C
+Hottest station #5: USC00311515 - 32.6 deg C
+                                                                                
+Coldest station #1: USR0000AFYK - -41.1 deg C
+Coldest station #2: USR0000AUMI - -38.3 deg C
+Coldest station #3: USR0000ADEV - -28.9 deg C
+Coldest station #4: USC00305925 - -27.8 deg C
+Coldest station #5: USR0000AWLL - -23.9 deg C
+
+2006
+====
+
+Min TMIN = -52.8 deg C                                                          
+Max TMAX = 52.8 deg C                                                           
+Avg TMIN = 5.1 deg C                                                            
+Avg TMAX = 18.1 deg C                                                           
+Median TMIN = 16.1 deg C                                                        
+Median TMAX = 26.7 deg C                                                        
+                                                                                
+Hottest station #1: USC00021514 - 40.8 deg C
+Hottest station #2: USC00419122 - 36.2 deg C
+Hottest station #3: USC00080611 - 35.0 deg C
+Hottest station #4: USR0000HMOL - 34.0 deg C
+Hottest station #5: USC00042319 - 33.4 deg C
+                                                                                
+Coldest station #1: USC00505534 - -24.2 deg C
+Coldest station #2: USC00508130 - -17.8 deg C
+Coldest station #3: USC00210059 - -17.2 deg C
+Coldest station #4: USS0049T03S - -17.2 deg C
+Coldest station #5: USS0045Q05S - -16.4 deg C
+
+2007
+====
+
+Min TMIN = -53.9 deg C                                                          
+Max TMAX = 55.6 deg C                                                           
+Avg TMIN = 4.9 deg C                                                            
+Avg TMAX = 17.8 deg C                                                           
+Median TMIN = 8.9 deg C                                                         
+Median TMAX = 30.6 deg C                                                        
+                                                                                
+Hottest station #1: USC00314987 - 38.3 deg C
+Hottest station #2: USC00029376 - 35.5 deg C
+Hottest station #3: USR0000HMOL - 34.6 deg C
+Hottest station #4: USC00042319 - 34.0 deg C
+Hottest station #5: USC00041048 - 33.8 deg C
+                                                                                
+Coldest station #1: USC00502707 - -26.0 deg C
+Coldest station #2: USR0000AUMI - -25.4 deg C
+Coldest station #3: USC00248857 - -23.3 deg C
+Coldest station #4: USC00509315 - -20.0 deg C
+Coldest station #5: USC00502107 - -17.1 deg C
+
+2008
+====
+
+Min TMIN = -57.8 deg C                                                          
+Max TMAX = 52.8 deg C                                                           
+Avg TMIN = 4.1 deg C                                                            
+Avg TMAX = 17.0 deg C                                                           
+Median TMIN = 11.8 deg C                                                        
+Median TMAX = 26.1 deg C                                                        
+                                                                                
+Hottest station #1: USC00411671 - 35.1 deg C
+Hottest station #2: USC00254113 - 35.0 deg C
+Hottest station #3: USW00003125 - 34.9 deg C
+Hottest station #4: USR0000HMOL - 34.5 deg C
+Hottest station #5: USC00044259 - 34.4 deg C
+                                                                                
+Coldest station #1: USS0051R01S - -26.0 deg C
+Coldest station #2: USC00509315 - -24.4 deg C
+Coldest station #3: USC00390223 - -19.7 deg C
+Coldest station #4: USC00391917 - -19.4 deg C
+Coldest station #5: USC00476838 - -19.3 deg C
+
+2009
+====
+
+Min TMIN = -55.6 deg C                                                          
+Max TMAX = 53.3 deg C                                                           
+Avg TMIN = 4.3 deg C                                                            
+Avg TMAX = 16.9 deg C                                                           
+Median TMIN = 5.6 deg C                                                         
+Median TMAX = 21.7 deg C                                                        
+                                                                                
+Hottest station #1: USC00141408 - 37.8 deg C
+Hottest station #2: USR0000HMOL - 36.2 deg C
+Hottest station #3: USC00144530 - 36.1 deg C
+Hottest station #4: USC00027370 - 34.5 deg C
+Hottest station #5: USC00046198 - 34.3 deg C
+                                                                                
+Coldest station #1: USC00501492 - -33.4 deg C
+Coldest station #2: USC00471618 - -30.5 deg C
+Coldest station #3: USC00509315 - -27.5 deg C
+Coldest station #4: USC00502015 - -24.4 deg C
+Coldest station #5: USC00212916 - -23.4 deg C
+
+2010
+====
+
+Min TMIN = -53.3 deg C                                                          
+Max TMAX = 51.7 deg C                                                           
+Avg TMIN = 4.7 deg C                                                            
+Avg TMAX = 17.1 deg C                                                           
+Median TMIN = 5.6 deg C                                                         
+Median TMAX = 19.4 deg C                                                        
+                                                                                
+Hottest station #1: USC00141408 - 35.0 deg C
+Hottest station #2: USC00417951 - 34.9 deg C
+Hottest station #3: USC00027370 - 33.4 deg C
+Hottest station #4: USC00028070 - 33.3 deg C
+Hottest station #5: USC00341544 - 33.1 deg C
+                                                                                
+Coldest station #1: USC00507097 - -24.0 deg C
+Coldest station #2: USR0000MKIL - -22.9 deg C
+Coldest station #3: USC00505873 - -22.8 deg C
+Coldest station #4: USR0000MOSC - -22.8 deg C
+Coldest station #5: USR0000MBRV - -21.8 deg C
+
+2011
+====
+
+Min TMIN = -51.7 deg C                                                          
+Max TMAX = 51.1 deg C                                                           
+Avg TMIN = 4.6 deg C                                                            
+Avg TMAX = 17.2 deg C                                                           
+Median TMIN = 9.4 deg C                                                         
+Median TMAX = 14.4 deg C                                                        
+                                                                                
+Hottest station #1: USR0000CTAR - 37.8 deg C
+Hottest station #2: USC00411416 - 37.0 deg C
+Hottest station #3: USC00035514 - 36.1 deg C
+Hottest station #4: USC00412350 - 34.4 deg C
+Hottest station #5: USR0000HMOL - 34.4 deg C
+                                                                                
+Coldest station #1: USC00479012 - -34.4 deg C
+Coldest station #2: USC00509314 - -24.6 deg C
+Coldest station #3: USR0000MOSC - -22.9 deg C
+Coldest station #4: USR0000MBRV - -22.7 deg C
+Coldest station #5: USC00505136 - -22.6 deg C
+
+2012
+====
+
+Min TMIN = -54.4 deg C                                                          
+Max TMAX = 53.7 deg C                                                           
+Avg TMIN = 5.3 deg C                                                            
+Avg TMAX = 18.4 deg C                                                           
+Median TMIN = 7.8 deg C                                                         
+Median TMAX = 23.9 deg C                                                        
+                                                                                
+Hottest station #1: USW00012946 - 35.9 deg C
+Hottest station #2: USC00290915 - 35.4 deg C
+Hottest station #3: USC00412906 - 34.8 deg C
+Hottest station #4: USC00040924 - 34.6 deg C
+Hottest station #5: USC00042319 - 34.5 deg C
+                                                                                
+Coldest station #1: USC00504210 - -28.3 deg C
+Coldest station #2: USC00504971 - -27.5 deg C
+Coldest station #3: USC00503368 - -22.8 deg C
+Coldest station #4: USC00508156 - -22.3 deg C
+Coldest station #5: USR0000MKIL - -22.0 deg C
+
+2013
+====
+
+Min TMIN = -52.8 deg C                                                          
+Max TMAX = 53.9 deg C                                                           
+Avg TMIN = 4.3 deg C                                                            
+Avg TMAX = 16.7 deg C                                                           
+Median TMIN = 16.7 deg C                                                        
+Median TMAX = 23.9 deg C                                                        
+                                                                                
+Hottest station #1: USC00260125 - 36.9 deg C
+Hottest station #2: USC00042319 - 33.7 deg C
+Hottest station #3: USC00042410 - 33.6 deg C
+Hottest station #4: USC00025270 - 33.3 deg C
+Hottest station #5: USC00021050 - 33.0 deg C
+                                                                                
+Coldest station #1: USR0000ASLC - -35.7 deg C
+Coldest station #2: USC00201940 - -24.4 deg C
+Coldest station #3: USR0000MBRV - -21.6 deg C
+Coldest station #4: USR0000ABUU - -20.3 deg C
+Coldest station #5: USC00503212 - -20.3 deg C
+
+2014
+====
+
+Min TMIN = -50.0 deg C                                                          
+Max TMAX = 52.2 deg C                                                           
+Avg TMIN = 4.4 deg C                                                            
+Avg TMAX = 16.8 deg C                                                           
+Median TMIN = 6.7 deg C                                                         
+Median TMAX = 34.4 deg C                                                        
+                                                                                
+Hottest station #1: USC00413618 - 36.2 deg C
+Hottest station #2: USC00042319 - 34.7 deg C
+Hottest station #3: USC00040924 - 34.1 deg C
+Hottest station #4: USW00003145 - 33.8 deg C
+Hottest station #5: USC00029656 - 33.6 deg C
+                                                                                
+Coldest station #1: USC00238456 - -25.5 deg C
+Coldest station #2: USC00210746 - -24.9 deg C
+Coldest station #3: USC00210050 - -24.3 deg C
+Coldest station #4: USC00320450 - -23.9 deg C
+Coldest station #5: USC00208680 - -23.3 deg C
+
+2015
+====
+
+Min TMIN = -52.8 deg C                                                          
+Max TMAX = 55.6 deg C                                                           
+Avg TMIN = 5.3 deg C                                                            
+Avg TMAX = 17.7 deg C                                                           
+Median TMIN = 27.2 deg C                                                        
+Median TMAX = 17.8 deg C                                                        
+                                                                                
+Hottest station #1: USC00092593 - 34.6 deg C
+Hottest station #2: USC00403379 - 34.6 deg C
+Hottest station #3: USC00414278 - 34.6 deg C
+Hottest station #4: USC00040924 - 34.4 deg C
+Hottest station #5: USC00042319 - 34.1 deg C
+                                                                                
+Coldest station #1: USC00158551 - -32.2 deg C
+Coldest station #2: USC00210050 - -31.9 deg C
+Coldest station #3: USC00242347 - -24.2 deg C
+Coldest station #4: USC00508130 - -21.8 deg C
+Coldest station #5: USC00503212 - -20.0 deg C
+
+2016
+====
+
+Min TMIN = -46.9 deg C                                                          
+Max TMAX = 53.9 deg C                                                           
+Avg TMIN = 5.5 deg C                                                            
+Avg TMAX = 17.9 deg C                                                           
+Median TMIN = 11.1 deg C                                                        
+Median TMAX = 20.0 deg C                                                        
+                                                                                
+Hottest station #1: USC00412906 - 40.5 deg C
+Hottest station #2: USC00297461 - 36.3 deg C
+Hottest station #3: USC00415101 - 35.6 deg C
+Hottest station #4: USC00406340 - 34.3 deg C
+Hottest station #5: USC00025700 - 34.3 deg C
+                                                                                
+Coldest station #1: USC00200234 - -26.6 deg C
+Coldest station #2: USC00507778 - -18.5 deg C
+Coldest station #3: USC00210746 - -17.1 deg C
+Coldest station #4: USC00273860 - -14.0 deg C
+Coldest station #5: USW00027401 - -13.8 deg C
+
+2017
+====
+
+Min TMIN = -52.0 deg C                                                          
+Max TMAX = 52.8 deg C                                                           
+Avg TMIN = 5.3 deg C                                                            
+Avg TMAX = 17.7 deg C                                                           
+Median TMIN = 4.4 deg C                                                         
+Median TMAX = 16.7 deg C                                                        
+                                                                                
+Hottest station #1: USC00044297 - 36.6 deg C
+Hottest station #2: USC00022790 - 36.0 deg C
+Hottest station #3: USC00042319 - 34.2 deg C
+Hottest station #4: USC00029656 - 33.9 deg C
+Hottest station #5: USC00020632 - 33.6 deg C
+                                                                                
+Coldest station #1: USC00503567 - -22.9 deg C
+Coldest station #2: USC00503585 - -21.9 deg C
+Coldest station #3: USC00322525 - -17.1 deg C
+Coldest station #4: USC00421590 - -15.7 deg C
+Coldest station #5: USC00253617 - -15.4 deg C
+
+2018
+====
+
+Min TMIN = -52.8 deg C                                                          
+Max TMAX = 41.7 deg C                                                           
+Avg TMIN = -3.2 deg C                                                           
+Avg TMAX = 8.6 deg C                                                            
+Median TMIN = -4.3 deg C                                                        
+Median TMAX = 6.7 deg C                                                         
+                                                                                
+Hottest station #1: USW00092826 - 28.4 deg C
+Hottest station #2: USC00515710 - 28.1 deg C
+Hottest station #3: USW00003104 - 28.0 deg C
+Hottest station #4: USR0000FOAS - 28.0 deg C
+Hottest station #5: USW00092809 - 27.8 deg C
+                                                                                
+Coldest station #1: USC00210809 - -26.5 deg C
+Coldest station #2: USC00501684 - -26.2 deg C
+Coldest station #3: USR0000AUMI - -25.9 deg C
+Coldest station #4: USS0051R01S - -24.6 deg C
+Coldest station #5: USR0000ABCK - -24.4 deg C
+>>> 
+>>>run_whole_dataset()
+2018-04-26 20:01:45 WARN  ObjectStore:6666 - Version information not found in metastore. hive.metastore.schema.verification is not enabled so recording the schema version 1.2.0
+2018-04-26 20:01:46 WARN  ObjectStore:568 - Failed to get database default, returning NoSuchObjectException
+2018-04-26 20:01:46 WARN  ObjectStore:568 - Failed to get database global_temp, returning NoSuchObjectException
+
+Entire dataset (2000-2018)
+==========================
+
+  * Loading all datasets into a single DataFrame...
+  * Computing coldest station for entire dataset...
+
+Coldest station was USC00501684 on 07 Feb 2008: -57.8 deg C                     
+
+  * Computing hottest station for entire dataset...
+
+Hottest station was USR0000HKAU on 13 Feb 2015: 55.6 deg C                      
+
+  * Computing median TMIN for entire dataset...
+
+Median TMIN for the entire dataset: 27.8 deg C                                  
+
+  * Computing median TMAX for entire dataset...
+
+Median TMAX for the entire dataset: 43.3 deg C                                  
+>>> 
+

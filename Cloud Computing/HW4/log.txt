@@ -1,0 +1,79 @@
+dongjt@hadoop-gate-0:~$ hadoop jar /usr/hdp/2.6.3.0-235/hadoop-mapreduce/hadoop-                                                                                                                                                       streaming-2.7.3.2.6.3.0-235.jar -file mapper.py -mapper mapper.py -file reducer.                                                                                                                                                             py -reducer reducer.py -input /data/nyc/nyc-traffic.csv -output mr
+18/04/06 00:22:38 WARN streaming.StreamJob: -file option is deprecated, please u                                                                                                                                                             se generic option -files instead.
+packageJobJar: [mapper.py, reducer.py] [/usr/hdp/2.6.3.0-235/hadoop-mapreduce/ha                                                                                                                                                             doop-streaming-2.7.3.2.6.3.0-235.jar] /tmp/streamjob1781842179297240445.jar tmpD                                                                                                                                                             ir=null
+18/04/06 00:22:40 INFO client.RMProxy: Connecting to ResourceManager at hadoop2-                                                                                                                                                             0-0.cscloud.ceas.uc.edu/192.168.2.20:8050
+18/04/06 00:22:40 INFO client.AHSProxy: Connecting to Application History server                                                                                                                                                              at hadoop2-0-0.cscloud.ceas.uc.edu/192.168.2.20:10200
+18/04/06 00:22:40 INFO client.RMProxy: Connecting to ResourceManager at hadoop2-                                                                                                                                                             0-0.cscloud.ceas.uc.edu/192.168.2.20:8050
+18/04/06 00:22:40 INFO client.AHSProxy: Connecting to Application History server                                                                                                                                                              at hadoop2-0-0.cscloud.ceas.uc.edu/192.168.2.20:10200
+18/04/06 00:22:41 INFO mapred.FileInputFormat: Total input paths to process : 1
+18/04/06 00:22:41 INFO net.NetworkTopology: Adding a new node: /default-rack/192                                                                                                                                                             .168.2.19:50010
+18/04/06 00:22:41 INFO net.NetworkTopology: Adding a new node: /24-core/192.168.                                                                                                                                                             2.24:50010
+18/04/06 00:22:41 INFO net.NetworkTopology: Adding a new node: /24-core/192.168.                                                                                                                                                             2.25:50010
+18/04/06 00:22:41 INFO net.NetworkTopology: Adding a new node: /16-core/192.168.                                                                                                                                                             2.22:50010
+18/04/06 00:22:41 INFO mapreduce.JobSubmitter: number of splits:2
+18/04/06 00:22:41 INFO mapreduce.JobSubmitter: Submitting tokens for job: job_15                                                                                                                                                             21804639914_0655
+18/04/06 00:22:41 INFO impl.YarnClientImpl: Submitted application application_15                                                                                                                                                             21804639914_0655
+18/04/06 00:22:41 INFO mapreduce.Job: The url to track the job: http://hadoop2-0                                                                                                                                                             -0.cscloud.ceas.uc.edu:8088/proxy/application_1521804639914_0655/
+18/04/06 00:22:41 INFO mapreduce.Job: Running job: job_1521804639914_0655
+18/04/06 00:22:48 INFO mapreduce.Job: Job job_1521804639914_0655 running in uber                                                                                                                                                              mode : false
+18/04/06 00:22:48 INFO mapreduce.Job:  map 0% reduce 0%
+18/04/06 00:22:58 INFO mapreduce.Job:  map 100% reduce 0%
+18/04/06 00:23:10 INFO mapreduce.Job:  map 100% reduce 100%
+18/04/06 00:23:10 INFO mapreduce.Job: Job job_1521804639914_0655 completed succe                                                                                                                                                             ssfully
+18/04/06 00:23:11 INFO mapreduce.Job: Counters: 49
+        File System Counters
+                FILE: Number of bytes read=42367656
+                FILE: Number of bytes written=85195118
+                FILE: Number of read operations=0
+                FILE: Number of large read operations=0
+                FILE: Number of write operations=0
+                HDFS: Number of bytes read=176307514
+                HDFS: Number of bytes written=373
+                HDFS: Number of read operations=9
+                HDFS: Number of large read operations=0
+                HDFS: Number of write operations=2
+        Job Counters
+                Launched map tasks=2
+                Launched reduce tasks=1
+                Other local map tasks=2
+                Total time spent by all maps in occupied slots (ms)=32094
+                Total time spent by all reduces in occupied slots (ms)=17976
+                Total time spent by all map tasks (ms)=16047
+                Total time spent by all reduce tasks (ms)=8988
+                Total vcore-milliseconds taken by all map tasks=16047
+                Total vcore-milliseconds taken by all reduce tasks=8988
+                Total megabyte-milliseconds taken by all map tasks=24648192
+                Total megabyte-milliseconds taken by all reduce tasks=18407424
+        Map-Reduce Framework
+                Map input records=924098
+                Map output records=1808616
+                Map output bytes=38750418
+                Map output materialized bytes=42367662
+                Input split bytes=240
+                Combine input records=0
+                Combine output records=0
+                Reduce input groups=20
+                Reduce shuffle bytes=42367662
+                Reduce input records=1808616
+                Reduce output records=20
+                Spilled Records=3617232
+                Shuffled Maps =2
+                Failed Shuffles=0
+                Merged Map outputs=2
+                GC time elapsed (ms)=761
+                CPU time spent (ms)=19780
+                Physical memory (bytes) snapshot=2708832256
+                Virtual memory (bytes) snapshot=10294968320
+                Total committed heap usage (bytes)=2694840320
+        Shuffle Errors
+                BAD_ID=0
+                CONNECTION=0
+                IO_ERROR=0
+                WRONG_LENGTH=0
+                WRONG_MAP=0
+                WRONG_REDUCE=0
+        File Input Format Counters
+                Bytes Read=176307274
+        File Output Format Counters
+                Bytes Written=373
+18/04/06 00:23:11 INFO streaming.StreamJob: Output directory: mr
