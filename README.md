@@ -10,6 +10,7 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 1. [Postgres ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Postgres)
 1. [Cassandra ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Cassandra)
 1. [Cloud Data Warehousing Using AWS](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Warehouse)
+1. [Big Data Analysis Using MapReduce / Apache Spark](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project2)
 
 ## Hackathons
 
@@ -18,6 +19,6 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 
 ## Data Science Courses
 
-1. [UC-CS6065 Cloud Computing]()
+1. [UC-CS6065 Cloud Computing](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing)
 1. [IBM Data Science Professional Certificate](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/IBM%20Data%20Science%20Professional%20Certificate)
 1. [Udacity Data Engineer Nanodegree](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree)
