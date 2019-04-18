@@ -55,7 +55,8 @@ Just for clarification, I choose average of TMAX and TMIN to determine the hotte
 
 You can check the raw results in the [log](https://github.com/JuntaoDong/DataSciencePortfolio/blob/master/Cloud%20Computing/Project2/log) file.
 
-**Table1. Annual Statistics**
+### Table1. Annual Statistics
+
 |      | Min TMIN | Max TMAX | Avg TMIN | Avg TMAX | Median TMIN | Median TMAX |
 | ---- | -------- | -------- | -------- | -------- | ----------- | ----------- |
  2000 | -57.8 | 52.2 | 4.4 | 17.6 | 12.8 | 26.1 
@@ -78,7 +79,8 @@ You can check the raw results in the [log](https://github.com/JuntaoDong/DataSci
  2017 | -52.0 | 52.8 | 5.3 | 17.7 | 4.4 | 16.7 
  2018 | -52.8 | 41.7 | -3.2 | 8.6 | -4.3 | 6.7 
 
-**Table2. Annual Hottest Stations and Corresponding Avg TMAX**
+### Table2. Annual Hottest Stations and Corresponding Avg TMAX
+
 |      | Station #1 | Station #2 | Station #3 | Station #4 | Station #5 |
 | ---- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 2000 | USC00416892 - 37.4 | USC00411013 - 36.9 | USC00045502 - 36.8 | USC00024761 - 35.0 | USC00021026 - 34.0 |
@@ -101,7 +103,8 @@ You can check the raw results in the [log](https://github.com/JuntaoDong/DataSci
 | 2017 | USC00044297 - 36.6 | USC00022790 - 36.0 | USC00042319 - 34.2 | USC00029656 - 33.9 | USC00020632 - 33.6 | 
 | 2018 | USW00092826 - 28.4 | USC00515710 - 28.1 | USW00003104 - 28.0 | USR0000FOAS - 28.0 | USW00092809 - 27.8 |
 
-**Table3. Annual Coldest Stations and Corresponding Avg TMIN**
+### Table3. Annual Coldest Stations and Corresponding Avg TMIN
+
 |      | Station #1 | Station #2 | Station #3 | Station #4 | Station #5 |
 | ---- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | 2000 | USC00508140 - -20.8 | USC00505873 - -18.7 | USR0000WBAR - -18.1 | USC00247248 - -16.0 | USW00026508 - -15.7 |
@@ -124,7 +127,8 @@ You can check the raw results in the [log](https://github.com/JuntaoDong/DataSci
 | 2017 | USC00503567 - -22.9 | USC00503585 - -21.9 | USC00322525 - -17.1 | USC00421590 - -15.7 | USC00253617 - -15.4 | 
 | 2018 | USC00210809 - -26.5 | USC00501684 - -26.2 | USR0000AUMI - -25.9 | USS0051R01S - -24.6 | USR0000ABCK - -24.4 |
 
-**Table4. Statistics of Entire Dataset**
+### Table4. Statistics of Entire Dataset
+
 | Feature | Content |
 | ------- | ------- |
 | Coldest Day and Station | USC00501684 on 07 Feb 2008: -57.8 deg C |
