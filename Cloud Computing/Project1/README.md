@@ -8,6 +8,7 @@
 docker pull juntaodong/weatherapi
 docker run -d -p 8081:80 juntaodong/weatherapi
 ```
+![screenshot](screenshot.PNG)
 
 ### Workflow
 * Edit Dockerfile: 
