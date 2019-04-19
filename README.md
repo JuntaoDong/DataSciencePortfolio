@@ -1,4 +1,4 @@
-# My Data Science Portfolio - Under Construction
+# My Data Science Portfolio - Under construction
 
 ![pic](https://github.com/JuntaoDong/DataSciencePortfolio/blob/master/data-science.png)
 
