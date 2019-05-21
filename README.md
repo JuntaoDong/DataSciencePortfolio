@@ -13,7 +13,7 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 + [Docker and WebServices](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project1)
 + [Big Data Analysis Using MapReduce / Apache Spark](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project2)
 + Data Lake
-+ Web Scraping
++ Web Scraping (IBM)
 + Web Development & API Deployment
 
 ## Hackathons
