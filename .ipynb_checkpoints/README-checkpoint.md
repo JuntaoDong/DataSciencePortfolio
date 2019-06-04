@@ -33,5 +33,5 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 + Finish most part of the thesis
 + Complete the construction of data science portfolio
 + Interview problems
-+ Start to applying full-time opsition by the end of August
-+ A & DS
++ Start to applying full
++ A & DS-time opsition by the end of August
