@@ -12,6 +12,7 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 + [Cloud Data Warehousing Using AWS](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Warehouse)
 + [Docker and WebServices](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project1)
 + [Big Data Analysis Using MapReduce / Apache Spark](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project2)
++ [Computer Vision for Sports Advertising](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/IBM%20PowerAI%20Vision)
 + Data Lake
 + Web Scraping (IBM)
 + Web Development & API Deployment
