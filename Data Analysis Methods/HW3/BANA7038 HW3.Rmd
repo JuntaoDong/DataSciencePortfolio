@@ -1,0 +1,185 @@
+
+### 1. Read tombstone.csv into R.  Use response variable = Marble Tombstone Mean Surface Recession Rate, and covariate = Mean SO2 concentrations over a 100 year period.  Description: Marble Tombstone Mean Surface Recession Rates and Mean SO2 concentrations over a 100 year period.
+### *Answer:*
+I use the following code to read tombstone.csv into R.
+
+
+
+```R
+df = read.csv('tombstone.csv')
+names(df) = c('City', 'x', 'y')
+df
+```
+
+
+    Error in int_abline(a = a, b = b, h = h, v = v, untf = untf, ...): plot.new has not been called yet
+    Traceback:
+    
+
+    1. abline(model1)
+
+    2. int_abline(a = a, b = b, h = h, v = v, untf = untf, ...)
+
+
+I rename the columns using x and y to avoid the original long names.
+### 2. Obtain R^2, explain what it means.
+### *Answer:*
+I use the following code to perform linear regression and get R square.
+
+
+```R
+model1 = lm(y~x, data=df)
+summary(model1)$r.square
+```
+
+
+0.811572403847066
+
+
+This means the $R^{2}$ for the fitted linear regression to the rocket propellant data set is 0.8116, which means 81% of the variation in y can be explained by the variation in x.
+### 3. Perform the following hypothesis testing and interval estimation using lm() and other related R functions.
+### 3.1. Perform hypothesis tests for each coefficient, obtain p values, interpret the results, make a conclusion (i.e. reject or not reject) and explain why.  Note: please explain what the null hypothesis is.
+I use the following code to get the coefficients.
+
+
+```R
+summary(model1)
+```
+
+
+    
+    Call:
+    lm(formula = y ~ x, data = df)
+    
+    Residuals:
+         Min       1Q   Median       3Q      Max 
+    -0.72384 -0.19138  0.06136  0.13320  0.69412 
+    
+    Coefficients:
+                 Estimate Std. Error t value Pr(>|t|)    
+    (Intercept) 0.3229959  0.1521958   2.122   0.0472 *  
+    x           0.0085933  0.0009499   9.046 2.58e-08 ***
+    ---
+    Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+    
+    Residual standard error: 0.365 on 19 degrees of freedom
+    Multiple R-squared:  0.8116,	Adjusted R-squared:  0.8017 
+    F-statistic: 81.83 on 1 and 19 DF,  p-value: 2.579e-08
+    
+
+
+The null hypothesis is H0:??1=0 which means the covariate should not influence the response variable. As we can see both p-values for intercept and slope are less than 5%, therefore, we will reject null hypothesis.
+
+### 3.2. Compute interval estimation for coefficients, interpret the meanings of these quantities.
+### *Answer:*
+I use the following code to compute interval estiamtion for coeffcients.
+
+
+### 3.3. Make prediction of the Recession Rate at the 1st, 2nd, 3rd, .., 99th percentiles of the SO2, and obtain their prediction intervals (two types of the intervals).
+### *Answer:*
+I use the following code to generate percentiles and then make two types of prediction intervals.
+
+
+```R
+percentiles = quantile(df$x, probs = seq(0.01, 0.99, by= 0.01))
+pred_p = predict(model1, newdata=data.frame(x=percentiles), interval=c("prediction"), level=0.95, type="response")
+pred_c = predict(model1, newdata=data.frame(x=percentiles), interval=c("confidence"), level=0.95, type="response")
+head(pred_p)
+head(pred_c)
+```
+
+
+<table>
+<thead><tr><th></th><th scope=col>fit</th><th scope=col>lwr</th><th scope=col>upr</th></tr></thead>
+<tbody>
+	<tr><th scope=row>1%</th><td>0.4398652 </td><td>-0.3793945</td><td>1.259125  </td></tr>
+	<tr><th scope=row>2%</th><td>0.4536146 </td><td>-0.3647018</td><td>1.271931  </td></tr>
+	<tr><th scope=row>3%</th><td>0.4673639 </td><td>-0.3500204</td><td>1.284748  </td></tr>
+	<tr><th scope=row>4%</th><td>0.4811132 </td><td>-0.3353503</td><td>1.297577  </td></tr>
+	<tr><th scope=row>5%</th><td>0.4948626 </td><td>-0.3206916</td><td>1.310417  </td></tr>
+	<tr><th scope=row>6%</th><td>0.4948626 </td><td>-0.3206916</td><td>1.310417  </td></tr>
+</tbody>
+</table>
+
+
+
+
+<table>
+<thead><tr><th></th><th scope=col>fit</th><th scope=col>lwr</th><th scope=col>upr</th></tr></thead>
+<tbody>
+	<tr><th scope=row>1%</th><td>0.4398652</td><td>0.1440183</td><td>0.7357122</td></tr>
+	<tr><th scope=row>2%</th><td>0.4536146</td><td>0.1603901</td><td>0.7468390</td></tr>
+	<tr><th scope=row>3%</th><td>0.4673639</td><td>0.1767508</td><td>0.7579770</td></tr>
+	<tr><th scope=row>4%</th><td>0.4811132</td><td>0.1931000</td><td>0.7691264</td></tr>
+	<tr><th scope=row>5%</th><td>0.4948626</td><td>0.2094375</td><td>0.7802876</td></tr>
+	<tr><th scope=row>6%</th><td>0.4948626</td><td>0.2094375</td><td>0.7802876</td></tr>
+</tbody>
+</table>
+
+
+
+
+```R
+tail(pred_p)
+tail(pred_c)
+```
+
+
+<table>
+<thead><tr><th></th><th scope=col>fit</th><th scope=col>lwr</th><th scope=col>upr</th></tr></thead>
+<tbody>
+	<tr><th scope=row>94%</th><td>2.411176</td><td>1.601070</td><td>3.221282</td></tr>
+	<tr><th scope=row>95%</th><td>2.419769</td><td>1.609142</td><td>3.230397</td></tr>
+	<tr><th scope=row>96%</th><td>2.555544</td><td>1.736075</td><td>3.375013</td></tr>
+	<tr><th scope=row>97%</th><td>2.691319</td><td>1.861912</td><td>3.520725</td></tr>
+	<tr><th scope=row>98%</th><td>2.827093</td><td>1.986691</td><td>3.667495</td></tr>
+	<tr><th scope=row>99%</th><td>2.962868</td><td>2.110454</td><td>3.815281</td></tr>
+</tbody>
+</table>
+
+
+
+
+<table>
+<thead><tr><th></th><th scope=col>fit</th><th scope=col>lwr</th><th scope=col>upr</th></tr></thead>
+<tbody>
+	<tr><th scope=row>94%</th><td>2.411176</td><td>2.141713</td><td>2.680639</td></tr>
+	<tr><th scope=row>95%</th><td>2.419769</td><td>2.148742</td><td>2.690797</td></tr>
+	<tr><th scope=row>96%</th><td>2.555544</td><td>2.259118</td><td>2.851970</td></tr>
+	<tr><th scope=row>97%</th><td>2.691319</td><td>2.368434</td><td>3.014203</td></tr>
+	<tr><th scope=row>98%</th><td>2.827093</td><td>2.476930</td><td>3.177257</td></tr>
+	<tr><th scope=row>99%</th><td>2.962868</td><td>2.584783</td><td>3.340952</td></tr>
+</tbody>
+</table>
+
+
+
+As we can see the interval of the mean of the response variable is much narrower than that of the observed response variable. 
+### 3.4. Plot data points, the regression line, the predictions and its intervals (two types) and show that the interval is wider on both sides and narrow in the center.
+### *Answer:*
+I use the following code to plot the required stuff.
+
+
+```R
+plot(df$x,df$y,pch=20)
+abline(model1,col="blue")
+points(percentiles,pred_c[,1],pch=1,col="red")
+lines(percentiles,pred_c[,2],col="red",lty=2)
+lines(percentiles,pred_c[,3],col="red",lty=2)
+lines(percentiles,pred_p[,2],col="red",lty=3)
+lines(percentiles,pred_p[,3],col="red",lty=3)
+```
+
+
+
+
+### 3.5.  Making prediction at what range of values of SO2 would be considered extrapolation?  Is it OK to do extrapolation in this case?
+### *Answer:*
+Making prediction beyond the range of the observed covariates would be considered extrapolation. It's not OK to do so because we do not know the relationship outside of the range of observed data.
+
+
+
+```R
+4. Repeat the same questions (1-3) for the date set <bus.csv>. Description: Cross-sectional analysis of 24 British bus companies (1951). Use response variable = Expenses per car mile (pence), covariate = Car miles per year (1000s).
+
+```

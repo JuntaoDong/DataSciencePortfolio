@@ -10,12 +10,11 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 + [Postgres ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Postgres)
 + [Cassandra ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Cassandra)
 + [Cloud Data Warehousing Using AWS](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Warehouse)
-+ [Docker and WebServices](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project1)
++ [Restful API Deployment Using AWS and Docker](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project1)
 + [Big Data Analysis Using MapReduce / Apache Spark](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project2)
 + [Computer Vision for Sports Advertising](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/IBM%20PowerAI%20Vision)
 + Data Lake
 + Web Scraping (IBM)
-+ Web Development & API Deployment
 
 ## Hackathons
 
@@ -26,5 +25,6 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 
 + [UC-CS6065 Cloud Computing](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing)
 + [UC-CS6073 Deep Learning](https://github.com/JuntaoDong/Deep_Learning_Assignments)
++ [UC-BANA7038 Data Analysis Methods]()
 + [IBM Data Science Professional Certificate](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/IBM%20Data%20Science%20Professional%20Certificate)
 + [Udacity Data Engineer Nanodegree](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree)
