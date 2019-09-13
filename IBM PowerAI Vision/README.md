@@ -17,3 +17,13 @@ This lab helps you take a video that looks like this:
 And turn it into this:
 
 ![output](./output.gif)
+
+## Lab Environment
+
+In this lab we are using PowerAI Vision 1.1.3 to build and train a model for sports advertising object detection. We will also use Python (version 3.7) in a Jupyter Notebook to execute the sample application to build a video with the detected objects labeled inside the video. Note that we are only using the Python application to break down the video into frames, pass those frames into PowerAI for inferencing using a REST API, and then getting back a JSON document with the objects detected within the frames. There is no need for AI frameworks on your laptop in this hands-on because all of the deep learning (DL) work is being done on the PowerAI server side.
+
+You need to pull down the Docker Container from the Docker Hub. Please type the following command in prompt:
+
+```
+docker pull nrudnick/soccer_lab:base2
+```
