@@ -1,5 +1,7 @@
 # Data Science Job Salary Prediction
 
+![so](viz\stackoverflow.png)
+
 This project was to review data submitted by developers from all over the world in 2018 to the published salary survey (https://insights.stackoverflow.com/survey/2018/#overview)  on their experience and salary to see if we could determine a valid model to predict anticipated salary for an individual with a given number of years of experience and the specific skill set.
 
 We found that the survey provided much data to choose from but finding the correlations and items that directly impacted salary were much more difficult than anticipated.  The sample of data also provided challenges as much data required either exclusion or remapping.  Over 100,000 individuals submitted responses, but we narrowed the data set down to only US developers.  Our final conclusions were that we could not adequately predict salary for a given individual based upon their experience and skill set due to the lack of the geographical data.
@@ -11,6 +13,8 @@ We are using data from Stack Overflow from their 2018 survey asking the develope
 ## How many variables
 
 We will be using a subset of 12 fields from the original 129 possible variables. We only chose developers from the US. There were 184 countries represented in the original survey responses.  Our final sample has approximately 2500 respondents/responses.
+
+![feature_selection](viz\db2fs.png)
 
 ## What is the response variable
 
@@ -59,3 +63,5 @@ For Languages, Platforms and Frameworks, we broke out into separate fields the v
 + Spark
 + Hadoop
 + R
+
+![corr_hm](\viz\db2heatmap.png)

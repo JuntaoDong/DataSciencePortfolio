@@ -18,8 +18,8 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 
 ## Hackathons
 
-+ [Revolution UC 2019](https://github.com/JuntaoDong/RevolutionUC_2019)
-+ [HealthHack 2019 - School of AI](https://github.com/JuntaoDong/HealthHack2019)
++ [Revolution UC 2019 - Augmented Reality (AR) Inventory Management System](https://github.com/JuntaoDong/RevolutionUC_2019)
++ [School of AI HealthHack 2019 - Respiratory Rate Algorithms](https://github.com/JuntaoDong/HealthHack2019)
 
 ## Data Science Courses
 
@@ -28,3 +28,8 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 + [UC-BANA7038 Data Analysis Methods](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Data%20Analysis%20Methods)
 + [IBM Data Science Professional Certificate](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/IBM%20Data%20Science%20Professional%20Certificate)
 + [Udacity Data Engineer Nanodegree](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree)
+
+## Data Visualization Projects
+
++ [Cincinnati Crime Dashboard](https://public.tableau.com/profile/jtdong#!/vizhome/CincinnatiPoliceDepartmentCrimeDashboard_0/CincinnatiCrimeStatisticsDashboard)
++ [Nike Manufacturing Map](https://public.tableau.com/profile/jtdong#!/vizhome/NikeManufacturingMap_2/TheNIKEManufacturingMap)
