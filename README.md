@@ -4,6 +4,14 @@
 
 Welcome to my awesome data science project portfolio! I'm keeping uploading my latest data science projects.
 
+## M.S. Thesis Project (Ongoing)
+
+### Time Series Vector Prediction Using Vector Autoregression (VAR) and Reinforcement Learning
+
+Design and develop a trading system that automatically trades in the foreign exchange market to profit from fluctuations with Vector Autoregression (VAR) enabled reinforcement learning.
+
+This is my ongoing M.S. thesis project, sorry that I cannot post the details right now. I'll definitely share the source code and idea after graduation.
+
 ## Data Science Projects
 
 + [StackOverflow 2018 Survay Analysis](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Data%20Analysis%20Methods/Final%20project)
