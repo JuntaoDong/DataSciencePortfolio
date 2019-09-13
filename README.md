@@ -8,7 +8,7 @@ Welcome to my awesome data science project portfolio! I'm keeping uploading my l
 
 ### Time Series Vector Prediction Using Vector Autoregression (VAR) and Reinforcement Learning
 
-Design and develop a trading system that automatically trades in the foreign exchange market to profit from fluctuations with Vector Autoregression (VAR) enabled reinforcement learning.
+Design and develop a trading system that automatically trades in the foreign exchange market to profit from fluctuations with VAR enabled reinforcement learning.
 
 This is my ongoing M.S. thesis project, sorry that I cannot post the details right now. I'll definitely share the source code and idea after graduation.
 
@@ -22,7 +22,7 @@ This is my ongoing M.S. thesis project, sorry that I cannot post the details rig
 + [Big Data Analysis Using MapReduce / Apache Spark](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project2)
 + [Computer Vision for Sports Advertising](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/IBM%20PowerAI%20Vision)
 + Data Lake
-+ Web Scraping (IBM)
++ Web Scraping
 
 ## Hackathons
 
