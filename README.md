@@ -1,8 +1,12 @@
-# My Data Science Portfolio - Under construction
+# My Data Science Portfolio
 
 ![pic](https://github.com/JuntaoDong/DataSciencePortfolio/blob/master/data-science.png)
 
 Welcome to my awesome data science project portfolio! I'm keeping uploading my latest data science projects.
+
+If you can't open ipynb (Jupyter notebook) files in the repo and encounter an issue like below, please copy the url of the notebook to https://nbviewer.jupyter.org/
+
+![render_issue](.\github-notebook-issue.PNG)
 
 ## M.S. Thesis Project (Ongoing)
 
