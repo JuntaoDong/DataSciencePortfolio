@@ -66,4 +66,4 @@ For Languages, Platforms and Frameworks, we broke out into separate fields the v
 
 ![corr_hm](./viz/db2heatmap.png)
 
-Please check out the project details in the [final report pdf](https://github.com/JuntaoDong/DataSciencePortfolio/blob/master/Data%20Analysis%20Methods/Final%20project/Final%20report%20Dong%20Frankenhoff.pdf).
+**Please check out the project details in the [final report pdf](https://github.com/JuntaoDong/DataSciencePortfolio/blob/master/Data%20Analysis%20Methods/Final%20project/Final%20report%20Dong%20Frankenhoff.pdf).**
