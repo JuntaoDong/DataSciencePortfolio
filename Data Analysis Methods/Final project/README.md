@@ -1,6 +1,6 @@
 # Data Science Job Salary Prediction
 
-![so](viz\stackoverflow.png)
+![so](.\viz\stackoverflow.png)
 
 This project was to review data submitted by developers from all over the world in 2018 to the published salary survey (https://insights.stackoverflow.com/survey/2018/#overview)  on their experience and salary to see if we could determine a valid model to predict anticipated salary for an individual with a given number of years of experience and the specific skill set.
 
@@ -14,7 +14,7 @@ We are using data from Stack Overflow from their 2018 survey asking the develope
 
 We will be using a subset of 12 fields from the original 129 possible variables. We only chose developers from the US. There were 184 countries represented in the original survey responses.  Our final sample has approximately 2500 respondents/responses.
 
-![feature_selection](viz\db2fs.png)
+![feature_selection](.\viz\db2fs.png)
 
 ## What is the response variable
 
@@ -64,4 +64,6 @@ For Languages, Platforms and Frameworks, we broke out into separate fields the v
 + Hadoop
 + R
 
-![corr_hm](\viz\db2heatmap.png)
+![corr_hm](.\viz\db2heatmap.png)
+
+Please check out the project details in the [final report pdf](https://github.com/JuntaoDong/DataSciencePortfolio/blob/master/Data%20Analysis%20Methods/Final%20project/Final%20report%20Dong%20Frankenhoff.pdf).
