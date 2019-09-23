@@ -16,20 +16,19 @@ Design and develop a trading system that automatically trades in the foreign exc
 
 This is my ongoing M.S. thesis project, sorry that I cannot post the details right now. I'll definitely share the source code and idea after graduation.
 
-## Data Science Projects
+## Data Science and Engineering Projects
 
-+ [StackOverflow 2018 Survay Analysis](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Data%20Analysis%20Methods/Final%20project)
++ [Computer Vision for Sports Advertising](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/IBM%20PowerAI%20Vision)
++ [Cloud Data Warehousing Using AWS](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Warehouse)
 + [Postgres ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Postgres)
 + [Cassandra ETL](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Modeling%20with%20Cassandra)
-+ [Cloud Data Warehousing Using AWS](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Udacity%20Data%20Engineer%20Nanodegree/Project%20-%20Data%20Warehouse)
++ [StackOverflow 2018 Survay Analysis](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Data%20Analysis%20Methods/Final%20project)
 + [Restful API Deployment Using AWS and Docker](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project1)
 + [Big Data Analysis Using MapReduce / Apache Spark](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/Cloud%20Computing/Project2)
-+ [Computer Vision for Sports Advertising](https://github.com/JuntaoDong/DataSciencePortfolio/tree/master/IBM%20PowerAI%20Vision)
-+ Data Lake
-+ Web Scraping
 
 ## Hackathons
 
++ [MakeUC 2019 - Rentool: A peer-to-per tool rental website]() Coming soon......
 + [Revolution UC 2019 - Augmented Reality (AR) Inventory Management System](https://github.com/JuntaoDong/RevolutionUC_2019)
 + [School of AI HealthHack 2019 - Respiratory Rate Algorithms](https://github.com/JuntaoDong/HealthHack2019)
 
